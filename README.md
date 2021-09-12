@@ -5,11 +5,11 @@
    -  Holly Lee (jungmin3@illinois.edu)
    -  Sid Ajay (sajay2@illinois.edu)
 - Captain: Katherine Stapleton
-- Project Title: (or TBD)
+- Project Title: Road Trip Playlist
 
 ## Project Summary
 
-This is a test project just to show what we expect from you (TBD)
+The purpose of this project is to create a playlist specifically for road trips. After a user inputs their start and end location, a playlist would be generated, pulling popular songs from 3-4 of the biggest cities in their route.
 
 [Link to Project Description](https://github.com/uiuc-fa21-cs411/hello-world/blob/main/ProjectDescription.md)
 
