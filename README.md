@@ -11,7 +11,7 @@
 
 The purpose of this project is to create a playlist specifically for road trips. After a user inputs their start and end location, a playlist would be generated, pulling popular songs from 3-4 of the biggest cities in their route.
 
-[Link to Project Description](https://github.com/uiuc-fa21-cs411/hello-world/blob/main/ProjectDescription.md)
+[Link to Project Description](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/ProjectDescription.md)
 
 ## System Demo URL
 
