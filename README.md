@@ -13,6 +13,8 @@ The purpose of this project is to create a playlist specifically for road trips.
 
 [Link to Project Description](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/ProjectDescription.md)
 
+[Link to Conceptual Design](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/ConceptualDesign.md)
+
 ## System Demo URL
 
 link to your project main page (TBD)
