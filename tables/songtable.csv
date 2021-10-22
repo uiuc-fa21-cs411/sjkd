@@ -1,0 +1,2157 @@
+song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
+0,East River,Jeffrey Lewis,0,7eatI6m2W2da2pIjF9xzaF,190
+1,Flight,Rare Bird,0,7oJbYEoFt2kD7tsKYJqCtC,222
+2,New York City,ATC,0,5shT50Ko5C46NbNVSJHdTw,210
+3,New York Rain,Last Autumn's Dream,0,4c8JVCEFs6JlqvJSZdex8O,270
+4,Uptown,Joe Bataan,0,7zYkzG4BgJYnqpOWOb3tK2,308
+5,Last Night,Kid 'n Play,0,3q5fgYEHyB30CjxaLy1jbV,264
+6,Laredo,Band of Horses,170,61beXNR1qPPxjyM8x3pdRk,192
+7,Ode to Pittsburgh,Loudon Wainwright III),30,7pFYzEVKa5WYXiUZSzW50I,194
+8,There's No Surf in Cleveland,the Euclid Beach Band,29,7d8rUQISXtGAesdgkMfRB4,274
+9,Willie Jones,the Charlie Daniels Band,21,3bC10NHwY64PV7lSBmjZ13,192
+10,Harlem Shake,Baauer,0,01XFgRZfZI7oBagNf1Loml,196
+11,Houston (I'm Comin' to See You),Glen Campbell,12,6JxpwwqnYykrRr2uxTqLso,200
+12,Hyphy,The Federation,12,3nnLUys1KPa4WrJQDZAgts,271
+13,I Left My Heart in San Francisco,Tony Bennett,12,1bYItjcPRtxZs6Ir71O5RB,170
+14,Josie,John Stewart,12,05kdmWdXwTgHpK969gevDS,178
+15,San Francisco,Alkaline Trio,12,0KL9AAHQythSFxCXGkH7di,232
+16,Snow in San Anselmo,Van Morrison,12,1ZBJc7LVVfnf6phmhiBejS,276
+17,Seattle,Jon Bryant,11,1psynyQxKkDCM9Z0fyCB5L,381
+18,New York,AZ,0,5vxII6AxXbPsAJE5dAdBo9,289
+19,Harlem Sandman,Dinning Sisters,0,6HozCChWvzEROXBivdg16h,155
+20,Made In NYC,The Casualties,0,2Ue7dSUIlQR0dTpBDTo2nK,145
+21,Manhattan,Eric Johnson,0,21i2hxJAkQCWlSWejTkN0T,292
+22,Pier 17,Jagúar,0,6KG2MmTTGFatxV0o2a7N05,621
+23,The New York Girls Club,Rebecca Pidgeon,0,2JuMIzXoCFoLrMVOu3xKqj,221
+24,Hit 'Em Up,2Pac,0,0Z2J91b2iTGLVTZC4fKgxf,312
+25,Slam,Onyx,0,0W2mz7mvaBaEsC4rmoRNPn,218
+26,Tribeca,Kenny G,0,4iaqAIsPzcIITMJGrdilPB,406
+27,Seattle,Public Image Limited,11,5a5WR72xhtIyEHj3Q8RKo1,220
+28,Seattle,The Sass,11,0mlf3yOGzVnIVxjybDQL3h,213
+29,Seattle,Mark Knopfler,11,0xQguLwFZSGfGnpfaUXMNF,256
+30,Hot'lanta,38 Special,0,4or6bIly7Vv5JVoTZBp9xm,342
+31,Little Faith,The National,0,2kAu35H96f9hG3J96zfQOt,276
+32,NYC,Burial,0,1ZJyJhgJzndyIkvTrPbVAO,457
+33,One To 31,J Live,0,38wWn5PLzm6ZjEMPf66QnQ,273
+34,(On The Street) Of New York City,Harvey Scales,0,0OgmZoVl0YKzTfoMdayJDU,158
+35,(Take Me To) New York City,Lamar Thomas,0,6VfSqcrmk35x4kByxYP00y,253
+36,(We Are) New York Lightning,Voices Of East Harlem,0,5ejyqxJ0HYBBUNnYTrYNeT,174
+37,116th and Lenox,Jackie McLean,0,6HBjHaqFFpz8dIf6kDmcG8,361
+38,11:11,Rufus Wainwright,0,7Jh7ybOQABcxRGFNMuULQX,267
+39,11:35,Aesop Rock,0,0v8Maqj1SaQfUdKS4TRU61,263
+40,11th Street Kids,Hanoi Rocks,0,0ypDf4WSaOLQNjePr5JRAS,240
+41,125th Street Congress,Weather Report,0,7qJkuqvDhyD20D1JCK2Aqy,732
+42,14th Street Beat,Sylvain Sylvain,0,77ldo6YOfzP0ipASe9aY9W,192
+43,14th Street Blues,Leon Redbone,0,5QhPCsNXbayTwLydvYF4EX,173
+44,14th Street,Rufus Wainwright,0,6m7RPmtcYfM1Zhytjn3ICL,284
+45,153rd Street Theme,Larry Willis,0,0yoGZu7D3OEkADcDAR4wg1,408
+46,1train,A$AP Rocky,0,1eLU27PPFxBhbp1CBjPh9J,372
+47,2 West 46th Street,Moondog,0,4ouefBJHrPQp1HV0DFN34s,128
+48,20th December Madison Avenue,Lisa Miskovsky,0,4qcNf2wtp0NGRbWptLM7LV,335
+49,212,Azealia Banks,0,16EMONl2vH3rt9f4ehTG8g,204
+50,24 Hrs. to Live,Mase,0,02dwHTP8NS3rOaOWhg8j7V,256
+51,3-O-Clock,Marco Polo,0,4eYgeFxu7QYUBJmU08DePg,265
+52,3rd and Broadway,Brazzaville,0,2OzyTRc9dO91WVTkoSia0e,232
+53,40 Island,Noreaga,0,3CkCmpwpWhQqFZDLdU0lTS,275
+54,415 Central Park West,Steve Grossman,0,6gKtrO9pnwHn0FHfgRZjYN,328
+55,42nd Street Dub,Renegade Soundwave,0,6aGU8GCJppKwHaZ5DWfhAF,92
+56,42nd Street,Golden Earring,0,3VIeJhTqKCxKlEvolEjjmr,214
+57,42nd Street,Gunhill Road,0,6gYM1tEkWNGYJP7vTdQ1ly,189
+58,45 Minutes from Broadway,George M. Cohan,0,2P6YvSIhZ1Nb7jNhmMQ8xM,156
+59,45th Street,Dumpty Cooper Group,0,4ooHnEDSrDboeaxgQyh5rx,251
+60,52nd Street Theme,Bud Powell,0,0oDgc718NJn7CyiClFRExR,169
+61,52nd Street,Billy Joel,0,4V4JM8brxPHFkaDd4OyTii,146
+62,53rd & 3rd,The Ramones,0,1KsSlsvm2hjzB1WWkryxIj,141
+63,59 Chrystie Street,Beastie Boys,0,1gBEvCBtfABQqEjwUGoSD3,56
+64,6 'N The Mornin',Ice-T,0,2cBOh97kgDenDOdtKhwU9O,224
+65,6B Panorama,Aesop Rock,0,6SjwDmFU8wp5cEb6B54kF1,122
+66,6th Avenue Heartache,The Wallflowers,0,1qEyqHR1xsj2MC4Qy0dsaI,337
+67,6th Avenue,India.Arie,0,3CW4q8eFoRyGnnA52l5VlI,172
+68,747 (Strangers in the Night),Saxon,0,1EORu8Coheibl21VjHtbRg,298
+69,7th Avenue South,Jonathan Butler,0,79fDlHRG0mvHy8IZejn2aN,298
+70,7th Avenue,Big Rude Jake,0,1YJj3vFE2NFiMzORvXvEmD,289
+71,8 Million Stories,Kurtis Blow,0,1FLIgmB6iB4Q1yj9eWisOA,482
+72,80 Blocks From Tiffany's,Pete Rock & Camp Lo,0,3RVZBDyJlNod81aEJk3pJz,164
+73,Biggest Bordertown,Bob Neuwirth,0,2ABUMg9QisTb7Vfz4Z7UBk,278
+74,83rd & 4th,Zaine Griff,0,7l3bRIjmM1fSFJ4Xd0LFgc,200
+75,88 Christopher Street,Dirt Bike Annie,0,1975Qd9xzW3TxVpGLdaMsJ,175
+76,8th Avenue Shuffle,The Doobie Brothers,0,7t9TKKj8WrhMiNwP3yD9Yx,284
+77,93 Ave. B Blues,The Swans,0,0iOgMYVsUYTnkKUBMBQiIi,321
+78,9th Ave. Limbo,Julee Cruise,0,2QSpjjPQMp7GKSRAGTRfph,305
+79,A Broadway Musical,(from the musical A Broadway Musical),0,5jRNnH8oSlUfN6pJUvk6ju,278
+80,A Helluva Town,George Russell,0,51UFGWaxrNhTQwPpBYtT37,301
+81,A Letter to the New York Post,Public Enemy,0,5XnTUZ7g2XsyyVu8ScI26y,165
+82,A Little Somethin',LL Cool J,0,6zLzZYLJElc4vHk6N4xun4,266
+83,A Million Miles From Harlem,Mac & Katie Kissoon,0,1Exmmn7qMtJRyL4Jm7XOs9,212
+84,A New York Christmas,Rob Thomas,0,4vkIcG79OWK0h3iZRfckLa,279
+85,A Queens Story,Nas,0,5ZFe9xHarx827MT4ecHQvi,275
+86,A Scot In New York,Band Of The Black Watch,0,1nB4GQnOTH5frtd6oJHQYt,135
+87,A Trip to NYC,Sleeping States,0,08ACwYQp5MGFUkFteuyWQi,164
+88,Ain't No Greens In Harlem,The Vibrations,0,5liSDOxOIkIBazr5hKOyzr,202
+89,Alex Chilton,The Replacements,0,2g9EvzLR2sYscJQubwKGqu,194
+90,All My Friends In New York,The Destructors,0,7EjluChxWIbYEZK2pyGkep,136
+91,All The Critics Love U In New York,Prince,0,4DS9ptm14TaKZ5san3PZOr,357
+92,Aloha New York,Powersolo,0,5U0lAXBhHafswUFOAId70F,219
+93,Already Home,A Great Big World,0,2UqABRs8RMrgjkYZZ6VawW,230
+94,American Boy,Estelle feat.Kanye West,0,2O2Mp4GGIM9zzBA73zWsT1,288
+95,An Open Letter To NYC,The Beastie Boys,0,5vwudDPhjnuA1KrNsFjAHK,258
+96,Angel of Harlem,U2,0,7iBav4v8maicL8cWKGxFhQ,229
+97,Another Hundred People,Stephen Sondheim,0,0F2No59cMvdPcoZYQLUIfa,354
+98,Another Lonely Night In New York,Robin Gibb,0,2Fxb080lQzmWEOwxbcW2CW,254
+99,Another Rainy Day In New York City,Chicago,0,19PKMOoh2Rra8T50wrkq1X,181
+100,Aurélie New York City,Gerard Lenorman,0,2Vz2rD72ASapcNVnM5k6Wu,188
+101,Auto Theft In New York City,Ism,0,4iSssJdsBme7NT4jGur1NU,166
+102,Avenue A,The Dictators,0,5qgTgqPE73JndSns5QhN92,227
+103,Avenue B,Gogol Bordello,0,6sv27nGWJMpnY8aAdM9Wof,187
+104,Avenue B,Iggy Pop,0,69KbGS9OVFmCxeR3hEZj1h,321
+105,Avenue Z,Faith And Fire,0,2GdlMMoM4P69Ay6R0oJ83d,282
+106,B-Boy Bouillabaisse,Beastie Boys,0,76ljCVu9QbuttT9xDTHfjj,141
+107,B.K. Anthem,Foxy Brown,0,3liGFAshsmzJZW17h9Kebe,259
+108,Babes On Broadway,Artful Dodger,0,3mfvwZBUzWx5qz3i8TRALQ,199
+109,Back Home To Harlem,Rosewood Thieves,0,0PSuvJ3RrfgQUWECPWcFVW,159
+110,Back In N.Y.C.,Genesis,0,6cOY9RoMaakpIlWrqHgwgp,339
+111,Back to Manhattan,Norah Jones,0,2Phq7kFebjWp2Gi5ungSWF,247
+112,Back When I Was Four,Jeffrey Lewis,0,0S4d4vdLZHId4ct2fgk0JR,283
+113,Bad Boy,Holy Modal Rounders,0,72j2JCZGCAbBkar34HQNUB,221
+114,Ballad of the Lower East Side,Michael Monroe,0,6hOAbldaYrnNmvpvtalTjs,196
+115,Baltimore Is The New Brooklyn,JC Brooks & the Uptown Sound,0,4tOsPetqjO4nUx7HyXb3Vo,245
+116,Bassline,Mantronix,0,4iuO0dinw5Bm18pXbZok8w,326
+117,Bedstuy Parade & Funeral March,Mos Def,0,01da6Nb55VXzvS14CzbLjY,272
+118,Bells Of New York City,Josh Groban,0,2dPH8BpFW1BlKzlE5XmFBV,229
+119,Beneath Your Beautiful,Emeli Sande,0,2EcsgXlxz99UMDSPg5T8RF,271
+120,Bensonhurst Blues,Oscar Benton,0,2CqMG89BE6Qy1MXgkJVDPg,233
+121,Bicton V's Brooklyn,Dave Warner,0,32dZk5UqTIESzTDr0gyfE8,244
+122,Big Apple Boogaloo,Brooklyn Funk Essentials,0,1jqjLr80EJt9sGvW3bBsN8,247
+123,Big Apple Dreamin',Alice Cooper,0,6003800WpzyePDBJHEhJ0H,310
+124,Big Apple Rock,Black Ivory,0,13tmpoRRMxBahDwG252Mc7,614
+125,Big Apple,Kajagoogoo,0,5GdmKwHrXRfGT40ZGs0W5R,249
+126,Big Apple,Molly Hatchet,0,21yBJIccH2SVrshsxrrmQ8,181
+127,Big Bad Rap!,Age Of Chance,0,0Cn7M9B82YHHaMMpV28wRr,276
+128,Big City,Dead Boys,0,2pwRLENa9flJBLtKwvZANg,183
+129,Big Man On Mulberry Street,Billy Joel,0,42txBt16juHbc0OV1TcWQS,327
+130,Big Town,OMD,0,6YrqS8PKBAglXrxdSSg673,259
+131,Big Yellow Taxi,Blue System,0,51BIiXPOjv87Pdwtb90AL6,200
+132,Birdland,Weather Report,0,19vVghIuHm3IAfN4xpRF3q,356
+133,Black Jesus † Amen Fashion,Lady Gaga,0,3u8L4te13sTuqyHNR7j2rB,216
+134,Bleecker & MacDougal,Fred Neil,0,3xa8iDexIelqRCwvXJtr1Z,134
+135,Bleecker Street,Simon & Garfunkel,0,4c0ecVwn17owdwpIBL07wC,163
+136,Blue Belles O' Harlem,Duke Ellington,0,2YKujJprCCaE2rH6vI4lXS,369
+137,Blue Moon Over Brooklyn,Peter Criss,0,50dvb2pRDUqa3tq4c37SVd,325
+138,Blues For 52nd Street,Archie Shepp & Mal Waldron,0,4W8MkbHvrQPPsGZ5fxjGip,325
+139,Bob Dylan's 115th Dream,Bob Dylan,0,5ka7NFOlZUpVLJmA2tO0o4,389
+140,Body of an American,The Pogues,0,6YaiRxNzp5mZFR3orTq2Pb,283
+141,Boogie Down Bronx,Man Parrish,0,2CbgPrMwa0UWUdppsOIoTR,318
+142,Bowery Avenue,Tim Rose,0,2CvKS1mBfDAu7rAjuQcoLe,255
+143,Bowery Blues,Lydia Lunch,0,3v6bLWxnw2wnSgiUkm3jn1,115
+144,Bowery,Local Natives,0,204bkAaMO1MDYUVSovGjO3,277
+145,Bowery,Smog,0,2d0SWsSyNhXXYzU7mg80YQ,203
+146,Breakfast At Tiffany's,Henry Mancini,0,3Gtv7xHJ6Kpk1AcmDQqFJs,168
+147,Breakfast In Central Park,Dilana Smith,0,7JHyd1q4L4EToOUhe42K5Z,303
+148,Breakfast In NYC,Oppenheimer,0,0iJkc06uGCcVBVHsQxo37U,143
+149,Breakin' Up,Rilo Kiley,0,01Q8bAneKdVSjgTcRo9uCO,217
+150,Bridge & Tunnel,The Honorary Title,0,1FfSzgcC3t6PG64vxgcrtw,234
+151,Bright Lights Bigger City,Cee Lo Green,0,2zT5npcA5n2RhhnBiWg3zo,218
+152,Bright Lights,Matchbox Twenty,0,4dZhQj20JbKlD9oR0X8kjZ,234
+153,Brill Bruisers,New Pornographers,0,2zNywjohsMeMUv1L5LEIDt,176
+154,Brill Building,Sic Alps,0,7JIcbJ7CPhDc2PPq7Gal03,166
+155,Bristol Hotel,LL Cool J,0,49nbUXiykBufYU09bIsp9y,162
+156,Broadway (So Many People),Low,0,6Fkwqo2wis8VPgv8Ct2saj,434
+157,Broadway At Basin Street,Cannonball Adderley,0,3Peyoe6CLTN2vRAfPWXa4t,230
+158,Broadway Baby,Stephen Sondheim,0,1rfd2W663nqDId0nmOzz2J,184
+159,Broadway Blues,Ornette Coleman,0,0z9VxMGBFFkvyGzza3botO,259
+160,Broadway Boogie Woogie,David Chesky,0,5zlHFtNsx9YNy7s4pykAbz,132
+161,Broadway Boogie,Memphis Blues,0,2Qlof87Zd9dZOt3KelCTpm,185
+162,Broadway Bride,Grant McLennan,0,6rdeEC316RjhMxiNpD82fk,222
+163,Broadway Combination,Dyke And The Blazers,0,6tdkPyB2ug91EVfQZ1CYwj,206
+164,Broadway Freeze,Harvey Scales,0,1B2mTiE4GKhgcW2u0UL79s,177
+165,Broadway Gypsy Lady,Linda Clifford,0,3EZkUIUZoY1gz1By8Hnpmn,224
+166,Broadway Hotel,Al Stewart,0,2GNHg2ZkmkR7vg00U70e4b,239
+167,Broadway Is A Tame Street,Chad Mitchell,0,44NTpq3mCVdVSaNrRoDdwt,139
+168,Broadway Melody of 1974,Genesis,0,7GawqFoW7WxKUql62396v4,131
+169,Broadway On Fire,Buster Brown,0,7pTi2QB2RnFReC7nd8rK4y,137
+170,Broadway Rag,Scott Joplin,0,2SYKg6iCQX90E74SwfvNBo,180
+171,Broadway Rhythm,Kid Creole & The Coconuts,0,1GTs8XpL2OVYYGnp0JPVZD,168
+172,Broadway Rundown,RMS,0,2tvubfCOeJdJHGSuUhgdo6,371
+173,Broadway Show,Beggar,0,2WI300KMVWKutWDJfcVUIh,197
+174,Broadway Star,Barrabás,0,2j6eWx7FsvrEQu6tnByQ3P,241
+175,Broadway Walk,Bobby Womack,0,5qGHMS23dfdxnD88zQZlgC,127
+176,Broadway,Alison Krauss,0,2htjW1POVAwoSAXmnV0LXU,237
+177,Broadway,Count Basie,0,6KFNBr9t1zD10tW7n07von,213
+178,Broadway,Freddie Cannon,0,5XC30Mdrx0rfwT1uCkTN1L,115
+179,Broadway,Ian Hunter,0,3CnzNFLzFSXIZHHGOgLjzJ,226
+180,Broadway,Jennifer Damiano,0,1ZBksmlgG0Z2AWRjXT63Mn,194
+181,Broadway,Jim Diamond,0,4E81RYyzfbZCsJLIFao7JT,140
+182,Broadway,Jimmy McGriff,0,4YnzCjgU37LxM4nC731NRc,343
+183,Broadway,Kool & the Gang,0,1M4rb1VdBWC87i2YvHTA5H,222
+184,Broadway,Lee Konitz,0,3q4tWKLk06ZNUA2Ro1EMI8,177
+185,Broadway,Mel Torme,0,4w2NCAc4vZeGOibdTBdNj3,163
+186,Broadway,Old 97s,0,38geJDStvCThxynUDoixjU,202
+187,Broadway,The Clash,0,6olW9Q4qX8ztoSYLr3UXUp,350
+188,Broadway,the Goo Goo Dolls,0,0RZuCBV900eNA2FXCQ3uUM,238
+189,Broadway,Tiffany,0,132HBCkx9oSjjkJjrBg9ki,348
+190,"Broadway, Broadway",(from the musical A Broadway Musical),0,5jRNnH8oSlUfN6pJUvk6ju,278
+191,Bronx Blues,Stan Getz & The Oscar Peterson Trio,0,06hJpG7EPpkKJN3L7Haq3J,330
+192,Bronx Keeps Creating It,Fat Joe,0,7uZDTsoqqkY4IdOnOgad6t,208
+193,Bronx Tale,Fat Joe,0,4tWo3CdtNt2vd0PK06WdZY,235
+194,"Brooklyn (If You See Something, Say Something)",Taking Back Sunday,0,0RfxmNe7jpFUgXJ7cQF6XR,271
+195,Brooklyn (In The Heart Of),3 The Hard Way,0,0xhmw0KlpWxY0NwKKcWcDn,449
+196,Brooklyn (Original Old School),3 The Hard Way,0,6UPXOhnf6dWbEsUdrX76sF,383
+197,Brooklyn and Jamaica,Morgan Heritage,0,1HhdA6wSGdWcfMTzokZeWL,229
+198,Brooklyn Babe,Dee Dee King,0,22JQi0NsDNWqkBOzOG4wkR,210
+199,Brooklyn Baby,Lana Del Rey,0,1NZs6n6hl8UuMaX0UC0YTz,351
+200,Brooklyn Battles,Masta Ace,0,4Tvy6LSMqdpddYu0xz7qFB,233
+201,Brooklyn Blue,Big Rude Jake,0,38jLhkB2m2ujPGgDuuRi4R,191
+202,Brooklyn Blues,Barry Manilow,0,3djOCUuuWEoGPgwcoLiyZC,309
+203,Brooklyn Boogie,Louis Prima,0,3obdF3Ne2qOBBC5UPhZ2g4,178
+204,Brooklyn Bound,The Black Keys,0,4xl7wxLa1QsWqPCKyXBlQW,191
+205,Brooklyn Bridge,Bobby Bare,0,49SQvvPv3vVpBzroNr4xys,145
+206,Brooklyn Bridge,Casey Neill,0,5QePBt8Zo7T9DuGdkaLUeg,219
+207,Brooklyn Bridge,Darren Hanlon,0,1qo3mrXGwIkWbYySaJmD6O,316
+208,Brooklyn Bridge,Lee DeWyze,0,1Tj3Co3tZSR88hv9q0znGN,225
+209,Brooklyn Bridge,M-Phazes,0,1KQhfY3cHQl1ybPCsP5B6n,278
+210,Brooklyn By The Sea,Mort Shuman,0,1DFBALO88M8FIcOKRZlizm,275
+211,Brooklyn Dodgers,I Am The Avalanche,0,1ATlczRAa5kciPv152tNUF,185
+212,Brooklyn Dodgers,Xiu Xiu,0,6j0ed3bAwIUANcdqSb8zdI,231
+213,Brooklyn Girls,Black 47,0,3W7kBDdYCxoC4Ez9diBbZw,254
+214,Brooklyn Girls,Charles Hamilton,0,7EY4Lim0kVHB0yyJJvco8D,273
+215,Brooklyn Girls,Robbie Dupree,0,2yzzxCBnrIq9etWnMsJi27,205
+216,Brooklyn Heights Boogie,Bob James,0,6ulcHFOWRF4pY6Zphdt9I0,233
+217,Brooklyn In Da House,Funkerman,0,3Fm4iKLtZVZ4X19F5Jbikx,339
+218,Brooklyn In July,Joe Crookston,0,44vpAKgaCQda17YssEMQ2j,327
+219,Brooklyn Is Burning,Head Automatica,0,0pufN3jW0d6cQK9R9wtiKo,234
+220,Brooklyn King,Masta Killa,0,4lsu5Z4gNeM2emG5Vf2uHW,159
+221,Brooklyn Miracle,Mike Heron,0,3TRJsQ8j5wQhj9gsHJchFJ,321
+222,Brooklyn Movements,Da Bush Babees,0,7mKSr9j6XeRpLP3No7kPfb,243
+223,Brooklyn On A Saturday Night,Neil Diamond,0,3TdU4tHuiKVq716XQevQcb,221
+224,Brooklyn On My Mind,The Blam,0,7omnvliBjRNX0nGJTxitNq,143
+225,Brooklyn Queens,3rd Bass,0,2mNGQ9uJH4VqCSrCPS2hBw,217
+226,Brooklyn Recycles,Brooklyn Funk Essentials,0,5DAEowMEmzqko8kYMsTqob,324
+227,Brooklyn Roads,Neil Diamond,0,41i0yDGjtlXKOJQPdBu2Jy,220
+228,Brooklyn Slide,Los Straitjackets,0,0YJ8oHche3u5Fbogm6mCCn,196
+229,Brooklyn Stars,Matt Pond PA,0,63JDuqZw2jXfYQyDdHwdGE,229
+230,Brooklyn Steakhouse,Bumblefoot,0,2bbwAmLutFWCGOevxEL5tB,242
+231,Brooklyn To T-Neck,Das EFX,0,4R49vyyOJhf4QULunsAhzU,243
+232,Brooklyn Took It,Jeru The Damaja,0,2F8I7MsqHj583E3pFa2Fx9,203
+233,Brooklyn Uncompromised,Jeff Berlin,0,7f2odzPuyNNXKkOhBTbrNa,348
+234,Brooklyn Zoo,Ol' Dirty Bastard,0,2FWmKZ3kNbVsKGhuNHsltW,217
+235,Brooklyn,Buckcherry,0,5Tv5sVWoB1oQL2PbNvXoq5,241
+236,Brooklyn,Carrie Rodriguez,0,0k39lU2lHS91VAa2PQbCDn,187
+237,Brooklyn,Cashmere,0,6J1CX2FjxU4nAkd14Pwd2B,162
+238,Brooklyn,Jesse Malin,0,2xEzRu9qCdw3eYxsCqAWW8,273
+239,Brooklyn,John Henry Sheridan,0,2fKjGbA7r1Frneaq1Nzn54,289
+240,Brooklyn,M.O.P.,0,7mxjXTyY8FVcVXBJLIl3pN,243
+241,Brooklyn,MC Lyte,0,1bzGzVJkRmhKdxQt1g9u5n,142
+242,Brooklyn,Mos Def,0,4TIaZQlv6wM07hTc3uHSVV,309
+243,Brooklyn,Natalia Zukerman,0,2MxmdWt25jAtKFVPwxIM2R,198
+244,Brooklyn,Steely Dan,0,5w6AGoRTmtlLK89lhrupBR,259
+245,Brooklyn,They Might Be Giants,0,0E9L98lkItMbw3yrllecHM,62
+246,Brooklyn,We're About 9,0,7ovmjI9yz5YxB9NmmKvhXK,157
+247,Brooklyn,Woodkid,0,6pJGFvFcsJPOg835pNYxyJ,210
+248,Brooklyn,Yasiin Bey,0,4TIaZQlv6wM07hTc3uHSVV,309
+249,Brooklyn,Youngblood Brass Band,0,7aNwURnV4t19bPQM4mvpLY,425
+250,Brooklyn's On Fire,Nicole Atkins,0,1kcCzN1P4lvEhh7m2qk45g,221
+251,Brooklyn's The Borough,Tony Touch,0,5snBqiAyrVoQUoT9aJ2U54,140
+252,Bucktown,Smif-N-Wessun,0,5fyRqeycMofUoGmDis5Gu6,237
+253,Bulletproof Weeks,Matt Nathanson,0,4ytcnBQOoAHtHiIQ4zXPWe,241
+254,Bulls In Brooklyn,The Academy Is...,0,10nNkqpddkR0VUvOLWGqAc,207
+255,Bully of New York,Ana Egge,0,4PKN3kI9xMVPdB2IylxeWm,204
+256,Bushwick Blues,Delta Spirit,0,0xV0YnO4o2D6vsj4OrFuxY,220
+257,C.R.E.A.M.,Wu-Tang Clan,0,119c93MHjrDLJTApCVGpvx,252
+258,Cab,Train,0,3tUKDoU4xjdZiXbiUiRnUw,143
+259,Cabbies on Crack,Ramones,0,4OX5sFiOrGz1kSgI0tl3sf,179
+260,Cafe Regio's,Isaac Hayes,0,38TjGLRAXPOcrQZzBATY6O,369
+261,Cali to New York,The Black Eyed Peas,0,7zRjHhdMEVyEOgSUgptmsE,287
+262,Calling Out Names,Kurupt,0,4WvWg9Wzeknes6hSu0tGL1,236
+263,Can't Explain (42nd Street Happenstance),Jill Scott,0,4emn95gx9O3BIGelWdv5tC,279
+264,Canal Street,Love as Laughter,0,2xhBPV0k4IQHKNXvu7saUL,267
+265,Captain Jack,Billy Joel,0,3igkLltDaiFiMl83IdDBfm,437
+266,Carmine Vattelly (N.Y.N.Y.C.),Celibate Rifles,0,7BDf81UGP3SlP8ZZNM6ncD,106
+267,Carnegie Blues,Duke Ellington,0,4tevx4vVPD6hVYWHY95L8t,184
+268,Carnival in Harlem,Tito Puente,0,2dz85Fy77y8HVtJPhAd5NV,205
+269,Carnival,Natalie Merchant,0,4QXhRjZacZ1gZUeL7Ukktw,361
+270,Cell Phones Ringing (In The Pockets Of The Dead),Willie Nile,0,4fRmA3rPDZEztsnf1750UR,314
+271,Central Park 'n' West,Ian Hunter,0,3rr0bA6c8XXWH2mj4JOqqa,240
+272,Central Park Arrest,Thunderthighs,0,1MlotkKkgmpSihATp5nTgI,228
+273,Central Park Blues,Nina Simone,0,3sr2dMJ6PR4TTRb0NJcuhh,414
+274,Central Park New York,The Wiggles,0,5GceilYxhvHYHfanh6DNPO,90
+275,Central Park West,John Coltrane,0,3m0pro98is58H4UJfDo7ZE,251
+276,Central Park,Chick Corea,0,5DBbXdgB56EIi0y7Mx4us2,321
+277,Central Park,Les Dudek,0,3rWDDWLkudWFrukrrjxZyP,318
+278,Central Park,Maynard Ferguson,0,30GFCE0eppYenFudaEPJQS,293
+279,Central Park,Mr Hudson,0,2cxe4BEbIaP5zGX8KMEYRr,171
+280,Central Park,Newban,0,2FxjqIwH1IpZgrx2LmbJAN,269
+281,Central Park,Nina Simone,0,3sr2dMJ6PR4TTRb0NJcuhh,414
+282,Central Park,Paul Hardcastle,0,15cbHOIwpkzkqiLvgI7liW,240
+283,Central Park,Pete Miser,0,4i9iXYHZXfjxNbqFb8GfcX,210
+284,Central Park,Universe City,0,3kRZDZgUGfZtsKuw0cUqn3,121
+285,Chanteur de jazz,Michel Sardou,0,73rdSdXmVo02WBgUMIvh9L,281
+286,Charanga pa Nueva York,Tito Puente Jr.,0,5qSRhJKSPzrcl09nYDBMWS,224
+287,Chasing the Sun,Sara Bareilles,0,6lzlRAp5VqLLF78PwnfHjq,268
+288,Chattanooga Choo Choo,Glenn Miller,0,7a5VuzvBrtbqYT7kNlQlFd,206
+289,Chelsea Avenue,Patti Scialfa,0,2SZBamyaM7AFPBc0sG9VUF,295
+290,Chelsea Girls,Nico,0,6LQ3yf5WVLOCmtiYWewfWZ,442
+291,Chelsea Girls,Spirit,0,58jFLgFcO6Ezd8W4pJyTsp,207
+292,Chelsea Hotel Nights,Ryan Adams,0,45EnbdDSEyfNd4xbGSLaBM,310
+293,Chelsea Hotel No 2,Leonard Cohen,0,7nlbvD4fO9D3aocMGkiYxq,225
+294,Chelsea Hotel,Dan Bern,0,4tHUvwYTzp7aKxtCFFY1Km,296
+295,Chelsea Hotel,The Destructors,0,0I2asmiI4Qn88qWhq6wceW,144
+296,Chelsea Morning,Joni Mitchell,0,5G0q5jtbxFCoqfbIDCIGky,151
+297,Chelsea,Counting Crows,0,3zCjtwnZFgVQhzd9edphzF,375
+298,Chelsea,The Stiffs,0,1WDslRIfB9yZciLoTREFG4,140
+299,"Chicago, New York",The Aislers Set,0,1z9qvZfQZAAZwdPjDMZwPo,141
+300,Chill out,Black Uhuru,0,5n8rytNJZKdyHYrqBixk3y,296
+301,Chinatown,Eric Andersen,0,2EWNXt87RLZSxhb1gx8f0O,402
+302,"Chinatown, My Chinatown",Al Jolson,0,1D7h6yQbUzuxxgdkexdFxf,135
+303,Christmas in Hollis,Run-D.M.C.,0,2D2QOKefbdqOGJKAUpgAtA,178
+304,Christmas in New York,Loa Falkman,0,5Ys9AClhAJnqATOgBf4PHZ,167
+305,Christmas in New York,Lou Christie,0,6tWJVBu3r1FNDeoVaA6J7u,174
+306,Christmas in Washington Square,Wayne Newton,0,5OAEndW0iAOoS1atiPyoXd,181
+307,Christmas on Riverside Drive,Kid Creole,0,66bgh0gH06ITB5aFdM12WU,305
+308,City Lights,The Flamin' Groovies,0,6Wo7dscOR93BPWqZJT7puw,264
+309,City Love,John Mayer,0,5O3fUsQQBFxW8SH1kHthDH,240
+310,I'm Real,James Brown,0,6DzXw0IEY1ErHfiVagW33j,334
+311,City of Blinding Lights,U2[1],0,6OSovJ8w191AEOZ5fCqL0o,365
+312,City of Immigrants,Steve Earle,0,5hjwQvz9UNxfeiEulAS6FW,258
+313,City of the Dead,The Clash,0,744eHv8kvVhIYc4le3NEvt,167
+314,Citysong,Luscious Jackson,0,7x6pL1xqLD6vBwDRhzEfYB,261
+315,Clinton St. Girl,Wakey Wakey,0,5c9qeyoEgS3k4n0ZLvDQse,191
+316,Cobwebs,Ryan Adams,0,0ESE87656QFxh0GK1NVg6W,236
+317,Cold Again,Freedy Johnston,0,7dXByiSdR2DdP775FvjInN,157
+318,Cold Hands from New York,Gordon Lightfoot,0,1vWwK1GTegqOsgxIKBYzOO,318
+319,Collect to NYC,Heatmiser,0,5tDjzPHHJcfjBwqDYBUXCy,175
+320,Come Down Sister,The Throbs,0,31Eino4YwuoQlORmBExbdK,244
+321,Come to New York,Paramount Styles,0,4rVPKI9gjkL7AVjcY39Brn,226
+322,Coming on the Hudson,Thelonious Monk Quartet,0,33F0BdK1vxjt2y6Sqtaoxd,324
+323,Coney Island Baby,Lou Reed,0,0ivHDucXMbjTjiU4lMIkBO,395
+324,Coney Island Baby,The Excellents,0,4bHbFiX0JA7rrHVZd423BB,131
+325,Coney Island Baby,Tom Waits,0,6yO8MQCgYjdXoZLpoNgwos,242
+326,Coney Island Cyclone,Mercury Rev,0,2fYZT5fsni7SGsgG9bQJ74,154
+327,Coney Island Dreaming,Clint Mansell,0,0csfb2CwIirLvt3t9QEQ39,64
+328,Coney Island Girl,Fun Lovin' Criminals,0,25ASkS4Hx8RrtyqrDScez3,187
+329,Coney Island Low,Clint Mansell,0,4opHKvbt5eB76fTzSjIRcl,133
+330,Coney Island Man,Swing Out Sister,0,1UKLVf5vV0GRFFpk7tVpr8,222
+331,Coney Island Of Your Mind,The Wisdom Of Harry,0,7ptM0vsP0Nu7Auu7pELgwY,273
+332,Coney Island Rag,David Chesky,0,3KezB1iIkjekjpvnA1kEOn,196
+333,Coney Island Sally,Fifth Estate,0,18DTGBA06sB0tZAxvqc5iD,147
+334,Coney Island Whitefish,Joan Jett & The Blackhearts,0,0BjVVAsW5HLDUiHaPOZJ0a,216
+335,Coney Island,Antje Duvekot,0,0b5F3l6X3XjSGcFs1PDHs4,236
+336,Coney Island,Death Cab for Cutie,0,3YWCiC8PjoxeC1AKEB0xkf,181
+337,Coney Island,Good Old War,0,5jnekVPgf12EsKtBX3JPTW,163
+338,Coney Island,Herb Alpert & The Tijuana Brass,0,4dQqcehiYVM10h17gc5Hnp,134
+339,Coney Island,Mel Tormé,0,0kjeJ2okvS2mAm74lfGWFC,165
+340,Coney Island,Mikael Rickfors,0,5i0Ci9gWGnRp5VD6M0mDAJ,220
+341,Coney Island,Mike Errico,0,6PMo70Rjkre8urZuusgFlG,138
+342,Coney Island,Van Morrison,0,5JhvJM164OomPRkQq9eO5t,123
+343,Continental American,Peter Allen,0,1hbE1Zc95ACMUUoQQJJ4v0,212
+344,Copacabana (At the Copa),Barry Manilow,0,5FMXrphygZ4z3gVDHGWxgl,236
+345,Cotton Club Stomp,Duke Ellington,0,02ayxdQSSQRIWBLWuZwi4u,166
+346,Country Boy & Bleeker Street,HP Lovecraft,0,7gM1ZpPYf0bmBufMcOTQmD,226
+347,Country Boy Can Survive,Hank Williams Jr,0,77dcKrzRUI02XjHd2okARp,255
+348,Country Living,the Stylistics,0,4oBpOW2HPas8nqWOoTCutH,175
+349,Covered in Rain,John Mayer,0,74O2ijHJxPd6FJMgL6A4aq,625
+350,Cradle and All,Ani Difranco,0,5Y7dKrLuMZADSbq7BjhtwO,257
+351,Crime Saga,Shabazz the Disciple,0,4Bcrn7v4spruMaUpUxwfwB,268
+352,Cuckoo Cocoon,Genesis,0,7tN2IV0WjRFVgi9ybajwYQ,132
+353,Daddy Don't Live in that New York City No More,Steely Dan,0,37oRZIexeWiMQ9sMDvaA48,194
+354,"Damn, Sam (I Love a Woman That Rains)",Ryan Adams,0,07A4I35sBKxJ43iPZmWMqZ,128
+355,Dance Yourself Dizzy,Liquid Gold,0,1PuUboooNpZFmtsCJRF4sn,252
+356,Danger Zone,Big L,0,0kU9oWqYnPeqEca3x2auV9,216
+357,Danke Schoen,Wayne Newton,0,3H8Sn0mYsZMPPlMCbebOJ5,155
+358,Date with Baby,Brooklyn Funk Essentials,0,4Si7lBiAf4j98af7wlXN13,309
+359,Daughters of the Soho Riots,The National,0,2LrR7LR3weKEcmpMXAiA6Y,238
+360,Daylight,Matt and Kim,0,57i3M29DWoo7RDk0Tf0LZG,171
+361,Days In New York,Pearly Gates,0,4Zk72MYXUvdc4Bz6Kfk7mO,201
+362,Debbie Loves Joey,Helen Love,0,22Kwrdj3rLOhhe8BdDcwqA,174
+363,Deee-Lite Theme,Deee-Lite,0,6pvn3Wy1iFcuYCftMumF6P,129
+364,Definitely,Big Daddy Kane,0,1HpVplnYY7pKnsPyWWcnTx,217
+365,Deja Vu (Uptown Baby),Lord Tariq and Peter Gunz,0,36VpYFWbMit0rU8hsSkcf8,192
+366,Delancey Street,Dana Dane,0,2F9KPNj2Ei6Xfb77cZjXUa,325
+367,Desolation Row,Bob Dylan,0,4n1ZGm3TxYmoYe1YR8cMus,681
+368,Destination Greenpoint,The Fleshtones,0,1cIcNyM7NtXyVmVF2eRnWw,119
+369,Detachable Penis,King Missile,0,7wXPymdFwPwxd6pwt267Tx,203
+370,Diamonds & Rust,Joan Baez,0,4O0sGJdqpHMaWz7KoVd7tb,286
+371,Diet Mountain Dew,Lana Del Rey,0,4O9dZs2B0ilk4PEfX2bPEv,222
+372,Dirty Apple,Johnny Hammond,0,0qvxCF9Mf3pChS9xz2Z6Zm,300
+373,Disco Stomp,Hamilton Bohannon,0,3mUkLWIadGyGfhMx4MRfB6,315
+374,Dixie on My Mind,Hank Williams Jr.,0,7HdSVjZimbY8w0DX8aHLMv,156
+375,Do Like You Do in New York,Boz Scaggs,0,7aH5FmTz8MlNj9D5tXiEC5,224
+376,Do You Feel It,Joe Cuba,0,35ootwCWYWgXGZvMEHD5Yo,251
+377,Do You Miss New York?,Dave Frishberg,0,7AsS1N6MCa0S9CiC2E3SSP,248
+378,Dodgers Were In Brooklyn,The Great Divide,0,4CrSIoZ9BdTNJSDDabro6L,220
+379,Does This Bus Stop at 82nd Street?,Bruce Springsteen,0,5GttWUZxYgLsWNdCMfisR0,124
+380,Doin It,LL Cool J,0,4WMBl2wiGUSGa5C7tfQEAo,293
+381,Don't Be Upset,Jeffrey Lewis,0,7BbZyJg0HvWmIYDx8NLy1c,172
+382,Don't Leave Me (Ne Me Quitte Pas),Regina Spektor,0,7til9cDK5rExLomnvyUhS3,217
+383,Doo Doo Doo Doo Doo (Heartbreaker),The Rolling Stones,0,0f7VY69zhtS20Xm5PVYCm5,206
+384,Doo Wop In Harlem,Prefab Sprout,0,3w32xY0J1ES8QKT8ddfteM,223
+385,Down And Out In New York City,James Brown,0,0jOnm3CL79MflZQSZiimpg,283
+386,Down in the Depths (on the Ninetieth Floor),Cole Porter,0,5Z6dMELpnVijZcyEnCB6th,288
+387,Down In The Village,Curtis Knight,0,6DsiFn1yogKqA9md9xJjO0,194
+388,Down The Gowanus,Steve Suffet,0,1OudoJTHItg7geiqkkpAqD,152
+389,Downtown Dirt,Lou Reed,0,3N304bb7slt1RZhTF1ehRM,257
+390,Downtown Train,Tom Waits,0,3fPqUl4lPDUQmY0T7dKUv2,230
+391,Dream Like New York,Tyrone Wells,0,3PgK9vZzZdWOBhl7zYjwIq,223
+392,Drones over Brooklyn,El-P,0,3ZKRx2kiIW62oGHNLuysKk,392
+393,Dropping Some NYC,Blues Traveler,0,3c4UonlBEjG6yGNRsxG90p,200
+394,E.T.A. N.Y.C.,Mark Springer,0,7m3F18SnS2sLl5pso1sOO0,1078
+395,"Earth, Wind And Fire",Big Daddy Kane,0,4GEkgwLQle80DoiqKxT6NS,266
+396,East 34th Street,Peter King,0,1K905I4N1kY0wvJdFnUiy0,560
+397,East 70th Street,Emil Viklický,0,0F7HsZe7f7m3YYWZXCIgK3,549
+398,East 9th Street,Andrew Hill,0,4TS1O6M5QIXj7XB5UxbJnp,704
+399,East Harlem,Beirut,0,4i6O75iAptEnENjKLOLZ9Y,238
+400,East MC's (Made In Brooklyn),Masta Killa!,0,209PI93oQgAp60E9DYbAnT,300
+401,East River Blue,Spyro Gyra,0,0M7ZYwNY9X3T0zRDGZoEjr,374
+402,East River Drive,Grover Washington Jr,0,7AWqLC5PXdy59uP2KZxNim,284
+403,East River Drive,Stanley Clarke,0,4Ws4XYaAstAyjPi7SHt90u,467
+404,East River,Brecker Brothers,0,0lk0jabcrQoK0LOrSRj2z3,215
+405,East Side Beat,The Toasters,0,0iiKVXvMTQzBDkrUxhngIU,226
+406,East Side Down,Mod Fun,0,6rOPUyfr228xPlGwjrSJWb,145
+407,East Side Strut,Deodato,0,5qvwV8GDJTBBxkASuWpCZP,335
+408,Echoes of Harlem,Duke Ellington,0,2ZGkLLcPmDP2DSAk4fOkVQ,179
+409,Egg Cream,Lou Reed,0,2nPAHBSS6bS9WajUJZ8QsA,317
+410,Eighth Avenue,Hospitality,0,7y3Uyl7fP5qRRn3H1D4OuP,233
+411,Eine Nacht In New York City,Howard Carpendale,0,3crZ71581VwX67UdvF1YD9,232
+412,El Numero Seis,Ruben Blades,0,0AjlTi91CVnXv6wGQ5UM4k,724
+413,Eleanor Put Your Boots On,Franz Ferdinand,0,24AFErHUiORpll04wrR6u4,169
+414,Ellis Island Blues,Boo Hewerdine,0,7FbrKRpdCFG5BQV6mKebbK,238
+415,Ellis Island,Brian Auger,0,64U5ijau7M3JIg2ICisgMG,250
+416,Ellis Island,Marc Cohn,0,6uAo6iPcUqzMrVnGquYm2X,312
+417,Ellis Island,Mary Black,0,7d0peI6SB3ySMJeWWfCk2u,326
+418,200 More Miles,Cowboy Junkies,67,4JNpq7GnALN0YpkASCGkzo,329
+419,Little Rock,Collin Raye,99,4pM3FHdiulPKpx5g4GIZg6,237
+420,18th Avenue (Kansas City Nightmare),Cat Stevens,33,3csz2AsrqHwPRsFulsVfwx,261
+421,200 More Miles,Cowboy Junkies,181,4JNpq7GnALN0YpkASCGkzo,329
+422,24 Hours From Tulsa,Gene Pitney,67,5daJNHhXBesrifRSNrHb7k,179
+423,31 (For Pittsburgh I Am Bound),Ceann),30,3rZ0i0fHYidolFMH2rxvsa,249
+424,40 Miles from Denver,Yonder Mountain String Band,17,66rH0YhjRwi2JUhjRKWqoT,226
+425,Abilene,George Hamilton IV,357,5bA26v8eeZrbHJpD4YPKAX,133
+426,Across the Alley from the Alamo,Bob Wills,24,1UlD2WZutP79ql50rTIBNq,129
+427,Albuquerque,Weird Al Yankovic,60,2Ec0liSMY2h4XORHyzKCmY,682
+428,Albuquerque,Neil Young,60,6nsxXdOAjeosqcGGsmPjnN,241
+429,Albuquerque,Sons of the Desert,60,4qtUVRGt8R28Ie7QI5Vn5O,199
+430,Empire State Building,Randy Newman,0,3ojpRYhFZwBYtKWMFyRTUu,137
+431,Empire State Express,Son House,0,1v0undu7Fj5tl9oPwEwvuV,219
+432,Empire State Halo,Echo & the Bunnymen,0,62XwlAXOHwoZbZEsGWkFvG,239
+433,Empire State Human,Human League,0,5dUK5h41IMCZcFdZvmHNG0,197
+434,Empire State of Mind (Part II) Broken Down,Alicia Keys,0,5sra5UY6sD658OabHL3QtI,216
+435,Empire State,Fleetwood Mac,0,1jYMhxQ2OY1HavN7n5AyIq,172
+436,Empty Garden (Hey Hey Johnny),Elton John,0,01PjrDX13iIjeHc5iJZmb3,308
+437,Englishman In New York,John Rocca,0,0Qx4g8qmNbUJzkMgssgO69,205
+438,Everybody's Shakin' Hands On Broadway,Luv',0,37DIRwAKo1xMN1Zwgt99x0,203
+439,Everyone's Coming To New York,John Carpenter & Alan Howarth,0,3MNosUYcgXzSYZXYUcQxfU,144
+440,Expression,Salt N Pepa,0,1lXs8UWoQr7wMjHdxQI2XA,236
+441,Eyes of a New York Woman,B. J. Thomas,0,3egChKZ4fIbZpiL98dx49h,183
+442,F Train,Babe the Blue Ox,0,5GYK99VDuId8MAREUDKfjd,146
+443,Face Down at Folk City,The Roches,0,5hgimocz2hR79WdOTIOaCV,245
+444,Factory Girls,The Destructors,0,1gdzIx6o6hflOco8UVCiRA,86
+445,Faded Flower of Broadway,Willie Nile,0,3ZKfB7IZPbsxQZsxfgC8Z6,311
+446,Fairytale of New York,The Pogues and Kirsty MacColl,0,7cpvQsRWcFI994QPPNJTXl,275
+447,Famous Flower of Manhattan,The Avett Brothers,0,6ey6o0CyYoRbU71ChOF6zi,232
+448,Far Away,Sleater-Kinney,0,7iFyqNSLv8mBOEnHIVWrT3,224
+449,Fashion Crisis Hits New York,The Frank and Walters,0,4CQBQMjOWxu29LJP7uopSx,209
+450,Fifth Avenue Rag,David Chesky,0,4MRFJZiQkRSqFO4MwAoXLY,132
+451,Fifty Four,Sea Level,0,733EU6v3WTL1T4kLEn5FBr,255
+452,Fighting 69th,Dropkick Murphys,0,7xABfZ5g3af8ecVefrBeme,193
+453,Find It in New York,Michelle Wright,0,0VjzOoog0uE4hyqKzk6Eni,251
+454,Finger Back,Vampire Weekend,0,5GwSD4gZHdZBYa23zwqBia,205
+455,Fire Island,Fire Island,0,0ucTf4ncdfziqlynsmZQts,248
+456,Fire Island,Fountains Of Wayne,0,0jhHCOAfZrVcUdV6b0Xqej,176
+457,Fire Island,Mystic Moods Orchestra,0,1tevv6WzqXNyFOrcgsH30b,174
+458,Fire Island,the Village People,0,60vgQUQ0UyEJ8dI1vNZPM0,316
+459,First Day in New York,Nitin Sawhney,0,4N0taeq3MhQvEQOLI1F1gh,114
+460,First Day in New York,Ollie Halsall,0,3TKfxBm3gnkT9kReNuZ6QJ,198
+461,First Night in New York,Claire Hamill,0,7k0y2LQjrTdZYL1yeWHvnF,266
+462,First Snow on Brooklyn,Jethro Tull,0,2YlJsbM0PlrDFa727ELtCk,298
+463,First We Take Manhattan,Leonard Cohen,0,6UEzGV76d96lYTA68iBO0B,360
+464,Five Spot After Dark,The Jazztet,0,3A8QzK3PIJ63URmOsyOBP3,199
+465,Flatbush Ave.,Project,0,1pIoJbObiBbUn4iwMsXeoR,148
+466,Fly to New York City,Jeane Manson,0,6cxinib4tpcEfDelPMPKta,224
+467,Fly to New York,Country Weather,0,3UK06W8w6PckGyHOiDlQAd,409
+468,Folk Song,Bongwater,0,47M4jmr1SSAePfFX2BJjOl,562
+469,For Your Money,Daniel Merriweather,0,6NtooW7waIYz9AAQ7FSI65,291
+470,Forever and a Day,Fragma,0,7lYmshQDinjFpW0fXpnbqO,210
+471,Fort Greene (S)Killz,Dana Dane,0,5HEvIAPn4yhmTK6It4N2dd,306
+472,"Four Superbowls, No Rings",Such Gold,0,1rpMVB3i2HBjgCi6rAWKJF,100
+473,Fourth Street Rag,David Chesky,0,167AG6vPx8eOlKSDujNpsO,146
+474,Freedom '91,New Model Army,0,7qqklpYaz1AI04lpiaN312,222
+475,Freezing in New York,Mighty Sparrow,0,0GwGUNKzcx1vVqANE6OQrG,186
+476,From Cotton to Satin (From Birmingham to Manhattan),Johnny Paycheck,0,6G6VnlLl9GsVEbTO091zTa,187
+477,From New York to LA,Patsy Gallant,0,1hV8qrJMyGJ5tJubYCNG6c,291
+478,From the Brooklyn Bridge,Mark Germino,0,28FycAVuGh6F0bW7aQZ4ZE,298
+479,Fuck New York,Slapshot,0,4neFWvChTBTF5MEPMk88Pn,200
+480,Fuel,Ani DiFranco,0,2kEsa3JlXjwmx9kC0X0jH0,240
+481,Fuk New York,Blatz,0,3E6l4kK6r8bDwmly3vGZWd,112
+482,Funkin' for Jamaica (N.Y.),Tom Browne,0,7o76PBf6KmvWPo2sJtdSYt,278
+483,Gates of the West,The Clash,0,3I3XzNNcTqVRlx1HbleK3w,205
+484,Genius Rap,Dr. Jeckyll & Mr. Hyde,0,71V59P1ap285AB9TNJdmbH,280
+485,George Murphy,Tom Lehrer,0,7rgVqFvpb7njqF3ocTcMRP,128
+486,Get Down Stay Down,Milk & Sugar,0,1g4sj15N3uyUaTTWNSvw6A,265
+487,GG Train,Charles Mingus,0,2wKkW3MMSzgVjSUZ7mqSbN,277
+488,Gimme Your Money Please,Bachman-Turner Overdrive,0,6sqshZ3VTPTQL2EW5c3WQ9,285
+489,Girl (New York City),Taxxi,0,2Ht6i308r9XfVfWIy3YFYD,245
+490,Girl from Harlem,Bandwagon,0,0rkMqdqPKtkbzNUePLQKI4,194
+491,Girl from New York,Billy Nicholls,0,74DtOnQf1mU09HNU1wa1AQ,198
+492,Girl from NYC (Named Julia),Of Montreal,0,6yMphN6FOQIUwoCo0O2SeM,135
+493,Girl in New York,Simon Townshend,0,07caZzDIpnxGVoKHos1jfT,271
+494,Give My Regards to Broadway,George M. Cohan,0,0wC1OJVmZ7ef3v3dyikIKM,155
+495,Glad Tidings,Van Morrison,0,6EZUcu7GHI1sS0UPQivz7e,220
+496,Glory Days,Cormega,0,0t4JGUbXGJ5lh052EYIhjK,202
+497,Go Brooklyn,Stetsasonic,0,215p6eT6cVv9tKyuRrb2K1,234
+498,Go Harlem,Chick Webb and his Orchestra,0,2mxhVBPYtywA2mBKKibqk5,139
+499,God of 42nd Street,Saigon Kick,0,7rEVlTebCVVEzCYUyzgDtl,239
+500,Goin' to New York,James Blood Ulmer,0,6LXMswiTa3mWoyi2b5tvST,238
+501,Goin' to New York,Jimmy Reed,0,29JlWX0DMSRaBlqiimmhxo,137
+502,Going Back to Brooklyn,MC Lars,0,0bZOR8zanKi4Yr29xDjzJP,144
+503,Going to Queens,The Mountain Goats,0,4OVkSsivFm0X9Wh8y3hZLJ,146
+504,Gone Country,Alan Jackson,0,1A0I5aiVZRwecRlbQcweBh,259
+505,Good For My Money,Baby Bash,0,4KPHNtLPiHsGCyTaBmnGvh,231
+506,Good Fortune,PJ Harvey,0,1G1YJPV7THViQfOM9Gug7R,200
+507,Good Old New York,Jelly Roll Morton,0,6BOSubeWLLx945Q9ZEKNx1,166
+508,Good to Go,Elliott Smith,0,7CIKm63t9bxN72KZOfKBCL,144
+509,Goodbye Manhattan ,Pieces of a Dream,0,5hYcuoONAxiBDZvRkNNd45,307
+510,Got to Get Out of New York,Tom Scott,0,0FyqIerRioGB1yBbdpNDzS,313
+511,Gotham City Boogie,Ultrafunk,0,51Oc338pLXDyNRt1pToyHA,331
+512,Gotham City,R. Kelly,0,1OCFE38LYUf22diBKJ8Z4W,285
+513,Gotham,Animal Collective,0,5emgju829ze5R50JIwmid7,183
+514,Gramercy Park Hotel,Edwin McCain,0,34fzti698bdJnaI1UGjXKy,254
+515,Gramercy Park,Grover Washington Jr,0,0bdNt9uyQo1FmgqobAIoD1,232
+516,Grand Army Plaza,Department of Eagles,0,0bGZR0TilTEPnbTvePKHM3,181
+517,Grand Central Morning,David Chesky,0,39CGp5roITQbKjAurAG25o,134
+518,Grand Central Station,Mary Chapin Carpenter,0,27pHURmYYOoWIgwP1ycK8G,263
+519,"Grand Central Station, March 18, 1977",Steve Forbert,0,7qm4REC8zapaGJ0U6mxod2,254
+520,Grand Central,John Coltrane,0,6JV6yKfCU07Lyi20s9BW03,273
+521,Great Jones Street,Luna,0,51PTm7Z969Y2Yd0d3XpOoi,216
+522,Greenwich Village Folk Song Salesman,Lee Hazlewood,0,4h5tAREFWhBLPazC3Yln2V,166
+523,Greenwich Village Rumble,Elmer Bernstein,0,4XTVA7raZA9lsSle8zqnMx,125
+524,Ground Zero Brooklyn,Carnivore,0,7cfGgPpWnOXaTs3aR2iSnV,280
+525,Ground Zero,Elliott Murphy,0,7kHFC6K7zhyNSaaWVQxxg7,260
+526,Gus: The Polar Bear from Central Park,The Tragically Hip,0,5c3EnUqMBsMrDdTL6hlokU,249
+527,Gypsy Cab,Steve Conte & The Crazy Truth,0,6sUSjHZlYlUmQy84vZS2tr,193
+528,Habaneras de Nueva York,Carlos Cano,0,1L4gO3spcV0lmHM4ujKnGA,306
+529,Halloween Parade,Lou Reed,0,5Hb0p1Ti6nkeA3SSKfbvM2,213
+530,Hang Together,Odyssey,0,1VyzLNcRqpVaEhbqjYOPdF,360
+531,Hard Times in New York Town,Bob Dylan,0,1K0D9hPFpSBpuWZfCdZ9kE,137
+532,Hard to Live (in the City),"Albert Hammond, Jr.",0,6ezfInFyeBeoeKwpdo31cs,313
+533,Harlem After Midnight,Mills Blue Rhythm Band,0,1UPYCopFrufCg9eN9ZyL9m,198
+534,Harlem Air Shaft,Duke Ellington,0,2IkNLH9HAclNapw4R9B4CV,243
+535,Harlem Bass,Tony Barthele,0,0WOJJIRSrhuCS1gyVTt9ra,121
+536,Harlem Blues,Nat 'King' Cole,0,6IOisx5B67jHbXwucaNz08,111
+537,Harlem Blues,Teena Marie,0,34C92oyWy0RDgNtx0qjsTF,317
+538,Harlem Bound,Gibson Brothers,0,58JlkIm0JYY3SZqcw2CDjX,272
+539,Harlem Bound,Memphis Slim,0,5xAK93jPF0GmgR0DkplKIR,161
+540,Harlem Camp Meeting,Cab Calloway,0,3L2INAzs73MneGpsokkyQj,185
+541,Harlem Congo,Chick Webb,0,64Jjl6ynJdUDN8U8fgGmMi,194
+542,Harlem Dawn,Donny Hathaway,0,2dH7SAqf1ehX5MDXnRaD1u,98
+543,Harlem Desire,London Boys,0,2twgNiFYu1jLz1A1IBFvB6,229
+544,Harlem Drag,Charlie Johnson,0,6k9BetRXMN8VtiryN5YzzX,196
+545,Harlem Drive,Quincy Jones,0,5CvTpefwhhK11d1AV3WHaf,119
+546,Harlem Folk Dance,Stan Kenton,0,2cU29HsVyUKwJ4qzGqCK7i,139
+547,Harlem Heaven,The Rance Allen Group,0,6cxKSifhJytTOooEv9AhcR,225
+548,Harlem Holiday,Cab Calloway,0,1CurdC7k4VQFQPeK10JU2S,175
+549,Harlem Hotcha,James P Johnson,0,7q9DRT6FrnjXM9gG4QlW0h,164
+550,Harlem Hunch,Slim Gaillard,0,1AYkKDxeEn9SVuJL9M40v1,163
+551,Harlem Joys,"Willie `The Lion`, Smith",0,6wRdgSKIvdBaj6cCpL6DYN,159
+552,Harlem Lady,David McWilliams,0,60lKDIK4J6XMcYrB7CLQAp,185
+553,Harlem Lament,Earl Hines,0,507l1CD7CzLlUDt7JEVYtc,181
+554,Harlem Library,Kenny Lynch,0,07QtiTG9RbOybOrdaSUOXY,141
+555,Harlem Madness,Fletcher Henderson,0,1TTObR5N5zjxreKqPkp31o,208
+556,Harlem Mambo,Dave Barbour,0,34BT11f9U4senxhGacrTD1,158
+557,Harlem Nights,Alcazar,0,0ZAdFIHb4LQzT12Ah7QLa2,249
+558,Harlem on My Mind,Irving Berlin,0,5SqYI3zh6PS617sIcJLaeW,194
+559,Harlem Rag,Wally Rose,0,3IOgf7D87YZc6hcR9pzoTC,153
+560,Harlem Rain,Richie Sambora,0,0FKs2fyzZ7TWEx3lJk0koc,301
+561,Harlem Reggae,John Ozila,0,4wsNG7fkPXAfGdTR0uJ0jd,192
+562,Harlem River Blues,Justin Townes Earle,0,705t4FIT7itZwAyFKt3krq,168
+563,Harlem River Drive (Theme Song),Harlem River Drive,0,6NO1OWmtfZWWQ4wCY9cjBt,251
+564,Harlem River Drive,Bobbi Humphrey,0,6aP8aMehThSiaLJozzGeUh,470
+565,Harlem Rosewood,Trent Dabbs,0,6HIdmsbajvCkCB5AYflrsv,267
+566,Harlem Speaks,Duke Ellington,0,2RjrNHT8HR2MPsPoiu8G0P,196
+567,Harlem Streets,Immortal Technique,0,34LBJLixYcHwdUr3bntzWx,232
+568,Harlem Women,Hank Kilroy,0,2lujn9HOzRQOBOicfHFLvV,169
+569,Harlem Woogie,James P. Johnson,0,65e98TszRCHn5sJt0ku9Aj,243
+570,Harlem,Bill Withers,0,6JumfGk4f9E5KLT086I75s,203
+571,Harlem,Duke Ellington,0,2IkNLH9HAclNapw4R9B4CV,243
+572,Harlem,Edwin Starr,0,67rg2h75CheOuDeOJOdXtW,194
+573,Harlem,Grand Slam,0,1CSZ0guyxVFfJS352wwxT0,369
+574,Harlem,Ian Moore,0,36QwGNjAD1IfTEilzKMDCr,297
+575,Harlem,Jim Jones,0,56zy9VR4DUJrdicVXeCaN8,142
+576,Harlem,New Politics,0,573latfTMO7SpGtStVrQx5,163
+577,Harlem,Rare Bird,0,3aiPgSvWEoKy5yk5Hp5dmJ,203
+578,Harlem,Suicide,0,3S9RT8Or7IDFYPk0bkckP9,398
+579,Harmony in Harlem,Charlie Barnet,0,1RIDfMElc4rL1rvGoRwEkI,170
+580,Harmony in Harlem,Duke Ellington,0,4UrO9zxS6AIYOZ7kKC9VvG,198
+581,Hats Off to Hawaii,Kung Fu Monkeys,0,1qBuvcqIZmxvPwU4PjcT6s,104
+582,Have You Forgotten?,Darryl Worley,0,5JWuz7zukN8z9JLNm29U5K,242
+583,Heading Back to New York City,Joan Armatrading,0,1L0zKjcupi0D7hPIn4PssN,350
+584,Healing Broadway,Greg Hunter,0,1XkdNqqxiXX5uvMoHH4lfF,506
+585,Heartbreaker,The Rolling Stones,0,4eADFeuWdtyGqih4h98NVj,197
+586,Heavens in New York,Wyclef Jean,0,334Zzy4YSlWezl8Y02fxEJ,287
+587,Hell in New York,Slaughter & The Dogs,0,6KSQ5qCwcD0qR5J5wixd3j,213
+588,Hello Broadway,Four Tops,0,2phkodkQV1DtwQl6BPd6cr,232
+589,Hello Brooklyn,All Time Low,0,3BuArnDZqzmnSr7S0CpQfb,209
+590,Hello Brooklyn,Beastie Boys,0,0sqCbMYoi5OksmVKKPkkK1,91
+591,Hello Darling,Tippa Irie,0,32nvcsI9BlyzXuEcmW7L07,336
+592,Hello New York,Adrian Gurvitz,0,2c7mGAdWnyc6lQG9Nee39P,290
+593,Hello New York,Silverhead,0,3h0R0BhZoUZTyZUMQC5uGw,204
+594,Henry Street,(from the musical 'Funny Girl'),0,5gbVPOqgeTBm69JgJIOgmU,116
+595,Here I Come,Barrington Levy,0,4abVwdCy5QUcyI3KS2lMJK,217
+596,Here to New York,Ruth,0,6N0YbZGY3nqCudPNYGM1pf,208
+597,"Here's Looking At You, Kid",The Gaslight Anthem,0,0rV6GENOCq3FeUogvk9F3G,221
+598,Hey Brooklyn,Mancie,0,4tCr2fqzIazMxKdTEf3Lm1,186
+599,Hey Eugene!,Pink Martini,0,6Mzca5ZxLQmzs2XQOGOHob,190
+600,Hey There Delilah,Plain White T's,0,4RCWB3V8V0dignt99LZ8vH,232
+601,"Hey, Manhattan",Prefab Sprout,0,2i0PHCuiBFT4RaxUqtywdv,285
+602,High And Dry,Space Cadette,0,52xjoNeEYTDD96FYphCphW,202
+603,High Bridge House,N.Y. House'n Authority,0,67JRpypFRP1I2Y4V5Mz0hL,169
+604,Hillbilly From Tenth Avenue,Artie Shaw,0,03q2TuiKnZAghuzNzDyzmU,171
+605,Hitch Hiking Down Broadway,The Escorts,0,7LD3KwWDw8IisU220Tby70,165
+606,Ho Hey,The Lumineers,0,0W4Kpfp1w2xkY3PrV714B7,163
+607,Hold On,Lou Reed,0,7xIud6DM74zHh06Ac61SfY,204
+608,Holiday Rap,MC Miker G & DJ Sven,0,3mDY1udK5jkEhG5ySb3zU0,266
+609,Holland Tunnel,I Am the World Trade Center,0,0VhGyVskF1l8bVVmbdUnTF,196
+610,Hollis Crew,Run DMC,0,2DYVOx818b5iQ0YRGrSMst,192
+611,Home Sweet Home,M.O.P.,0,70pXSZIkXWo1GnH2BvaJeC,238
+612,Honeymoon in New York,B.E.F.,0,6hK4BCZULCyPzY2yojma6D,135
+613,Honky Tonk Women,The Rolling Stones,0,3RZMzCvYsmJ0u2ioKTOsmJ,179
+614,Hooked on Broadway,Larry Elgart,0,1RsKosytWrnMCvTebzEWwa,319
+615,Hot in the City,Billy Idol,0,5LeDMHIZ5YDZ2b1VOcYVcG,219
+616,Hot Night in New York City,Bonnie Koloc,0,7llvUU1rGv2gudA1c1kxOj,212
+617,Hot Pants,James Brown,0,6pxck4yPbvXbnHiNIc5jqq,187
+618,Hot Time in Harlem,Gwen Guthrie,0,5h9KzPKX9E5pqfeuR40yKh,284
+619,Hotel Chelsea Nights,Ryan Adams,0,45EnbdDSEyfNd4xbGSLaBM,310
+620,House in Central Park,Ten Wheel Drive,0,3oiGp0QtfHFfSKeswA0o9w,272
+621,House in the Hills,Wiz Khalifa,0,6d6KwiogJQ19bjRlPh7vvw,292
+622,Houston Street,Jack Hardy,0,5OHX2NZ869oVDyN797AbOG,324
+623,Houston Street,Jake Holmes,0,1GGEyWr9MQp479wS72dpiY,269
+624,Hover,Rhett Miller,0,1mHTlomnFIZirwvaN3eKsx,169
+625,How Do I Get Out of N.Y.C.,Pelican,0,3G7dPQBOGQQlezoTLyTG0r,121
+626,Howard Beach,Biohazard,0,4LG8vnjGBssLLmrU5H1gd7,129
+627,Hudson Street,Agnelli and Nelson,0,4ApMz0VzAlMf7EAR1Nn3I5,417
+628,Hudson,Girlyman,0,4e0kUlN5A6vb4KppTHnNIH,133
+629,Human Nature,Michael Jackson,0,35lAjvsvS9k9HHuP1fjDT8,245
+630,I Am the Way (New York Town),Loudon Wainwright III,0,1wMyLPQWapsfYX8MLEQckn,190
+631,"I Am, I Said",Neil Diamond,0,4wOKTOwGVrie2GIbCMEe7U,213
+632,I And Love and You,The Avett Brothers,0,7CEV9VwA8XO9wwxTXgYKvY,300
+633,I Can't Live Without My Radio,LL Cool J,0,2qfTGzETefwtBWKDThZjnU,327
+634,I Can't See New York,Tori Amos,0,0AByf8LXqfnKa1UW7kbxsr,434
+635,I Do the Rock,Tim Curry,0,1pH0ZuY6owJ8sao2eZsx7g,281
+636,I Dreamt I Dwelt in Harlem,Glenn Miller & his Orchestra,0,1d0XxgsAxk9EId2jbWj3zl,217
+637,I Got An Uncle In Harlem,Sweet Substitute,0,0Iwsxa5hzVT6M09cfwdOCA,166
+638,I Gotcha Back,GZA,0,3ToCwT51GYA1HTDJxy7ZZX,301
+639,I Happen to Like New York,Cole Porter,0,2Bxr65dew9b4RMEYZaQkzV,136
+640,I Hate New York,Blue Mercedes,0,7awqfG0MeBP3Ng9jZAxL42,204
+641,I Just Wanna Have Something to Do,Ramones,0,4EsxCMnKlvJ0D1wnRgATJz,243
+642,I Know You Got Soul,Eric B & Rakim,0,5D2lp16FQ0VIfLGRDn5jcG,284
+643,I Love Livin' in the City,Fun Lovin' Criminals,0,1Zs4PM67vQsIuluFSXPbAF,225
+644,I Love New York,Casiopea,0,6g7I0dWEzWHfOVuyZhVEti,248
+645,I Love New York,Madonna,0,44WTY1d9M86PEAgPZNeHHe,275
+646,I Love New York/New York New York,Glee,0,4OdlzQY1elrRbmXexXTvAp,164
+647,I Love NYC,Andrew W.K.,0,6BfvXZeFMQan4nSKT6tiRI,191
+648,I Remember Brooklyn,Tony Visconti,0,05ASHXIvAg28RdTUKJbBNQ,168
+649,I Remember Harlem,Roy Eldridge,0,1rDDkjmmhFkhJXNx2Xv3DT,210
+650,Bobby in Phoenix,Gorillaz,10,0NJUPC1tmil2ZlchstDww3,196
+651,I Used to Be a Brooklyn Dodger,Dion,0,30DNBQChtgiadnvNDLEnSF,240
+652,I Went Walking,Rank And File,0,3aziMuO7bspreRSUoP3xcJ,177
+653,I Woke Up in a Car,Something Corporate,0,3kaK1EohdhDXT5ICBMRGkz,252
+654,I'll Sink Manhattan,They Might Be Giants,0,5W9C47JBGnTWUIXotDeTYo,156
+655,I'll Take New York,Tom Waits,0,4EeRzn7N8zEYugDkBwNHOc,237
+656,I'll Take Us Home,Matt and Kim,0,6C7RaIgUcB19Myk2za2LV7,206
+657,I'm Gonna Be a Country Girl Again,Buffy Sainte-Marie,0,7LgI89WNfXW2OeTBy2MGYo,179
+658,I'm Never Gonna Leave You (New York),Gotham Flasher,0,0m4IBhQKvRwn31MLoE2Qlb,551
+659,I'm Singing Broadway,Bette Midler,0,2P37kYEAMHZesVfFgkBxSa,282
+660,I'm Stone In Love With You,The Stylistics,0,7vrALUTv5NVHt8cf0jhei6,199
+661,I'm Waiting for the Man,The Velvet Underground,0,3fElupNRLRJ0tbUDahPrAb,279
+662,I've Been Watching The New York Dolls,The Destructors,0,1kYjBTzii13rTj3ipnW8St,202
+663,I've Got New York,The 6ths,0,7GOfzokBzJBGaKvZi1UmG7,132
+664,I-95,John Waite,0,7pK5a6cXcrtpt7oDQYpSGX,213
+665,Ich war noch niemals in New York,Udo Jürgens,0,3IchfVcS6QwpKLFuRE1Qyd,284
+666,Idiot Kings,Soul Coughing,0,6XJMqhK9979ZDIHKvF9UVu,237
+667,If I Can't,50 Cent,0,7JeKXMQKm6GoLGTkNy2jZ0,196
+668,If You Were Here,Unlovables,0,2zdwzSPWKnoKCajDhujHyJ,160
+669,Illume,Fleetwood Mac,0,3BoH0VPwnxdnCfoMJxLJud,290
+670,In a New York Minute,Ronnie McDowell,0,49MTbqdjWsdtgdGQldmdgt,169
+671,In Brooklyn,Al Stewart,0,2l2EqXwjZNsjuREi2eRUZo,220
+672,In Da Hood,50 Cent,0,2SdXR8mNgOGk2H8NPEgZwQ,169
+673,In New York,Heath Brothers,0,4LcP50SPIC95PcPurtmYZH,349
+674,In New York,Passion,0,2m2oMsYT9U9n1YjHcmb8M2,385
+675,In Spanish Harlem,Chris Stamey,0,1lYJdBjAgTBPVXxuQr017S,263
+676,In the Cage,Genesis,0,3HiWtTbbJnUdxHq7cxYmTj,492
+677,In the City,Milton,0,2pKFvYJcwX3N0WHRaMJiGF,279
+678,In the Evening,Sheryl Lee Ralph,0,2tOSTu3fTQZCuQHI6iRX6N,375
+679,In the Flesh,Blondie,0,4D7ZvtLOG19HmtqKC8l0BI,153
+680,In The Mood Again,Elvis Costello,0,3meM4HckOmK2GeufVH0CSw,154
+681,In The RaiNY City,Tajna Tanovic,0,39dZeUT2palUaHDq4NzNi4,222
+682,Incident In Brooklyn,Rescue Party,0,3dNNQu7mYv8ZBWUAgjYU9l,212
+683,Incident on 57th Street,Bruce Springsteen,0,0wQzwIo50V1Uboha0bymhg,464
+684,International Love,Pitbull ft. Chris Brown,0,2MZgH2ihPiufRFyOlUtwUX,225
+685,"Into Brooklyn, Early in the Morning",The Innocence Mission,0,0bTdGSn5wo6mwETNK21ZlS,176
+686,Into the Fire,Bruce Springsteen,0,4s4S5JJGfqXGlNY6eQZWQB,301
+687,Into The Hollywood Groove (Passengerz Mix),Madonna & Missy Elliott,0,5z9WblZ9yu9ncYXRHZyi63,224
+688,Is It Raining in New York City?,Cashman & West,0,4c3yigzb2ckQ3xzAntqhQ8,229
+689,Island Girl,Elton John,0,2u3UJ9KyduTnbi9yUVGYfW,222
+690,Santa Fe,Beirut,406,2bxQP85JNU11CQV4KXCnau,254
+691,It Ain't All Hugs and Handshakes,Crime in Stereo,0,0OrqTrChg2t6MRvckdljKs,149
+692,It Rains in New York Too,Pete Miser,0,1m1E38mK8kN9vJmg68Qeyy,268
+693,It's Tricky,Run DMC,0,6jBCehpNMkwFVF3dz4nLIW,183
+694,Italian from New York,Chicago,0,7ChQYMe8sVngP0Ihu6C3FR,254
+695,J'ai rêvé New York,Yves Simon,0,7lQKua2bx1v9ZQOwrquka4,279
+696,Jamaica Avenue,Chris Gantry,0,512f1DUZGhPS9VPXyK9GIt,181
+697,Jamaica Bay,Dumpty Cooper Group,0,5sEADdL4zsUiyqK4CxUPQY,223
+698,Jamaican in New York,Shinehead,0,2CL1Q0rQcbKavqqzu3zjQ2,268
+699,Jammin',Bob Marley & MC Lyte,0,38oIp9y5zW2ylFE3y7MKaP,248
+700,Janine,Soul Coughing,0,4ieGRacGU9nN1CHLhqcky7,298
+701,Jazzy Sensation,Afrika Bambaataa,0,0mjhfkFmpUkknmrl40zFFx,583
+702,Je voudrais voir New York,Daniel Lavoie,0,1hJnYsaACYwOHjc4LWOSG2,221
+703,Jesus Went to N.Y.C.,Five Fifteen,0,3Mt4HqBQSbHKSoIawnWwRL,251
+704,JFK to LAX,Gang Starr,0,0drHbXjNetXRrdcm81pxfw,214
+705,Joey,Bob Dylan,0,3sXLemtrtO6ygZF0G4OIwI,665
+706,Jonathan,Fiona Apple,0,1xq9GyfTbElPmxFMcKHNiI,303
+707,Joyce From The Bronx,David Matthews,0,0egAsBMTIWvXHWsS1CdfJO,423
+708,Jumpin' at the Woodside,Count Basie,0,5bjDadKhSzdKK8sy5FGgAI,188
+709,Jungle Harlem,Mel Turner,0,7dX7zVuoTmrW05uOQDDizq,138
+710,Jungleland,Bruce Springsteen,0,3R2q3FCnNIw2XhuEbYtYk6,575
+711,Just Like Tom Thumb's Blues,Bob Dylan,0,0V1771LhL3tG36pb55EZAH,327
+712,Just Over the Brooklyn Bridge,Art Garfunkel,0,4ovdVqCbrTdBZRKEULYzAj,66
+713,Keyornew,Mathieu Boogaerts,0,2AMkn2iGVpvm5ViZIQ6W8O,224
+714,Kickin' 4 Brooklyn,MC Lyte,0,1bzGzVJkRmhKdxQt1g9u5n,142
+715,Kids in America,Kim Wilde,0,1YGZyfvdgZxzipWoWYVKxi,205
+716,King of N.Y.,Fat Joe,0,7q1OTJxBz0heO98QRefw0s,247
+717,King of New York,Fun Lovin Criminals,0,15X00ewGvzud1B5KGoq3qM,226
+718,King of New York,Schoolly D,0,04AjYdT99bSRinN6GXYsnf,275
+719,King of New York,The Quireboys,0,1MCmScPGX3XgIk9q7Y20NP,339
+720,King of the New York Streets,Dion,0,1zrpMiEqs4qnVZpM8qQQTf,292
+721,King's Road,Tom Petty,0,0nYcdrqObqVmwBOgn1zgOf,203
+722,Kitty's Back,Bruce Springsteen,0,5AToGW7gh0xgNyrDVd3qus,424
+723,Knew Your City,Hee Young,0,6NhTl6hZ3Th4fmSHfBf2o0,141
+724,Koka Kola,The Clash,0,1YvbtzUkXtgotCTo6QeqkW,107
+725,L.E.S. Artistes,Santigold,0,4dmCLAZbWYT0qtcG7GVMdb,204
+726,L.E.S.,Childish Gambino,0,56eTyhyC0DxXwydXoRdXPY,273
+727,L.S. Blues,Lonnie Smith,0,04JF04I16SYWBNukZPyjTE,158
+728,La Chapelle De Harlem,Jeane Manson,0,0f1ZrHeysuQTumpt2yeH5X,187
+729,La Java de Broadway,Michel Sardou,0,2civnKhFGFBFSGFGjOBjfU,246
+730,La La Land,Big Daddy Kane,0,5TDEIDElkU2hrMnusjPLNu,248
+731,Ladies Night,Kool & The Gang,0,3pMeuv4OBarYqVR2bqCPVN,208
+732,Lady Cab Driver,Prince,0,1ufd5YMV7d4GkkvWjkl5Lr,497
+733,Lady Liberty,Claude Nougaro,0,1DQ5eP4Jr3xjzreZ6yoqMk,315
+734,Lady Of The Harbor,Brain Surgeons,0,2eLtJmkP4vsi4LsBaJKpbS,240
+735,Lady on 5th Avenue,The Monroes,0,5Uo6TKTGpLqXOB3qARA8VD,204
+736,Last Chance to Turn Around,Gene Pitney,0,4efIPPwKyU2bCYhzdgudX9,185
+737,Last Exit to Brooklyn,Mark Knopfler,0,7pWf7SRmwF90mSrweFukEr,384
+738,Last Exit to Brooklyn,Modern Talking,0,1ObOEFQ8u9SXJofR1fN0HB,196
+739,Last Summer in New York,The Saw Doctors,0,7cyDm6mD0fTquhOr6CXcYO,161
+740,Later At Minton's,Stanley Turrentine,0,4avLskN3Upm7AxNuMTkAin,827
+741,Latin From Manhattan,Al Jolson,0,6aPAFb5PvdySOJUkrUcZgl,121
+742,Lazy Little Girl From New York,Red Baron,0,0V8L0dhpg6er2IbgkpXjp4,313
+743,Le Cireur De Souliers De Broadway,Yves Montand,0,1NNMvB8p9VTRPoUB7BNTZW,220
+744,Le Funambule,Gerard Lenorman,0,50UCbMZKRr7DUY96yn0WHC,178
+745,Le Vieux Broadway,Mort Shuman,0,2drqFejwLI89xwR0tEM6BX,299
+746,Leapin' on Lenox,"Eddie `Lockjaw, Davis",0,6R7lMV72OIGsOkxVrLJDQ9,306
+747,Leaving New York,R.E.M.,0,4lgVbDYZR1VV4gEkIueSiw,289
+748,Leaving New York,Ross Crean,0,7csJ5DIOWsA8uVRzM7NnHa,356
+749,Lee Highway Blues,(blues standard),0,2piMU0HSPLqMMguzTIlpkr,157
+750,Lenox Avenue Breakdown,Arthur Blythe Trio,0,19saLPjjPlDRM8XrWTXwY5,397
+751,Let's Get Rid Of New York,The Randoms,0,7CXwRaJiIqsvUjWsBR4RSG,162
+752,Let's Go All the Way,Sly Fox,0,6eLDMmVI7HF7W56cOrJj00,239
+753,Let's Go Mets,the New York Mets,0,0Iq7Wn9sN1e6lgLpwta7A5,91
+754,Let's Keep the Dodgers in Brooklyn,Phil Foster,0,5vRHU4QnfnySs6IvysRBxe,179
+755,Levon,Elton John,0,0aJfFLl0grcQS7euiIp0ni,322
+756,Life During Wartime,Talking Heads,0,7CqleiaEqHVazV19P532X9,221
+757,Life in New York,Monty Kelly & His Orchestra,0,4yViWwsx1dNSOnEb0W2397,171
+758,Life on Bleecker Street,Willie Nile,0,3Zmq3WmpV4ZKwhO9dOgTCq,203
+759,Lightning Strikes (Not Once but Twice),The Clash,0,4DmbZ96tQFGJKyDfAYe6cQ,291
+760,Lights Of New York,Neil Finn,0,6n5E7PQuId8P5k1aswDDmV,213
+761,Little Kids,Kings of Convenience,0,0MWyFQhXx0n5cACIkk11SZ,226
+762,New York City,Statler Brothers,0,5arnJj92N08FfBrWcCtIRs,171
+763,Little Old New York,Victor Herbert,0,5lP1mbGjxpb02jrqjP6gTo,133
+764,Little Spain,Clifford Jordan,0,6I09QhLmwMHHN1mm6JmVQe,470
+765,Live from New York,Raekwon,0,0Ss2246fpQN1edfgwFSnAf,205
+766,Livin' In New York,Kaz Lux Band,0,1TT8yoJnzEnGnxNROTj4WA,197
+767,Living for the City,Stevie Wonder,0,1O1mCVN5hue4lOOqd5EysZ,219
+768,Allentown Jail,Kingston Trio,66,1LIQZwJmz3ByvUYd5RkQhE,149
+769,Allentown,Billy Joel,66,59xhCcRskqyMtKzdvLZDfV,230
+770,Alone in Vegas,Pusha T,22,2IDBEnkg139IIjmhSICmGQ,271
+771,Amarillo by Morning,George Strait,218,4TnUKixNWMfajncgdSwFoi,173
+772,Amarillo Sky,Jason Aldean,218,0axUHkhMMY0YSC1jFBVWqv,202
+773,Amy's Back In Austin,Little Texas,31,03F9hwZMmzYxUyOSqwC2Bk,276
+774,Anybody Going To San Antone,Charley Pride,10,2qQ0m2ImNPFI97tL5rbVVG,138
+775,Anybody Going To San Antone,Charlie Pride,24,2qQ0m2ImNPFI97tL5rbVVG,138
+776,Aurora,Foo Fighters,11,7dIh8FF0EzYKS8STv3v4F4,349
+777,Austin in My Sights,The Bluescasters,31,5BUutiodaKSRQokkSo9lVE,295
+778,Austin,Blake Shelton,31,2WQAknZHrJAEQOFXe0F44P,230
+779,Baltimore,Nina Simone,21,39CyGKIFqMzSuynOR8uilD,278
+780,Baltimore,Randy Newman,21,5Qurmyhb9LOjd0ZkzqufQ8,245
+781,Baltimore,Sonny James,21,2LJXjPIez0NA2nzMXsx55M,149
+782,Big D,from The Most Happy Fella,4,2evXGSoy9RQUvdtYWGFq0f,339
+783,Black Velvet,Alannah Myles,46,1KU5EHSz04JhGg3rReGJ0N,287
+784,Bloody Mary Morning,Willie Nelson,6,5paRS95sOPkOVQlmUIUF4B,168
+785,Blue Bedroom,Toby Keith,60,0elXsqvn9hJOoEB7Vr4wsv,210
+786,Bossier City,the Turnpike Troubadours,709,2qRGnY4zSNBu4tTql3pEnX,198
+787,Burn On,Randy Newman,29,4eVrvgT94P8WukADoh6E2P,153
+788,By the Time I Get to Phoenix,Jimmy Webb,10,2fwAziTdY6BBuXRVVDYcRQ,233
+789,Christmas in Cleveland,The Raveonettes,29,34rgy1acmu97CNh5hi2ShG,304
+790,Cleveland is the City,Bone Thugs-N-Harmony,29,7hKrrDmrFyjPFg8A9GHNyT,300
+791,Cleveland Ohio Blues,Bull Moose Jackson,29,1CK3vCu55HISO6j8KSQSkw,172
+792,Cleveland Rocks,Ian Hunter,29,5FBIJ3i1CWaZLf1VTNIh7B,228
+793,Cleveland,All-Time Quarterback,29,6HPqL1PrPMzCBvFh0UzFf3,138
+794,Cleveland,Jewel,29,38sF39d0dRKZxmnEQX5mBt,250
+795,Considering A Move To Memphis,The Colorblind James Experience,46,3DhVcVD7xeK8epGemeGA0M,405
+796,Convoy,C.W. McCall,563,6dGWq08LXuIw6T2oUeHECh,230
+797,Convoy,C.W. McCall,56,6dGWq08LXuIw6T2oUeHECh,230
+798,Convoy,C.W. McCall,67,6dGWq08LXuIw6T2oUeHECh,230
+799,Cuyahoga,REM,29,62BwRNlV4Xpel5ssYVLs56,261
+800,Dallas Days and Fort Worth Nights,Chris LeDoux,4,4SHDceuWcvcq8eAze9zfQV,166
+801,Dallas Days and Fort Worth Nights,Chris LeDoux,53,4SHDceuWcvcq8eAze9zfQV,166
+802,Dallas,Holly McNarland,4,5eisckZNCewlWSBMMJNR4E,281
+803,Dallas,Johnny Winter,4,7MaOSiOEtfY7dF2TEjmDTG,165
+804,Dallas,Silver Jews,4,2oMrFxXxxpqSpMldwEeU8g,253
+805,Dallas,The Flatlanders,4,72ZCJnJ62wQCGc1OExu2E2,181
+806,Darling I Need You,John Cale,984,2gOzgifMOFPjUFPMbDmMMH,202
+807,Dixie On My Mind,Hank Williams Jr.,6,7HdSVjZimbY8w0DX8aHLMv,156
+808,Do You Know The Way To San Jose?,Burt Bacharach and Hal David,28,6rO3qRXUnbxwDomrIGiGgY,188
+809,Does Fort Worth Ever Cross Your Mind,George Strait,53,2zPIhmitmDGUjW1JQQ1PeG,185
+810,Don't Make Me Come to Tulsa,Wade Hayes,67,60tcahoglu9NKNoYpO6292,212
+811,Dracula From Houston,Butthole Surfers,6,4KJKj7GZLzxq1bXRu0XP6l,222
+812,Easton and Main,the Turnpike Troubadours,67,2KYQ3NrpKTATXq0v1XtHoP,237
+813,El Paso,Marty Robbins,57,4f8hBeMXMvssn6HtFAtblo,259
+814,El Paso,Old 97's,57,1ibplmpfwz0z0YGXteyPhK,298
+815,El Paso,Taking Back Sunday,57,0uUCGxUnbgiYDc9mnj9nZh,196
+816,Folsom Prison Blues,Johnny Cash,97,2fDHuS1PTkHBbCWWZF1ph9,162
+817,For Baltimore,All Time Low,21,6kYGBXtrbXtl1vcbmD1bWG,188
+818,Galveston,Jimmy Webb,984,00m0MStA0s0ciZ1lgYahEn,288
+819,Get Back,The Beatles,55,4MLBqAEzNN89o2M9h92Z26,189
+820,Get Out of Denver,Bob Seger,17,0e9YaZqnRi3QYSMUIdcarE,320
+821,Goin Through The Big D,Mark Chesnutt,4,4s6Q9zPmiYcpo5MR7uoVnt,155
+822,Gone Country,Alan Jackson,22,1A0I5aiVZRwecRlbQcweBh,259
+823,Good Morning Baltimore,Hairspray!,21,4LRuYjrhMEhiuo5wa4XfYL,234
+824,Goodbye Philadelphia,Peter Cincotti,5,1iONth5fzUrvnvYUtvg7Ur,269
+825,Graceland,Paul Simon,46,51KKQAgYFoJHgVIuJWHdHb,291
+826,Guitar Man,Jerry Reed,46,2miE4JKvNNsRaDFvre019k,147
+827,Halfway to Tulsa,Larry Sparks,67,5PHskR1kEyZ9jGdZce5eDH,196
+828,Home Again Garden Grove,The Mountain Goats,262,1KOe5eyJfDHTad719bEr9l,195
+829,Home Sweet Oklahoma,Leon Russell,67,27ftja8mfOMK9rWCwqj7Qr,207
+830,Honolulu City Lights,Keola Beamer and Kapono Beamer,58,7p7wUyiSlKhbBj6a4W5JQJ,203
+831,Houston (Means I'm One Day Closer to You),Larry Gatlin & The Gatlin Brothers,6,5rTzROLwNJMABN7pp6YMQq,188
+832,Houston,R.E.M.,6,5L1BH2YPxvDY2zDHjY5bJ9,125
+833,Houston,Soul Coughing,6,4mBOvyGHkpb8ss1TMIN6IK,243
+834,Hungry Heart,Bruce Springsteen,21,1KsI8NEeAna8ZIdojI3FiT,199
+835,I Drove Her To Dallas,Ty England,4,7kbEbWHFLevRponZaXN4B1,213
+836,If Hollywood Don't Need You (Honey I Still Do),Don Williams,218,7Mbo3YZGE1AKTRMp1uUXJo,190
+837,In the Heartland,the Michael Stanley Band,29,5v1uTDwk4E70I4NBB6ARk4,212
+838,Indianapolis,Menudo,35,4pRlsUjy1UnGl0ggBb87jq,213
+839,It Came from San Antonio,Bruce Robison,24,2P0yzluQP2SLYa0fXcCEh3,209
+840,Johnny Come Lately,Steve Earle,24,2OwE3Xm2w0BngszDNvo42I,249
+841,Kansas City Lights,Steve Wariner,33,66B7UpDHrmATNnncoCsdy1,214
+842,Kansas City Shuffle (Intro),Tech N9ne,33,6MABJsi6YoLLAahvAd8wXE,101
+843,Kansas City Star,Roger Miller,33,06Jt8ia9SmU8PlXm2Wf9yk,136
+844,Kansas City,from the musical Oklahoma,33,3xHn53QjxQ6SPTcRysc60B,274
+845,Kansas City,Okkervil River,33,2HLm7oN1I5D4srcGU0N07f,346
+846,Kansas City,performed by Wilbert Harrison,33,1ErwjptWzvWmBIcAPsUduO,148
+847,Kansas City,Sneaky Sound System,33,7GpPm7pd4x52tLWSvh9hAD,236
+848,Kansas City,The New Basement Tapes,33,2JTBNz8VZx7i38pcPROWuz,244
+849,Las Vegas Nights,Verona Grove,22,79xQjdC6Tsmsjlfc41AIuR,239
+850,Tampa to Tulsa,The Jayhawks,67,13oA6zf1ulzKDBpf1NFAWY,241
+851,Last Trip to Tulsa,Neil Young,67,5DuqkaZP6rr7R9WeKxYAnM,566
+852,Let's Go To Vegas,Faith Hill,22,39HccIrICWp9EBD8MunAUW,191
+853,Let's Move to Cleveland,Frank Zappa,29,2rJbB8GqSGIsuYPJZcHbFN,351
+854,Liberty Street,The New Basement Tapes,33,6Ks0I9aDwiXmhCN1uK6Bfr,164
+855,Little Rock,Free Micah,99,3Icjtronjec3AN2NSqwVW2,220
+856,Little Rock,Reba McEntyre,99,48uxF2VWwb2RClsI7okkWU,218
+857,"Look Out, Cleveland",The Band,29,6n68qcS9FwZqFgaW62qmbb,187
+858,Marina del Rey,George Strait,999,7MvQkU9ycC0KoibUzGuzlf,183
+859,Mary Jane's Last Dance,Tom Petty,35,3dmqIB2Qxe2XZobw9gXxJ6,273
+860,Maybe It Was Memphis,Pam Tillis,46,3wjD3Ufjll7UKrEDPdGuX3,239
+861,Leaving Las Vegas,Sheryl Crow 1994,22,0Zs7d8PvLFjWrMv5zXAZRV,329
+862,Me & Paul,Willie Nelson,170,4vcDnnuHUmombz20IRkzRO,228
+863,Mean Night in Cleveland,Cactus,29,0Wq6nBQhcHOQGjjEYa9ilW,130
+864,Memphis (In a Two-Seat Plane),Stuart McNair,46,3Dn87Mv7V1vEyVm3Hd8oCa,227
+865,Memphis Blues,W. C. Handy,46,0p6NOOOm3SiEzgzO09z0lh,182
+866,Memphis Skyline,Rufus Wainwright,46,76tXUVsDuHHRrQJj4BayRN,291
+867,Memphis,Johnny Rivers,46,5QqdnAVnNCfWp9CZ3pi5a0,164
+868,"Memphis, Tennessee",Chuck Berry,46,3UYtylPa55RqHS1YDGZoLs,131
+869,Messed Up In Memphis,Darryl Worley,46,0yGpRih3S91xlVMTeIZPss,230
+870,Midnight in Montgomery,Alan Jackson,181,3TkENcA7TF7QysCvt0oQ5e,225
+871,Montgomery in the Rain,Hank Williams Jr.,181,3O9povXoVWnTD8JJJXoYzv,235
+872,New San Antonio Rose,Bob Wills,24,0ENjQO4pgtxXRFEPS3GXUv,156
+873,New Year's Day,Charlie Robison,170,7DXNTiUCWJvomSGEGMr3H8,234
+874,O.D.'d in Denver,Hank Williams Jr.,17,7MJe06aTq57id8qtb1s2du,160
+875,Ohio (Come Back to Texas),Bowling for Soup,29,4COleG16xBCkpofKHsJU2p,230
+876,Omaha,Counting Crows,56,2Uwjr7EnHRXMgmL9SmX1Gj,219
+877,Pecos Promenade,Tanya Tucker,4,3HpYLawc8BRy6WYttM8c6Q,149
+878,Pecos Promenade,Tanya Tucker,984,3HpYLawc8BRy6WYttM8c6Q,149
+879,People In Dallas Got Hair,Waylon Jennings,4,5BoHdxkWOEPeXM8Jr5apYB,138
+880,Philadelphia Freedom,Elton John,5,2hl9ONQ7YGgZGYx0OSHvIq,324
+881,Philadelphia,Neil Young,5,0iOammhowtz89ba0i6QRIJ,170
+882,Pittsburgh Makes Me Drunk,Ceann),30,3N2mHZCHUO3hQZI7RZvHFC,170
+883,Pittsburgh Sound (All In My Blood),Wiz Khalifa),30,14Ohf3TJbGylfMu4Q08CNk,227
+884,"Pittsburgh, Pennsylvania",Guy Mitchell),30,4ph3PycOyjVCpWTz5amGRd,176
+885,Pretty Vegas,INXS,22,37oEm1l0NL6Ud2ccgsdgND,205
+886,Pride (In the Name of Love),U2,46,3dh2LlmeMqKJbzn2WUgt3d,228
+887,Pyramids,Frank Ocean,22,4QhWbupniDd44EDtnh2bFJ,592
+888,Queen of Memphis,Confederate Railroad,46,59XR99m4eEQQZ7d2hcTogz,199
+889,Raining in Baltimore,Counting Crows,21,3RPvaTtA38cNsCNL7lXt4v,280
+890,Remember the Alamo,George Strait,24,13N8tV6WHghe7DfKtSkUtT,271
+891,Reno Bound,Southern Pacific,97,77oMUkg3U7wlgAMULLY5u9,203
+892,Run,George Strait,4,1EXMjx4nCIvYTaY5CZMUSl,245
+893,Sailing to Philadelphia,Mark Knopfler,5,4eA4i2Uf0DDIkpyesj98Ag,353
+894,San Antonio Nights,Eddie Raven,24,3QUOqmkMDKQWY4nar7Cif3,189
+895,San Antonio Romeo,Tish Hinojosa,24,6ZzmTiVB1mfNo7br5erLC3,167
+896,San Antonio Stroll,Tanya Tucker,24,2qXR5YWhvtYIoewHjvflss,170
+897,Santa Fe,Bon Jovi,406,1wmaAfrbe1JLiyt7SpZeQU,341
+898,Santa Fe,The Bellamy Brothers,406,3FHXKNXu9NRBJ8oijReUPq,223
+899,Santa Fe,The Bluescasters,406,0UrWr1671EJaTfJMhMvyTs,291
+900,The Tulsa Shuffle,The Tractors,67,0FOWeHq8x4rlU37O2ujQIr,233
+901,Send Me Down To Tucson,Mel Tillis,55,39smbK45tOIbTEL0pmA0sa,118
+902,Six Days on the Road,Dave Dudley),30,0LpmpBulMgAwtdC3YYgkql,134
+903,Six Months in Kansas City (Liberty Street),The New Basement Tapes,33,0ABp2QsdcFGesW2AHHNjtA,216
+904,Space Between Us,Sister Hazel,60,2TXbRtVpJuw05Dx1N59OtA,304
+905,St. Louie,Nelly,25,1jzZxOYrhSgowlEbc22JBF,267
+906,St. Louis Blues,W.C. Handy,25,0p6NOOOm3SiEzgzO09z0lh,182
+907,Stairway To Cleveland,Jefferson Starship,29,53jGqXa8YCTmJ6O6kODo4z,240
+908,Streets of Baltimore,Bobby Bare,21,3kDSSR6noFrYJBxijqEVm3,157
+909,Streets of Laredo,(old cowboy song),170,1465Y7QceiimGmmpAyDzEN,262
+910,Streets of Philadelphia,Bruce Springsteen,5,3fbnbn6A5O5RNb08tlUEgd,195
+911,Streets of West Memphis,Crime & the City Solution,46,7wkPvnTUQebgkZtUQL7poY,348
+912,Take Me Back to Oklahoma,Chubby Checker,67,0P7HVOq6iJhg5WxFiFmZxs,464
+913,Take Me Back to Oklahoma,Henson Cargill,67,2J3gTXYfsIOnJMB6cgp8mt,242
+914,Take Me Back to Tulsa,Bob Wills,67,74zBjPCZ1juar6yeglInYv,154
+915,Telephone Road,Rodney Crowell,6,3YiWmnGPzosGgx33XnKZC1,232
+916,Telephone Road,Steve Earle,6,1rjvVnu5bMrKKGKLTJOYrJ,222
+917,Tell Me Something Bad About Tulsa,Merle Haggard,67,4RzmLd77OM3nIksqC767qD,195
+918,Tenth Street,[Valencia],5,5FOJpkkbJuWvCBtwxsjfUf,234
+919,Texas Women,Hank Williams Jr.,57,2UZbHeebSCEJjjzfnDQ1Zt,149
+920,That's How I Got to Memphis,Bobby Bare,46,31c37xfmgHkAAqiDzNTln8,151
+921,The Day That She Left Tulsa,Wade Hayes,67,0QMmEcLfSWcfkuy5SS0IIj,213
+922,The Heart of Rock & Roll,Huey Lewis and the News,29,4T3Vl4y9ggN9dPbYfKyYqh,252
+923,The Kansas City Song,Buck Owens,33,2LZhCiS3zDhI1q3ilcSNkM,141
+924,The Ride,David Allan Coe,181,4wt2PBgqXZbvRiWSHDc4O4,190
+925,Tokyo Storm Warning,Elvis Costello,181,0pLfv0qTmH5AG2aUQQdkBt,384
+926,Train from Kansas City,Neko Case,33,3ICHseyibemieGb9NxUVOZ,205
+927,Truck Drivin' Man,Lynyrd Skynyrd,46,7lHEUnQSXkqGMijPvC5qQh,316
+928,Trudy,the Charlie Daniels Band,4,17sf02DzW9rvp2C6pgZk7n,288
+929,True Dreams of Wichita,Soul Coughing,89,0XxkoXS5CSHzKFeS6N8sga,300
+930,"Tucson, Arizona (Gazette)",Dan Folgelberg,55,0qsWQvw0JWeUNMill7CrlO,513
+931,Tulsa Baby,Dave Stogner,67,0wuLnnx3yAT4W0k7F4zyzQ,146
+932,Tulsa County,The Byrds,67,1I2NQdDt1ys37x9xOMj1ux,168
+933,Tulsa Queen,Emmylou Harris,67,7ki4WQW2R2fVlXVr3K0gKE,286
+934,Tulsa Sounds Like Trouble to Me,Shawn Camp,67,15eyWC2Whw22S2SgZYrN4S,214
+935,Tulsa Telephone Book,Tom T. Hall,67,7EwsutSwZzwkFz3XIcvML2,143
+936,Tulsa Time,Don Williams,67,0cThXovxrvU68JuzYUXhJT,195
+937,Tulsa Turnaround,Kenny Rogers,67,7F2NNATh81twZuSgPcgZ10,172
+938,Tulsa,Rufus Wainwright,67,0LZWVdDqeH2nM9HtFXwk1d,138
+939,Tulsa,Waylon Jennings,67,29XDDOcKtVf91fP2zypqMj,185
+940,Turn the Page,Bob Seger,56,6rjMQscV8vUrjKXAsU9hNi,301
+941,Uneasy Rider '88,the Charlie Daniels Band,6,59yEymxln8Hyuz8XNkUTIX,264
+942,Uneasy Rider,the Charlie Daniels Band,56,59yEymxln8Hyuz8XNkUTIX,264
+943,Vegas,Sara Bareilles,22,1NcGrbn2dbx6VQOPQeKhjl,247
+944,Viva Las Vegas,Elvis Presley 1964,22,7aslRU8JraJshF8cOrSOb3,135
+945,Walking in Memphis,Marc Cohn,46,5fgkjhICZnqFctrV0AyuQD,252
+946,Wanted Man Johnny Cash,Bob Dylan,60,3w5ecYEMUouguLjRh7CvsB,191
+947,Welcome to Fabulous Las Vegas,Brandon Flowers,22,35uvFjZWknhCYKkL9DbUFO,287
+948,What am I Doing Hangin' 'Round?,The Monkees,24,4mY0WNmDYbizKtfySyQZko,185
+949,What's Your Mama's Name,Tanya Tucker,46,0J6dezPhTa0ePaN87kphCs,182
+950,Wichita Lineman,Glen Campbell,89,6V9VCm1zOY2lGR80RehJ9i,186
+951,Wichita Skyline,Shawn Colvin,89,4mtRuEDlwvtnsge8Owi22c,218
+952,Won't Let You Down Texas,Chamillionaire,6,3Yd8ejd801K1suN0jT8DO1,1080
+953,Wrong Side of Memphis,Trisha Yearwood,46,3YgGtQfSy4Lrz3uFW0mL5n,167
+954,Yo Home to Bel-Air,DJ Jazzy Jeff & The Fresh Prince,5,0XsMR5jdR5nCXfJrB3Wfk9,321
+955,You're the Reason God Made Oklahoma,David Frizzell & Shelly West,67,6h2uiSGYI1oLzYg0MvBs6v,204
+956,My City Was Gone,The Pretenders,80,3CTxcImER2VN4xGVF4mJCV,325
+957,Living In Brooklyn,Product Of Da Neighbourhood,0,0z4ykE3ehogu5MPjx2iOrm,585
+958,Lola From The Copa,MC Lyte,0,2YgcWQzHcbGrBAdurqSIjx,185
+959,London Life,Ian & Sylvia,0,7ADQuzg2Z8ZGyTok4uCys7,165
+960,Lonely in New York,Sophie Milman,0,3mDGm2OjFK4I8urwvoFcjb,197
+961,Lonely Town,(from the musical On the Town),0,75drf0E928cIeOCti0lcAF,239
+962,Long Island Boogie,Flip Phillips,0,6coepBpeEoFv46cya6zuJF,180
+963,Long Island Lady,Marshall Tucker Band,0,03W2vTk1NMXplVK1FplvHs,290
+964,Long Island Sound,Stan Getz,0,1ydOU96lT5Z1gTkcsRWsAy,175
+965,Long Island,Dumpty Cooper Group,0,7JyYVKST1Rf5VErIoajGz4,242
+966,Long Night In Long Island,Red Alert,0,7yhAtdgPsWGmRiYSwKt8uG,266
+967,Looking for Love on Broadway,James Taylor,0,0aYkXRhGQLINhdv69RSmVK,141
+968,Lost and Found,The Kinks,0,6AVV26xXHg4f4oGedjUkeh,129
+969,Lost in the Flood,Bruce Springsteen,0,4x8vfPspwVPHRh7LGf7Whg,313
+970,Lost in the Streets of NYC,Tom Trago,0,7sCHLirrIq2Ap5UfL8gbZ9,277
+971,Lost on Bleecker Street,David Ippolito,0,06jMLDJllI6nEJOqwjckq2,271
+972,Love On Broadway,Jerry Lee Lewis,0,2nOW16PqGwDHFJ7KWgRh1N,150
+973,Lovecraft in Brooklyn,The Mountain Goats,0,5H9xiKyWF4YiRKG8vpx5wU,231
+974,Lower Bay,Dumpty Cooper Group,0,3tlq5DFXWccWuoQaY0WQxm,267
+975,Lower East Side,Justin Townes Earle,0,1wv5dgpjn3ZIN16JzAhhhu,186
+976,Lower East Side,U.K. Subs,0,15KEjlLNQOEaFOlRL25B8C,222
+977,Lower Eastside Blues,The Nu Band,0,3kXKg85vGKWOTOkNViKfg4,634
+978,Lower Eastside Tourist,Mark Eitzel,0,7GEAjeF8wu8Lp8VApgrIV7,228
+979,Lua,Bright Eyes,0,6BqrPvrPOwpYkdLCgSqtVB,271
+980,Luces De Nueva York,La Sonora Santanera,0,6C6Imrn5xI0xhqupKODLze,184
+981,Ludlow L,AaRon,0,7LWlKuaCBFEMHC2CPbqLWq,243
+982,Ludlow Street,Suzanne Vega,0,0vWAmBsgvd05psxk4rUrdC,195
+983,Lullaby (2 West 46th Street),Moondog,0,1Xnymn4qUNxypUtTszxiu0,261
+984,Lullaby of Broadway,from the musical 42nd Street,0,6xbqVXpGN9mTx5cCFrkBmd,86
+985,Lullaby on New York,Aztec Two-Step,0,6SBVGrjnyAVR3E7hKd70Af,307
+986,Luna En New York,Joe Sample,0,65dL4fMU7O10RqyOPXMNBP,297
+987,Luna Park,Pet Shop Boys,0,3kt8w2ZegnKD8jXw1dITKU,331
+988,M79,Vampire Weekend,0,3PYTEgSf4opLzuUiPecUqS,255
+989,MacDougal Blues,Kevn Kinney,0,4IqQIdEMRcNVkLDMItydpl,234
+990,Machine Gun Funk,Notorious B.I.G.,0,2bXI4Rbw1D7aVeHWLjn1Lb,255
+991,Macy's Day Parade,Green Day,0,3zca0nsKOLnN28ftZEXAQn,213
+992,Madison Avenue Man,Greg Kihn Band,0,5Y2EmzDS2udQV79yuwXYw5,287
+993,Madison Avenue,Gil Scott-Heron,0,3CNjzfkOrbdXPbTUKVNFJ4,289
+994,Madison Avenue,Kid Creole & The Coconuts,0,4vXVb3tmJGKIDpes7NMCrY,190
+995,Madison Square,The Madisons,0,6dbiSlgidO9lp926Q9RkwC,95
+996,Make A Hit Record,Bo Diddley,0,1RHY0Mnj5UsqHCkcNJtgUE,303
+997,Mambo At The Waldorf,Xavier Cugat & His Orchestra,0,5uWBbn3YuXeXPSPu0OzEQN,160
+998,Mambo Gotham,Erroll Garner,0,4Q5igUiYyZv39RmLC5rRmt,210
+999,Manhattan (Island of Lights and Love)/Manhattan,Herbie Hancock,0,2Mnhv0ODwaROC2W3kPbIxY,245
+1000,Manhattan Angel,Scott Bedford Four,0,6xnaYRFWIgRJUWtJFsh9u5,153
+1001,Manhattan Avenue,Nellie McKay,0,0VPYh2evYHO7JS2TcBEILC,218
+1002,Manhattan Beach,John Philip Sousa,0,4fXAFiE1hxuEPCMxahY59H,199
+1003,Manhattan Blues Variations Rag,David Chesky,0,7DFucEooyAd9JGEN9zrsgI,137
+1004,Manhattan Cowboy,Susan Cagle,0,4NRuroDwrwVUXPoY5VcvIe,207
+1005,Manhattan Fable,Babs Gonzales,0,7ARPGi9UEaJZgkrIb9jeyX,155
+1006,Manhattan From the Sky,Kate Voegele,0,523xr53yavDWpxl7etEdag,211
+1007,Manhattan In Blue,Malta,0,1ebd7dEJjJ1iRCWp6C4UdZ,432
+1008,Manhattan In The Rain,Norma Winstone,0,68i1qyjHAnemJcYtgw9uWX,308
+1009,Manhattan Island Serenade,Leon Russell,0,3wCvVc58yN1WnasWOzKtcf,205
+1010,Manhattan Love Song,King Errisson,0,2hLCeNNVS6llAEpJhhN8yy,621
+1011,Manhattan Lullaby,Mantovani,0,7kepVA5wUdW1AeIUmJfFHN,171
+1012,Manhattan Madness,Irving Berlin,0,18qqTrzbj8psiv6CJgHXu0,125
+1013,Manhattan Mambo,Ted Heath and his Music,0,28ufkr9kIHPtlV2if32R0O,238
+1014,Manhattan Melody,Herb Alpert,0,5vxadVMLRKUaLplSdMo0jr,344
+1015,Manhattan Moods,McCoy Tyner,0,3fovhcOOaptGBN1jAtVpwm,360
+1016,Manhattan Morning (Christmas '72),Flash,0,68Hbg1Y9GsbtM8x6ee8Ep7,385
+1017,Manhattan Nights,Jeff Tyzik,0,2Y9Q6Sh3kchzShJH8L7hfM,285
+1018,Manhattan Reflections,Ahmad Jamal,0,0hGxuIzvufsCS6GJfFhIge,379
+1019,Manhattan Rock,Elliott Murphy,0,6OPE0sMDtsIObd7Cnt7v3B,241
+1020,Manhattan Rumble (49th Street Massacre),Electric Light Orchestra,0,6YsNLpq5Pth5ZZS27jWJib,262
+1021,Manhattan Skyline,a-ha,0,1xrSl6T4wIKIoicgn5ITe0,287
+1022,Manhattan Skyline,David Shire,0,4r8aHCSHA98P1BYqvJN8kI,283
+1023,Manhattan Skyline,John Miles,0,58g20fTgyPSqhC1SnslLcr,214
+1024,Manhattan Skyline,Julia Fordham,0,5hCgNIgACuiziQt97CRRwv,247
+1025,Manhattan Skyline,MFSB,0,4fGNabqT8BB63Qs7tpHu61,286
+1026,Manhattan Skyline,Walter Jackson,0,5pdV92LJ2aasTEDKtkFsTy,166
+1027,Manhattan Spiritual,Reg Owen,0,5KoYGd11C4KmmikVsp4G4I,165
+1028,Manhattan Woman,Village People,0,67EhFjoccFShsnhXk4dLzm,311
+1029,Manhattan,Bob Seger and the Silver Bullet Band,0,378Y2HYWUxcht7Vkt9yoY1,322
+1030,Manhattan,Caetano Veloso,0,44e5mqRcOYXqYKJFGWmKsH,238
+1031,Manhattan,Cat Power,0,5T4Bf4aKOR4ewZBPJCYGVB,316
+1032,Manhattan,Cinerama,0,1khiYHkPcHhAQd4tR55BYm,283
+1033,Manhattan,Dumpty Cooper Group,0,0UnoFqDTW37RbjfTVRmcJE,203
+1034,Manhattan,G'race,0,7Ea9rTssvqTx45WX9mlctO,177
+1035,Manhattan,Jan & Dean,0,1HxDkkelCXeYTeU4Q4D4Ex,142
+1036,Manhattan,Kings of Leon,0,2d5vz9uU5Jan1rX8mkxw2w,204
+1037,Manhattan,Laidback,0,08GAvH3h9qEi7zRsGwJP4h,111
+1038,Manhattan,Paul Korda,0,2pCJILWPQJCUQPL96x2vDq,251
+1039,New York,Ken Hensley,0,2NT3kroDTzteoYtoU2mkLI,145
+1040,Manhattan,Sara Bareilles,0,0aSgzAUObtmSSwh1yO6shv,278
+1041,Manhattan,Scott Walker,0,7mW4uXsGvXaqZQh6bcd1Tf,365
+1042,Manhattan,Turnstyle,0,4WoiQ7WAzAea1828wBuz0E,131
+1043,Manhattan,Visqueen,0,0A7bgkEVUI7pl9tHci9Vwa,172
+1044,Manhattan,W&W,0,4erU8BgtcouGDjNmtYCTQV,414
+1045,Manhattan,Yves Simon,0,2Mpe790pHiugHY2U80Ckcd,191
+1046,Manhattan:Rico,George Russell,0,4V3VT8AgyIzXJFTIOmKlBw,612
+1047,Marching Bands of Manhattan,Death Cab For Cutie,0,7xBWYN1Dzciatr34K6sfDh,252
+1048,Marry the Night,Lady Gaga,0,1k18nxjYj8R5iz82Ap7GEY,264
+1049,Max's Kansas City,Wayne County,0,5cUvm4K2933YSIM9e1dwbV,233
+1050,Me and Julio Down by the Schoolyard,Paul Simon,0,6vxHp3CDNo0afgKGp2yi1E,164
+1051,Meet U In Brooklyn,Fabrice Lig,0,2upfHvPHTwdzoufVItswwj,468
+1052,Meet You in Manhattan,Michael Sicoly,0,0Q31zxwsL69WGgaWrOSmtt,205
+1053,Navarro Flats,Bobby Shew Quintet,0,0OkrgQyklOSWdJdaP6pXKU,248
+1054,N.Y. Stars,Lou Reed,0,2U43kPL3mPvxPcvkI0diOL,239
+1055,Meeting Across The River,Bruce Springsteen,0,22wGmrE8HQZHvHC44n7Htm,196
+1056,Mercy On Broadway,Laura Nyro,0,7JvOslc2HJhG9iVYckFTPA,132
+1057,Mi Barrio,La Casa,0,6XylhLBAQlaWvrd6Pd1KOk,190
+1058,Miami 2017 (Seen the Lights Go Out on Broadway),Billy Joel,0,6uC9fa50cFyDOc1BTOLXiM,311
+1059,Miami To Ibiza,Tinie Tempah,0,5ZFVacinyPxz19eK2vTodL,206
+1060,Mid-Manhattan,Casiopea,0,2u4rscQKwGY9Tvv1Zv7sIi,282
+1061,Midnight Cruiser,Steely Dan,0,2FordL1GuYW61u43IuJdry,264
+1062,Midnight In Chelsea,Bon Jovi,0,6I78rVAWodtfiD9YXUVHzY,297
+1063,Midnight In Harlem,Tedeschi Trucks Band,0,1ncSAZD0bzvU3cu0uPLbWd,352
+1064,Midnight In Manhattan,Peter White,0,3HMDFevQzJFDInhHmP2sRM,289
+1065,Midnight In Manhattan,Seventh Avenue,0,0vslErkO5yUaycFWwMhz9P,360
+1066,Midnight In New York,The Demotrons,0,3DlegLqfPgkh8UaT1pQfLL,129
+1067,Midtown,Tom Waits,0,1a3D5gIwSuoKHg9DLlLEUO,63
+1068,Minetta Lane,Tommy Page,0,4tZe1HkjVK9SOmwPGdXB3m,183
+1069,Miss Broadway,La Belle Epoque,0,3vZKrLFVKb3bh90D1w6QMP,439
+1070,Miss You,The Rolling Stones,0,3hJLKtTpgct9Y9wKww0BiR,288
+1071,"Mister Patton Aus Manhattan (See You Later, Alligator)",Renee Franke,0,0P4Z5Uo4LeOAiSJ8y6qXeF,165
+1072,Mizz Bed-Stuy,The Brooklyn Funk Essentials,0,7JssacluisQKKP55b3D6bS,248
+1073,Moment 4 Life,Nicki Minaj,0,1ia019RqDK2o4QiANR1Dyn,279
+1074,Mona Lisas and Mad Hatters,Elton John,0,5XY9FK0mB0BS0u8YB2ehN9,300
+1075,Moon Over Brooklyn,Anne Murray,0,0kDM0qb1zgcKje4BzFKjms,240
+1076,More Shine,Si*Se,0,3ArMUMoh4QMxiG044fEe6G,276
+1077,Morning Broadway,Keith Mansfield,0,6X0ufegIaeHxuShNKKmIGQ,125
+1078,New York City,T. Rex,0,5BpmUwLynqu5NTsd2ZvhUj,238
+1079,Morph the Cat,Donald Fagen,0,70Gyr3J0em5JccIffFkBDw,408
+1080,Morris Park,Lenni Sesar,0,4vR3bRcIGFeWE0j8OE95GV,268
+1081,Morton Street,Get Wet,0,1z8dk06kAfkyhffR105NWs,234
+1082,Mother City,Ginger,0,6L5pjhM3qQAIn4T3syk9iM,160
+1083,Motorcycle Drive By,Third Eye Blind,0,47wtXjG0Sk6DI6cjkRBcEg,262
+1084,Moving To New York,The Wombats,0,5YHhxbtAAkOiIXqNBfYjZU,210
+1085,Moving to New York,The Wombats,0,5YHhxbtAAkOiIXqNBfYjZU,210
+1086,Moving To NYC,Spek,0,46msov87NbkKpgs0VUhWxb,247
+1087,Mr Broadway,Dave Brubeck,0,5mkDEVVqLe1TvYxavjvKkg,439
+1088,Mr Madison Avenue,Lollipop Shoppe,0,3t0USnzKX5RfmW5Jp4sv2D,154
+1089,Mr. New York City,Asida Soul,0,4prTDbSqrWVkWPrHMisiPi,306
+1090,Ms. Park Avenue,Southside Johnny & The Jukes,0,58jBSi4ss1TVVInIE0At4C,192
+1091,Murda Murda,Juelz Santana,0,0rribkDyDIWoYnnMHfoMKt,244
+1092,Murmansk Run/Ellis Island,Al Stewart,0,1m9NUEhYSVDVJY4mRoymjm,433
+1093,My Apartment,Ben Kweller,0,3zyWMofBXIezgttRuQcYln,237
+1094,My Blue Manhattan,Ryan Adams,0,3iZ13I87A4NxRu2q0eXQmN,142
+1095,My Life,Slaughterhouse,0,5j21tjqJmMO5Jlu1uKZysY,261
+1096,My My Metrocard,Le Tigre,0,7EEst6o3tDcp8Rqm2KljUV,174
+1097,My Philosophy,Boogie Down Productions,0,2P8KBF5BtraQiGpxDXrCnF,340
+1098,My Ship's Rolling In,Drink Me,0,0XZMvCrJpcTHUDeu1sNdc3,169
+1099,Myriad Harbour,The New Pornographers,0,5XRgh8sTHjMQLcYQHXIYBt,240
+1100,N.G.A. To N.Y.C.,Skoota,0,3tWcjOHKJBHh797fyJpbdf,252
+1101,N.Y. Kangaroo,Eddie Billups And The Gigs,0,0VNTMMA6LUxMbCxevQBQSq,138
+1102,N.Y. State of Mind,Nas,0,0trHOzAhNpGCsGBEu7dOJo,293
+1103,N.Y. You Got Me Dancing,Andrea True Connection,0,3zg3c6ZqxN48124dp39hRt,361
+1104,N.Y.,Doves,0,3e0U49WI7AS1UnPmX10wN7,346
+1105,N.Y.,Frida Hyvönen,0,0bXtXyMdaCirqsMMoHnJwp,113
+1106,N.Y.,Titiyo,0,7GGBywi80k3UC0xeeVOYuW,289
+1107,N.Y.C. L.O.V.E.,Coachwhips,0,5hCvsguLKaUTVFHCKM6vT2,99
+1108,Ne Me Quitte Pas,Regina Spektor,0,7til9cDK5rExLomnvyUhS3,217
+1109,Never Enough Time,Nate Borofsky,0,2CaJhoJXtgHSkoi05FGD4Y,195
+1110,New Amsterdam,Elvis Costello,0,0cUqdLp20Oz7zolsvB9oxS,131
+1111,New Amsterdam,Travis,0,6PgaNeA2Vnoadj83mNckKh,157
+1112,New Killer Star,David Bowie,0,2cKFC8E1RAL0A8VErVsFLp,280
+1113,New Lee Highway Blues,David Bromberg,0,4V1vTNNi7PgxYbeAsTrnrF,339
+1114,New New York,The Cranberries,0,6iVJrNhc3GDWTCKQvxkU9k,248
+1115,New Times Square,Chris Rea,0,5YvlLMFPE10I6zXESFk4FK,284
+1116,New York (Hold Her Tight),Restless Heart,0,0jSOOUd7wtnf7JK7qPKf4A,224
+1117,New York (Ya Out There?),Rakim,0,1mZ9xGJuvdCAnDXstJ2MMx,243
+1118,New York - Rio - Tokyo,Trio Rio,0,68h3Um0UOY8FkMfcelv4Vb,281
+1119,New York Afternoon,Richie Cole,0,0VfZUErqhpLEwc30NKQBqS,281
+1120,New York Apple Jack,Scott Davis & The Movements,0,56sxAa0QoWTqNj37hrAFxD,252
+1121,New York Avec Toi,Téléphone,0,3MzqZDQInpsxboLy33uMct,142
+1122,New York Avenue Bridge,Royal Trux,0,3d4q9d0r8dIx5c6gLTvGbd,238
+1123,New York Baby,Leona Naess,0,5yvBE7Zfa7aaL6A43IqLrs,283
+1124,New York Belongs to Me,Roger Miret and the Disasters,0,6UkHRf5C4MmUulUMbR7z0z,173
+1125,New York Blackout,Soul Asylum,0,26ttkJWrWO9BHYfrX869BN,245
+1126,New York Blackout,The Mighty Sparrow,0,3vghvd31T5nXH0kW2iWGxr,293
+1127,New York Bound,the Critters,0,4v9ucSPUvJJDpC4nW1SJjJ,165
+1128,New York Boy,Neil Diamond,0,5zYYo11JcgC8BRCieL8mHA,159
+1129,New York Breakdown,Doctor Ross,0,1CGLhRlkpbtItesOEL5TZQ,179
+1130,New York Broken Toy,Nazareth,0,0norcvL1tsgcNNUdIcAnn7,217
+1131,New York Bullseye,Shadows Of Knight,0,5Wo9g8AH6cFOqMoOasDOHx,163
+1132,New York By Night,Dennis Parker,0,3ZbJLXMWjtr5dVD02m0qOZ,309
+1133,New York Can Wait,Tyler Hilton,0,5K9tVY7A3qe71JDGuZC6dJ,187
+1134,New York Central,Son House,0,5x2vhEEHbCZ5rVSonguOfD,184
+1135,New York City (Saint in the City),The Academy Is...,0,6k83jrwtbCe9eRuetuYy5C,214
+1136,New York City Beat,Man 2 Man,0,4LvqdScS6TSMwRoH5CqQRl,268
+1137,New York City Blackout,Blues Image,0,2DSVj53tvGTnCLWESRYZBF,296
+1138,New York City Blues,Country Weather,0,1FirECeh6QyuNbtV453bDE,272
+1139,New York City Blues,Duke Ellington,0,4WR7MR6jHeg7AbYqQ5uW7C,298
+1140,New York City Blues,Merle Haggard,0,3Cxi7t5WqboKEXsGlj7Spr,157
+1141,New York City Blues,The Yardbirds,0,4OPphRgEcyyBEIGy8XWPrJ,261
+1142,New York City Boy,Mabel,0,0puP4wa6FG2ZLtIA4jp7ER,203
+1143,New York City Boy,Pet Shop Boys,0,7KeoeLwqtTIIgeHkvgxkeT,315
+1144,New York City Cops,The Strokes,0,5g4cz7u4MrUTKDdo1TmABo,211
+1145,New York City Don't Mean Nothing,Savatage,0,2lc97P61hVzft735hwa4Eg,242
+1146,New York City Dreams,Tommy McLain,0,57u1h04sbl6qU9DADndQe0,169
+1147,New York City Dues,Johnny Rivers,0,6xa1v0t9NKZpiEDVze1nU7,314
+1148,New York City Girl,John Waite,0,4knFPBhIeL7G3kgSlIW1OX,290
+1149,New York City Girl,Modern Talking,0,4LN1AFcbxid1gLF18Nukk8,207
+1150,New York City Girls,Reverend Horton Heat,0,6k7nBJtVKesWdpYmHcEJ3V,173
+1151,New York City Here I Come,Albert Hammond,0,3ogi8Gi3oR1UQhcktjYS2u,191
+1152,New York City Is Waiting,Bjorn Skifs,0,35Ji6zbaHRODiXhE1snSyd,182
+1153,New York City,The Manhattans,0,61E6eePTP2jI98OdyHxJyE,242
+1154,New York City Lights,Sophie Ellis-Bextor,0,2Ly5dAySgit0K82pAXyjpz,233
+1155,New York City Moves to the Sound of L.A.,Funeral Party,0,1YYxaWqfW90LSFTlkTNqr8,269
+1156,New York City Nights,Leif Garrett,0,3JgQJCk2DU07H78pnlUFrv,170
+1157,New York City Pakistan,Terre Roche,0,0RsXE2ve5hhURkQqF5ycpL,374
+1158,New York City Rain,Love Pirates,0,1tVhtIY54HnehS07pW70YZ,292
+1159,New York City RFD,Waylon Jennings,0,3CofUMd1rOkmdomBVFtyMw,145
+1160,New York City Rhythm,Barry Manilow,0,6VjbV77jF8A05lJ7ZDSbme,284
+1161,New York City Serenade,Bruce Springsteen,0,3FYbqh8NmoLC8c1mMJ05mM,598
+1162,New York City Song,Dion,0,3m8kYNJtfFOyYxRzVnlyk1,225
+1163,New York City Streets,COOL DAYS END,0,2fpD7QllKGTsA7Ip85Yp9U,254
+1164,New York City Streets,Triumph,0,0SXV3Ke6C9kDNhcuJKzV0f,189
+1165,New York City Twist,The Candymen,0,4BPmIPhIMvHsrDUbfJq4VY,159
+1166,New York City,Alex M.O.R.P.H.,0,3uGsBBESeDs4s50u0AoZU6,422
+1167,New York City,Alphonse Mouzon,0,0Y8xTxdpYAVCQyDSwtzYHJ,247
+1168,New York City,Among Savages,0,52cqfwLfwvYWlHrhf83cnq,207
+1169,New York City,Artful Dodger,0,6GT1o7mux6Db8d5rgVIeX8,186
+1170,New York City,Atlantis,0,6BXeoajiS2EM041oBAPHJg,251
+1171,New York City,Bjørn Christiansen,0,1EPrDIzWdGHUS1katILq69,258
+1172,New York City,Boney M,0,70j2VozTYrP476lvZPQUq8,223
+1173,New York City,Central Park,0,5Ev27rHMmNkRoWL2Y3o3YX,319
+1174,New York City,Christie,0,4z7bcB35kIix9A8wF9V1vu,187
+1175,New York City,Clarence Reid,0,4Im0WeREdbQvemZ8NOIQAO,182
+1176,New York City,Damon and Naomi,0,7L2y1Ovp9QtQ7BTmHIGDKS,289
+1177,New York City,Delbert McClinton,0,0Ng1BzPDttMbnVWAIBgS6h,213
+1178,New York City,Eddi Reader,0,0Ey3A4z3RnjapGsC04nE3v,311
+1179,New York City,Elliot Matsu,0,59CpZiTfbv7wUBnXLKQdf1,269
+1180,New York City,Evergreen,0,7bemM6LFrErJBvMlefdJD4,214
+1181,New York City,Fist,0,1otI3fFc6OSX1kR0PApS4Q,351
+1182,New York City,Frances Black,0,70ZIcNYkvdXHEJuUytAg9t,192
+1183,New York City,Gil Scott-Heron,0,4JWCUyOvdUgcAVvEZ4utT8,369
+1184,New York City,Hanoi Rocks,0,2O9iHlD7Yvwp3cgkDJZz5v,232
+1185,New York City,Homer,0,6StLaoIKbFr2Z75BPiYgtb,226
+1186,New York City,I Roy,0,0qTjegtm23L8Xr9kRBccK7,196
+1187,New York City,Iceland,0,6YucZ9NGEX2GTqZAkTq3KQ,240
+1188,New York City,Israel Vibration,0,3CMnDMew5cpCEDUgG3bT72,277
+1189,New York City,John Lennon and Yoko Ono,0,6uKsrF9ejNeVy0lZvOQFdp,318
+1190,New York City,Jonas Fjeld Rock'n'Rolf Band,0,2nfCyhRgmWK1KpHExGKA9p,92
+1191,New York City,Keith Caputo,0,2EVgWcrBoHOGbw7pOdh8H1,275
+1192,New York City,Ken Tobias,0,1o9KLOSMTdmcBAK9MRL5fB,216
+1193,New York City,Kevin Johnson,0,6w6mo4gWYX0YHH1ezkut6N,225
+1194,New York City,Madball,0,2YL1QdU29cFAHrijICeiWA,121
+1195,New York City,Mason Jennings,0,58oPELZbPg4G1X9WyTvGu5,202
+1196,New York City,Miroslav Vitous,0,1OnC2WpS5VJQX4lcjkTaLB,571
+1197,New York City,moe.,0,1yF0XAuEW188KbcpVTnxLv,207
+1198,New York City,Mojo,0,0289f1BuzYQeAKRiQUuarf,540
+1199,New York City,Northbrook,0,67nVa9lxYVvkMlVziFPg4g,300
+1200,New York City,Paul van Dyk,0,0E7yxFWj0ISSzxKmkQimms,250
+1201,New York City,Peter Malick and Norah Jones,0,2n3aPf1BuhHHmMNWQsw7sL,235
+1202,New York City,Ph.D.,0,1XeCCcv0C9vD6Z8P9E8uhG,177
+1203,New York City,Roxy,0,0X0muZgz2cxzAxQBrwsXnh,151
+1204,New York City,Sham 69,0,3wSYnE5YuHy44LbbCm2Qvm,166
+1205,New York City,Sonia Dada,0,4iQtA0Dji26Orj9jUTCgqt,207
+1206,New York City,Stanley Clarke,0,4jKD2xBciad9QtTuiw2zr6,344
+1207,New York City,Suzzy Roche,0,3RwXujkjy0bAyAuTC0GUSr,201
+1208,New York City,Tabou Combo,0,2cJJoWEccalRGAZO0PqQDi,526
+1209,New York City,The Cult,0,2eAUmupMVz9Hozf4gJ9L4l,281
+1210,New York City,The Demics,0,0euvhSLLNFRgPXwdX6Riwa,271
+1211,New York City,The Destructors,0,4TFeAtUa1HeYf4DziDdHCi,155
+1212,New York City,The Fleshtones,0,1WU5tJoCaOFatenQsDOzCk,167
+1213,New York City,The Lox,0,3PIRbVPNUgEFdmH7b14b8x,180
+1214,New York City,The Nuns,0,44JxREtHBYju2nZiN0VRtA,289
+1215,New York City,The Outfield,0,1nOY1bbcO9sEmH02OcUrXP,250
+1216,New York City,Troy Ave,0,6DopJoQqLEQvni0lNhYWm9,314
+1217,New York City,Veronica,0,3of461w1flcSh5iBnGohuH,295
+1218,New York City,Village People,0,33Rpy8ZyT1OHyoFn3z8uc4,360
+1219,New York City,Wild Horses,0,7L29JohuUJ7MbrqcdUfEoO,312
+1220,New York City's A Lonely Town,Dick Jensen,0,2ZIYslIHusSW033gC5EVhr,190
+1221,New York Collapse,Sassafras,0,6vpia76gbDUk5f9XSTitBP,361
+1222,New York Connection,Tom Scott,0,0KClyNWfsTfmaofHr510Cl,264
+1223,New York Crew,Judge,0,37zEVfh1UaWVfR0gQsJtOx,105
+1224,New York Dash,Keith Emerson,0,57iY8Dzyl3JdST332HZiJK,92
+1225,New York Doll,David Dundas,0,2GsPgsYJL1fzk8SVraFUjz,229
+1226,New York Dream's Suite,Happy The Man,0,1JWZAZtZMj85mSTr1MqHys,511
+1227,New York Electric Street Music,Larry Young,0,5KUKM96ujnePGJZoKlItTU,514
+1228,New York Fever,The Toasters,0,2E3trbS49TAWZT5FpuDnEI,127
+1229,New York Giants,Big Punisher,0,2pmsuhR9b0oe6Sgdn1cFfL,210
+1230,New York Girl,Deedee O'Malley,0,5ameeZEbM3vzxOwYX46RmY,288
+1231,New York Girl,Simon F,0,18alhJMrFfS9NErsHbmIVz,152
+1232,New York Girls,Steeleye Span,0,3psPJiOAtRrhlWYxBNvG8n,182
+1233,New York Girls,The Mooney Suzuki,0,37CSvgb9EJtnZN1Gwt4ilZ,235
+1234,New York Groove,Ace Frehley,0,1BvpeiApX8qhof8Pmi3YlH,183
+1235,New York Groover,The Gorillas,0,34fCEIacIFwotS9QN2xZzq,213
+1236,New York House,Jellybean,0,0Pfpc6Bmmw4eWPr0g0UEy3,386
+1237,New York in the Fifties,Stephen Bishop,0,0XmRqAaHcieJsfx8nyvN5M,233
+1238,New York In The Spring,Catherine Feeny,0,0g2QHbeoWyzWwZudMycvt7,159
+1239,New York Is a Christmas Kind of Town,Marah,0,5mLRbfYSqMeKMLHpsyN2nd,181
+1240,New York Is a Jungle Festival,Herbie Mann,0,3n1fmlOyASkfvj6cOLJEZ6,593
+1241,New York Is a Woman,Suzanne Vega,0,2rOiPxBd2YBXqoo8nzy7QS,196
+1242,New York Is Closed Tonight,Barry Greenfield,0,3iRUKPlfpxnE43567lcboW,203
+1243,New York Is Killing Me,Gil Scott-Heron,0,698P8cDwdZgT436Omdo8N1,269
+1244,New York Is My Kind of Town,Metropolis,0,1ZP6SvggsXIK7ewTt6K2Zm,432
+1245,New York Is Rockin',Curtis Stigers,0,1ODG9skvAXG6j38Um7Tp3w,243
+1246,New York Ladies,Michael Chapman,0,7cLYnEYatq9oTjHE4giAsX,569
+1247,New York Lady,Burt Bacharach,0,3ddYXguQNAp9dDv7ZcasKW,314
+1248,New York Lament,Horace Silver,0,6llgaajpdlG9k2sZRvDGLM,281
+1249,New York Lights,Fort Atlantic,0,0gf8W4jt1uiKFELALmVnBH,208
+1250,New York Mambo,Johnny Colon,0,5lelDIvOCYUJ1YuG0l30Qt,154
+1251,New York Mellow,Bob James,0,18JlUzZR97Z1tMdOAQkHYW,209
+1252,New York Mining Disaster 1941,Bee Gees,0,1WvEr42lxz4P06DlIuYdmr,132
+1253,New York Minute,Don Henley,0,2jxqu3v4AZAhUNvdAbDGet,395
+1254,New York Minute,Mobile,0,7aGepJGWikQLSdaHRAsVyu,215
+1255,New York Mood (New Haircut and a Busted Lip),Tom Waits,0,4udqw5q9MtzXYDdL3UD1sE,158
+1256,New York Morning,elbow,0,6ADh6olpF5MakJbj1l75Ki,319
+1257,New York Nagaram,AR Rahman,0,3WqTLAB7u84IHk91AQZXHa,377
+1258,New York Nights,Manhattan,0,5NG92nMKHmN81lZZ1UJRif,121
+1259,New York Nights,Recoil,0,4KExBI5XTgULAHQO22pw3h,548
+1260,New York On My Mind,John McLaughlin,0,2GvGgOU2DhwZQ22AFZm4x2,344
+1261,New York Or Here,Jeff Pianki,0,02iW7LyqeINdS0Qehs7IJC,194
+1262,New York Ryder Music,Agallah,0,0ymuCoJY5ZbRdfmMuIfG87,219
+1263,New York Shit,Busta Rhymes,0,2T9LBQxMj07M7FQ511cEjW,181
+1264,New York Skiffle,Half Man Half Biscuit,0,05wnLlkonclLxlniJb551I,121
+1265,New York Skyline,Garland Jeffreys,0,2LHVMc1B8LuX3KYmBsO4ZW,211
+1266,New York Skyline,Sam Signaoff,0,6aEPxDXJ408mCjIcuEQoBX,126
+1267,New York Slave,The Blood Brothers,0,6gC9KOPvqImo98N7e5Yb9v,161
+1268,New York Snow,Lunch At Allen's,0,0yNrdwFwDineRv0e3ZJvG2,292
+1269,New York Sokaklarında,MFÖ,0,66PjnDVQblpmN65naZgKfB,213
+1270,New York Soul,Ray Barretto,0,72l8AJZ9rhJHjulPvsdlDd,165
+1271,New York Stakes,Pete Haycock,0,5SibeoqJJOav6G6MBpK4fc,318
+1272,New York Strait Talk,Gang Starr,0,4kWm53cikiksuB6TaPzhyF,254
+1273,New York Street Song (No Easy Way),The Four Seasons,0,27UYEHssL0tdyajHwvrljq,296
+1274,New York Style,Fatback Band,0,096iK9QzLM2DWrWAwboDcp,323
+1275,New York Subway,Lord Invader,0,0Jy5KjxhrOJ2kJrDjD48Li,190
+1276,New York Sun,Tyla Gang,0,7JB6E3G7MzkOCs8WVzRIpt,195
+1277,New York Survivor,Good Rats,0,0V1HOWAlz4dym011S5OFz1,160
+1278,New York Telephone Conversation,Lou Reed,0,07kgKnZT1PAOnt4fW8IIXK,94
+1279,New York Tendaberry,Laura Nyro,0,2VESf4DiwSf8nne5kMVTpa,272
+1280,"New York Theme (Hey, You Can Have that Heart Attack Outside Buddy)",Tom Waits,0,4Wr3K46W4NMjfnCUEl2gBL,243
+1281,New York Time,Night Ranger,0,7rU2ZT6SWBwpfD2qpCbr7M,280
+1282,New York Times,Bobbi Humphrey,0,75beUJVji54O01lbMrpVG6,413
+1283,New York Times,Cat Stevens,0,6cXQyaSoMhGcSFFc1wgd5i,204
+1284,New York Times,City Boy,0,0o1gIL2BCgnVXdSd7WiFzx,311
+1285,New York Times,"J. Cole, 50 Cent and Bas",0,2O1vTF3y8Jq1XSrgSto6YL,271
+1286,New York Times,The Motels,0,2OI4huzLsiGkOWSIDbvgtj,237
+1287,New York To California,Mat Kearney,0,6zo7wdnPZRAkgFPvb5JMXi,252
+1288,New York Town,Baldwin & Leps,0,3fYVL7U7E38Gt0BmV9pObP,216
+1289,New York Town,The Dixiebelles,0,5a5z6kXCJ9WXwj0VZUzihF,141
+1290,New York Town,Woody Guthrie,0,5sVuzjB0r2ac42HuLPGSYq,427
+1291,New York Wakes,Horslips,0,40RpbPXAVOrxMQuMNJg9Ek,244
+1292,New York Was Great,The Raveonettes,0,5HVoc7MXvpOmNHmBY07Xaf,167
+1293,New York Wine And Tennessee Shine,Dave & Sugar,0,62klnQOr1eHVRLkBE0RVe9,144
+1294,New York,Alicia Keys,0,1wfaQ0EpdUNqZdDjgG989o,455
+1295,New York,Arrogance,0,2mNLuRRBNQQaQEUTd8knZY,215
+1296,New York,Cat Power,0,5mhzHPJ2pYeH1Dj9Nayegd,121
+1297,New York,Continental Drifters,0,0iPYIyx17sEo24ndQPULwt,218
+1298,New York,Dreams,0,3Ni6RhAIjbaDvkHep6Afnr,233
+1299,New York,Ed Sheeran,0,0NJDrEZdTbVPMKC0Zbglgn,235
+1300,New York,Eskimo Joe,0,2wJ7A4y1l70WpEb1ABguVw,234
+1301,New York,Flower,0,11Er3qlX9yXQjhvHkmvcBD,230
+1302,New York,Frank & Walters,0,4CQBQMjOWxu29LJP7uopSx,209
+1303,New York,Hugh Coltman,0,3IGOvzz9jckUayvfyjsz5H,156
+1304,New York,Ja Rule,0,7xXvPyOiFCsB5SSpio5g38,258
+1305,New York,Joe Purdy,0,5l6sDoqkuMATSVPcLXcF7Q,54
+1306,New York,John Lewis,0,7tLTovSYbfwkz2GhdCEGrF,134
+1307,New York,Le Butcherettes,0,1mwYAGQASYBs45MVnOEQTZ,118
+1308,New York,Lighthouse,0,3lbOruo8B89FCUn6YwtoRn,241
+1309,New York,Lil Louis,0,5OaYcfR4iOfx1EcgdbP20G,248
+1310,New York,Lil' Louis,0,5OaYcfR4iOfx1EcgdbP20G,248
+1311,New York,MCL (Micro Chip League),0,0ilyJ1rLXgjpzpqFR40mKk,306
+1312,New York,MCL - Micro Chip League,0,0ilyJ1rLXgjpzpqFR40mKk,306
+1313,New York,Melissa Horn,0,5GjvXn7LnDY97RNcWyxqlq,209
+1314,New York,Mere Sang,0,585SYEI9JiuPwTifUycHe0,388
+1315,New York,Nikki Sudden,0,5ckyB9W3PvbRe9rcleEgC3,90
+1316,New York,Nostalgesia,0,7jSv13sWhSXas4yngz9DnX,152
+1317,New York,Nuggets,0,43U9ivooFS1ErD2E4pcubo,170
+1318,New York,Ornette Coleman,0,3ASbn4OVbcg1tnSjmdyREe,523
+1319,New York,Ozark Mountain Daredevils,0,0LLEJnsALoep12XUEPOfJ3,212
+1320,New York,Paloma Faith,0,0Xy0S3KxaK0IcJHgryZr0h,219
+1321,New York,Patty Pravo,0,5fXldsDJwGFGt3HxahSdIb,257
+1322,New York,Piu Piu,0,4FnK4IknaOliYVhtZwgmor,441
+1323,New York,Prozzäk,0,4mXxtdenled3deg9ARoYCP,247
+1324,New York,Raf Ravenscroft,0,3T6hPU6E9vPH4ypGHG8OTH,224
+1325,New York,Richard Ashcroft,0,2pfIHg9C2sk8pwCvkrddZ6,330
+1326,New York,Snow Patrol,0,7tI6xPZworV0dPtf5ZMMF6,241
+1327,New York,Stephen Fretwell,0,3HC6uSt6Ymhyd5aKtrpUPb,167
+1328,New York,Supercharge,0,32YqzdrmD0EaaMbGB4SjJh,359
+1329,New York,The Caravelles,0,7BjOiNZNI16pjtLDSMwM35,146
+1330,New York,The Crash,0,1wDfhmlEvVEbQnEIdMRfvf,181
+1331,New York,The Game,0,1yMQslaMsOoei14TfGwkk2,141
+1332,New York,The Gladiators,0,51okCk6NuL1awohXfVb1GS,189
+1333,New York,The Sea,0,4hB2Mn8sMqHkv9P03fvzuZ,593
+1334,New York,The Templars,0,4t0d8ItbbuNIv4c3bhHUkZ,205
+1335,New York,The Worthless,0,5lODJMzKvpNrkuOZfnVeUS,306
+1336,New York,Tomte,0,3IVsurJCjYqxoAtfOFJBDG,287
+1337,New York,U2,0,49OhVeFZ9q0cIkgGfBStnq,328
+1338,New York,Vennaskond,0,2CBvfK5CKQI6Mrfo1TT7PE,286
+1339,New York's A Lonely Town,The Trade Winds,0,0yZsBLZVU2HTMlMqYvWevJ,133
+1340,New York's In Love,David Bowie,0,3YcTIsCP4dmLWID1RdCI7s,274
+1341,New York's Movin',Ahzz,0,6Wlf0He27nuHeFdRhh9kqo,474
+1342,New York's Not My Home,Jim Croce,0,2iAe3yqQ5QYX8SI1iF4kJ6,189
+1343,New York's On Fire,Seventh Avenue,0,54NmIoTzMjFqLSyRIqkxnt,508
+1344,New York's One Soulful City,Hank Crawford,0,0T9hmEjTAruRuXE2NbV5vh,369
+1345,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0,5rAff9XfcWx7rguN3t0fkW,335
+1346,"New York, New York",(from the musical On the Town),0,3XERZYN5O5cNF3g2dDX7fy,183
+1347,"New York, New York",Back Street Crawler,0,4ceWPG9mDztQgIRBWlAICj,280
+1348,"New York, New York",Denise,0,4AZHvqyQy24IKkd4EjHKh0,375
+1349,"New York, New York",Gerard Kenny,0,1OXgiaZtvKmNKnqofVIDCd,207
+1350,"New York, New York",Grandmaster Flash and the Furious Five,0,6mSDUgdET1SWzDIWRB61Yv,446
+1351,"New York, New York",Johnny Winter,0,5Yteiedw7vtcyUvYVPLhmv,254
+1352,"New York, New York",Marc Jordan,0,51XiqjVVNye6nbYBpTrWF3,145
+1353,"New York, New York",Microchip League,0,0ilyJ1rLXgjpzpqFR40mKk,306
+1354,"New York, New York",Nina Hagen,0,4WhKZ19P37JyoZwMbzuhJB,379
+1355,"New York, New York",Ryan Adams,0,4snBTILMGyRKErKygwoDkE,226
+1356,"New York, New York",Starship Orchestra,0,3u0VPnYkZo30zw60SInouA,273
+1357,"New York, New York",The Dictators,0,3wKfHktDEsUrd8NEY2rz02,218
+1358,"New York, New York",The Last Poets,0,45qXQ1DxW16AqfYC1u8j5v,214
+1359,"New York, New York, New York",Martha Wainwright,0,2KiIuUZ7STzOvBeW6RaAvD,191
+1360,"New York, New York, New York",Tellison,0,7Ds4vBxNE7x4flvBWqCXXV,220
+1361,"New York, NY 10009",Black 47,0,0cGijMn4fdslb5mqALdcfs,269
+1362,New York: My Port Of Call,Jimmy Roselli,0,0bexuY39jjIiy8uRwYFCbr,160
+1363,New Yorkin,The Whole Darn Family,0,5VdADtWX2B6rg0GeHSNZVV,222
+1364,Next Exit,Interpol,0,2Jftg4kiguObH0sEtgOfcc,200
+1365,Nights In Harlem,Luther Vandross,0,6lh0AqT1So3DLXmLCOq7lO,297
+1366,Nights On Broadway,the Bee Gees,0,4JjcCdm0RSPuvQWnZyrNkm,271
+1367,No Diggity,Dr Dre,0,6MdqqkQ8sSC0WB4i8PyRuQ,304
+1368,No Faith In Brooklyn,Hoodie Allen,0,4V8uu21mnpyg7BElNNJdPs,201
+1369,No hay marcha en Nueva York,Mecano,0,5bO4TGwAf8K7Ml2yURCmTy,257
+1370,No Pity in the Naked City,Jackie Wilson,0,6Iju1VFr1qJy7WSao7T28I,212
+1371,No Sleep Till Brooklyn,Beastie Boys,0,5qxChyzKLEyoPJ5qGrdurN,246
+1372,No Winners (Ground Zero),Paul Hardcastle,0,6lwpmFb7TS7Td8XwP6Sf63,1889
+1373,"No Woman, No Cry",The Fugees,0,5bUVHuzQh5mkvMPjUU074i,273
+1374,Nobody Picks A Fist Fight In New York City,We're All Just Passing Through,0,46PyMp4SR5S1RBfrJxDrN1,266
+1375,Noche En Down Town,Fito Páez,0,3NlJuopHXTfS5Gb5nf06vW,306
+1376,Nolita Fairytale,Vanessa Carlton,0,59d8G3noBayJU6fw34Ek1F,206
+1377,North On 95,Shawn Mullins,0,3dVJZteQ3Uc3GyAE4rBe5U,241
+1378,North River,Larry Fast,0,4ucGM6cAhkFvLQhLocnmEm,80
+1379,Northeast,Matt and Kim,0,7bgWYr4I7j1TAKghc4tThF,172
+1380,Nostalgia In Times Square,Charles Mingus,0,5p1SjSgqgODz1rIbNyLzwB,738
+1381,Nostrand And Fulton,Freddie Hubbard,0,5UJ4MNSpnZa2evJS8sUN0I,427
+1382,Not So Soft,Ani DiFranco,0,66KvqVK90iVAWNpTc43mem,240
+1383,Nougayork,Claude Nougaro,0,2kQOw4QEDxUkuEdeGxDqtc,209
+1384,Nueva York,The Coast,0,2NffO2MplLVLKttWoayMSL,205
+1385,Nueva York,Willie Colon,0,1iZzw45XMkjVBIm3zVGagW,381
+1386,Nuyorico,La Bruja,0,2CAKDzRPMfwvo9UvkPHYEz,189
+1387,NY Electric,Aesop Rock,0,3GUb0W4VV65vfZjQy6uKPQ,310
+1388,NY Nightmare,Phoebe Legere,0,5JJymzJfUHW0FI8iMOj0NK,255
+1389,NY Trip,The Cure,0,16keZDlTg2NegTLw9ij4c1,218
+1390,NY Weather Report,Talib Kweli,0,3xNnjGerPKSZGPaqGyVRTp,275
+1391,NY Woman,Kasenetz-Katz Super Circus,0,3FTnzKo5riCcODp9KQZJiU,155
+1392,NYC (Can You Believe This City?),Charles and Eddie,0,0jNMGoGX11MeSNhju24kwY,295
+1393,NYC (There’s No Need to Stop),The Charlatans,0,16rDYjh6m6Gj9obIOS8ufN,212
+1394,"NYC - Gone, Gone",[Conor Oberst],0,71FuGtTv7mXoLvxDxi2FXR,71
+1395,NYC 1999!,Pussy Galore,0,468dtU6M2GgFXfJN8VgRDG,124
+1396,NYC Awakes,Didier Malherbe,0,76FoGHg17J68UOvlNisMRT,156
+1397,NYC Beat,Armand Van Helden,0,069AUXV0Kj2wSnfhgcFh6G,390
+1398,NYC C--T,Princess Superstar,0,1qPvH4VmgJcldbMW5pbq1Y,229
+1399,NYC Direct,John Tropea,0,0CAlldQYZ7NGP59c8VZkmY,445
+1400,NYC Everything,RZA,0,564CtfM59ZC4edKYz7qIVZ,257
+1401,NYC Ghosts & Flowers,Sonic Youth,0,4gwldzmnRISqpY599yNY4d,334
+1402,NYC Man,Lou Reed,0,1N2LeDF1hrmSVm64QJVaEL,296
+1403,NYC Shanty,Danny Wilson,0,5aGbtE6kbCiYJFXRqkoPkU,194
+1404,NYC Song,John Cafferty & The Beaver Brown Band,0,1ZpWFQlRFtX1AljACEwndf,308
+1405,NYC Soul,Kane,0,6V0Fq9IOdNZbl9Yx41BZ9O,249
+1406,NYC Weather Report,Five For Fighting,0,1eLyUGplOMBsTBS1JhWgGp,293
+1407,NYC,Bryan Ferry,0,31BE5bgYORgZ1dakaQ9JWZ,249
+1408,NYC,Drink Me,0,1Eqo50u3nuVA4VpvVJZsOn,385
+1409,NYC,Interpol,0,4PAR0Zp6Mbu3p6NKYClgBr,259
+1410,NYC,Kevin Rudolf,0,2WGXzG8bHjqPxEpf3o0vKv,188
+1411,NYC,Lew Kirton,0,7G25VPGX6FYntYBJQHxz9A,253
+1412,NYC,Mark Springer,0,49QbFoCDH9CwpSDL9YXOn2,633
+1413,NYC,Steps Ahead,0,3qjUjUOx1bpqj1gZUmjRP6,311
+1414,NYC,Steve Earle,0,4iJnWp26gbxkG6B25eGmpp,217
+1415,NYC,Weather Report,0,1eLyUGplOMBsTBS1JhWgGp,293
+1416,NYC,Wire,0,6GxHQSGs2t3ScZtosOYYWv,43
+1417,NYC's Like a Graveyard,The Moldy Peaches,0,4Lmc9oH7ZDw4USlqNBXXH1,195
+1418,NYC-25,The Olivia Tremor Control,0,4kaOmQm3EicdwWCbTydYIv,277
+1419,NYC/Dublin/NYC,O'2L,0,3VQRYsnyVAOY4Ncas3M9Mn,256
+1420,NYCNYUSA,Fatback Band,0,4w002bj9guCJNbvvSAD62B,256
+1421,NYPD Theme,"Johnny `Hammond`, Smith",0,6gl6UQNfWLzJTW9q7ZGj6k,203
+1422,Ocean Parkway,Spyro Gyra,0,1ftZ87Tc9xkrQJvxGGFgAH,273
+1423,Off Broadway,Every Time I Die,0,6D8kUiY6MGiBXUIUkyknXw,148
+1424,Off Broadway,George Benson,0,2iUPRQHHYsAttQ5jReruSE,326
+1425,Off Broadway,Ryan Adams,0,6Eg1RxdKYMMYQEuw6T0SC9,151
+1426,Oh Oh I Love Her So,Ramones,0,540McDHcq1tuwL44zzxxBk,129
+1427,Old Men Sleeping On The Bowery,Willie Nile,0,505trDOM1agvZ1tvlGwFr1,212
+1428,Old New York,Luke Temple,0,5tXyukNpFHUrLWB8T9t1bE,238
+1429,Old School,2pac,0,4GGbJ60q5HIN8wKOp9Xabz,279
+1430,On Broadway Tonight,The Four Seasons,0,136eFz3ZFx09WsXzBMp5Pj,153
+1431,On Broadway,Bogart,0,7JCWm0dAY3rbpsAFyMJL2W,235
+1432,On My Way to Harlem,Coolio,0,1tPDWRuPUOq9U1c4MxswsQ,193
+1433,On My Way to Harlem,Gregory Porter,0,1vhK81vdWqWL1CijjRJONB,460
+1434,On The Avenue,Irving Berlin,0,523L3jqAKxUYpJt1BoBMhT,144
+1435,On The Bowery,Ferre Grignard,0,5k2dA5GMBF8Gbi9K0BKUcE,245
+1436,On The Drag,They Might Be Giants,0,5HESV3AIAG5d3q7iEyix1h,138
+1437,On The Subway,The Last Poets,0,2ZvNOGkA3mBmwru0VcK50C,150
+1438,One Day You'll Dance For Me New York City,Thomas Dybdahl,0,4T9x6eGgl7vuu1yYVKPzNU,294
+1439,One More Night In Brooklyn,Justin Townes Earle,0,4xv3P9DiKTKMfFaClyZtgn,184
+1440,One Night in NYC,The Horrorist,0,2VPtiwgTUNY3Y3sM9n9hxH,254
+1441,One,Bee Gees,0,2TXQsN854jne8GXWbd3SJx,294
+1442,Our Manhattan Moment,Stan Ridgway,0,35JUtKuhc1caQF0i6nwxur,318
+1443,Our Penthouse On Third Avenue,Tommy Dorsey,0,3seXnSvn6QXjp5m6ZJyZp3,173
+1444,Out of Habit,Ani Difranco,0,7lGyWajheYtP8sKUveGjHo,165
+1445,Outside A Small Circle Of Friends,Phil Ochs,0,19nKssBmsSIBXJPZ2HrfXH,220
+1446,Over Fire Island,Brian Eno,0,5Sodk3mkwv4Gvp2sF3obaE,111
+1447,Overlooking Brooklyn,Holy Ghost Tent Revival,0,0r7EXroUc8J7nvwnmKDMOb,324
+1448,Pacifics,Digable Planets,0,5esVkhazOeanQVdlJUkNpY,271
+1449,Painting New York On My Shoes,Poppy & The Jezebels,0,0vPm9vHcPRIVTHCSphk5KK,204
+1450,Palisades Park,Freddy Cannon,0,2qi7QEyfxL2Z2ez9Rd51e0,113
+1451,Panic in Central Park,Yo La Tengo,0,3BjALJzsks31xVZaVE4mgE,71
+1452,Paper Boats,Nada Surf,0,6N7gT3YZcnBVC1JWJI11HE,399
+1453,Paradise Garage,Tim Curry,0,1JdVHFYJ98v1NwEPwYcnW8,365
+1454,Paranoia Blues,Paul Simon,0,0EyVLHntRxBdK77NC7je1x,176
+1455,Paris - New York,Space,0,7JStHkmuvtYV1e9od0iZaC,310
+1456,Paris Nights/New York Mornings,Corinne Bailey Rae,0,0l4tZquzNX3KM43B6iHY76,231
+1457,"Paris-New York, N.Y.-Paris",Jacques Higelin,0,316ZY0rmqUp4iws5kYasTS,266
+1458,Park Avenue Mambo,Xavier Cugat,0,1fgkghXmvkP9otsjQ4e3o1,159
+1459,Park Avenue Petite,Art Farmer & Benny Golson,0,06ieL37TJddla5nows08eq,223
+1460,Park Avenue Rag,David Chesky,0,2WvI6MVy0pAzfDxTbIfNXF,141
+1461,Park Avenue,Paul Williams,0,6YL1nkfFUtQfz0WY74mnPV,193
+1462,Past Tense Hope & Instant Fears On 42nd Street,39 Clocks,0,5e7c8mE1RXDCq2dq3dmIK1,381
+1463,Pedro Navaja,Rubén Blades & Willie Colón,0,2nLHrfO78wJqA4qIor3pbB,442
+1464,Penguin At The Big Apple,the Trammps,0,0A2OB79E4Z5szptDHdF7gK,292
+1465,Penguins On Broadway,Hellmut Hattler,0,71LGglWojmottkYBqvld1B,277
+1466,Penn Station Rag,David Chesky,0,0eoDvld7oSfROmWCvzPWC3,119
+1467,Penn Station,Steps Ahead,0,73NIZD5Bl8LixcZaFrdXji,355
+1468,Penthouse Serenade,Marianne Faithfull,0,511Cinnp5oxiOGBSdApiEG,156
+1469,People Who Died,Jim Carroll,0,5mcaY65WhtzFk1TFRGY6kY,299
+1470,Peppermint Twist,Joey Dee & The Starlighters,0,4vFuebQvxexME3dTs99ifv,122
+1471,Perfect Day,Lou Reed,0,4TOMI010Sd4ZAX4aZ5TS85,225
+1472,Peter Pan Over The Bronx,Joakim,0,5kgIKBuetiQZlO9LNxosgp,181
+1473,"Piazza, New York Catcher",Belle and Sebastian,0,12eefUObewFbvXYQ3bN7E4,183
+1474,Pirate Style,The Beat Pirate,0,2ZRzoRDGcaeYZ9ABOGMzER,376
+1475,Planet Williamsburg,Jim Testa,0,581ttXVJxl1AwMebDcKI9m,172
+1476,Poem to a Horse,Shakira,0,3znoF3XEVQgg1ej2jV0QXw,246
+1477,Poo Poo La La,Roy Ayers,0,2oadlkk3BsJyYhqcTU2NCz,390
+1478,Port Morris,Dumpty Cooper Group,0,2gw9zl0u73Ut8Oc45CDk3m,193
+1479,Poses,Rufus Wainwright,0,4JdHCZNdEfD4bLTdl7paB6,302
+1480,Positively 4th Street,Bob Dylan,0,4heMx0OAwfILu13Lf0VbBM,247
+1481,Posse on Broadway,Sir Mix-A-Lot,0,7MmhQMfjXPF2AnqrmbqvVB,304
+1482,Poster Girl,Backstreet Boys,0,4uT2Nl3fUMeCWZ4TEk4SwH,235
+1483,Potter's Field,Tom Waits,0,6W8UOF6Z6o4Sj5OnT4tDDS,520
+1484,Private Party,Wally Jump Jr & The Criminal Element,0,6m6zoNl6oKtexdZIReqQGB,455
+1485,Pump Up New York ,Mr Lee,0,4FMN8Bj0UAiOxWNxCNTbDJ,288
+1486,Puttin' on the Ritz,Irving Berlin,0,22m3Ip5Q91lpE4micZrY9C,272
+1487,Q.U. -- Hectic,Mobb Deep,0,0KwR2yIvknqi1V9BUFmZ2i,286
+1488,Queens Get the Money,Nas,0,2ybnIelgBnGGgDoWvMtwAY,132
+1489,Queens Is,LL Cool J featuring Prodigy,0,6leaCWJ3CWn1ad7qAaUxHG,265
+1490,Queens,Pharoahe Monch,0,2iUiX1Tez9E7pAO7hNtIdQ,210
+1491,Queensboro Bridge,David Mead,0,7qCb8mPtLHwjfBlGDk5lHp,285
+1492,R.A.M.O.N.E.S.,Motörhead,0,1vOvcsrU9jWdb9YPblqmp7,82
+1493,Radio Free Brooklyn,Pete Miser,0,6GwPyspjKU3ksMVOwazXso,303
+1494,Ragga House (All Night Long),Simon Harris & Daddy Freddy,0,0KfmxXLJaL9LVvlmKhWSp0,384
+1495,Raining In New York,Oh Laura,0,6SjcUEXuQIDTzYpExarJZZ,257
+1496,Rapper's Delight,Sugarhill Gang,0,0FWhGmPVxLI6jOVF0wjALa,427
+1497,Rats in the Cellar,Aerosmith,0,0SvVWpJKUTVeQxQLTPL02o,246
+1498,Rats,Drink Me,0,249I1wHwc3CZBzsosLSSqO,190
+1499,Real Rock & Roll Don't Come From New York,The Gizmos,0,44i2ugYADZ7tESlfeAyMEO,134
+1500,Rebel Without a Pause,Public Enemy,0,1zONdCQrEJ4t3mlzKQADEN,302
+1501,Red Cab to Manhattan,Stephen Bishop,0,4Fs77thw103erzlqFnGA3T,229
+1502,Red Dragon Tattoo,Fountains of Wayne,0,2EXyxZ7okf7i0k91mD0MDO,212
+1503,Remember Manhattan,Richard Marx,0,3OkrmzjL6HLrIv1XQxStUr,257
+1504,Rene and Georgette Magritte with Their Dog After the War,Paul Simon,0,2ngP1nI1hQepXw4Zke4ODi,283
+1505,Rent,"Jonathan Larson, from the musical Rent",0,0Xfxx7TVLcy3SPNB7SK6ex,236
+1506,Rent,Pet Shop Boys,0,79p7mYGJC9IgybmPsZf5HP,308
+1507,Return of the Crooklyn Dodgers,Crooklyn Dodgers '95,0,7tojsPuAq9a1puP9ApOJnV,304
+1508,Return to Spanish Harlem,Tony Middleton,0,3e4RbSWj0Cm7e70QSPk0Wn,145
+1509,Reverie,The Morning Of,0,16uk3LdvDmf36Vs2Um4ATH,157
+1510,Rhinestone Cowboy,Glen Campbell,0,0VwTeYNjcl30DyQlt3GPe0,194
+1511,Riding to New York,Passenger,0,0yVsB7VhYZ0lIAfGU30TWk,302
+1512,Rikers Island,Cocoa Tea,0,0LW13aGI2sWVfavsJtP0G8,216
+1513,Riverside Drive,Peter Wolf,0,5xwUstJHm3ZxldQKW8tGd9,324
+1514,Rock City,Bernard Lavilliers,0,3jeMNgvtXfmeDIJqqFUzar,187
+1515,Rock'n'Roll City,Kim Larsen,0,48hMpLP1RLWLQfEYOowqaz,270
+1516,Rockaway Beach,The Ramones,0,2HZGsnMByx3V8KmNW6LqWF,126
+1517,Rockaway to Sunset,Spyro Gyra,0,2Tpn8UlV3iYXEdTq8Tw914,348
+1518,Rockaway,Christine Lavin,0,0mIgwPPDWbvDrIhN4xJSIm,245
+1519,Rockin' Around in NYC,Marshall Crenshaw,0,4s4QoOdeolCr7AzDLXQ6nP,221
+1520,Rockin' the Bronx,Black 47,0,6gAqwYSeOdcwjb5xEUjfcF,242
+1521,Romeo Had Juliette,Lou Reed,0,6tM8cMX9S4AyRd5sDDrzhN,190
+1522,Roseland Shuffle,Count Basie,0,3rABAOaZZI1QehFovn7Zzb,154
+1523,Roseland Taxi Dancer,Danny O'Keefe,0,4jmz3F7cpkRY1UDmxy5GfB,167
+1524,Roxanne '97,Puff Daddy & Sting,0,0eacq0yrmFELO3moJKZFZa,272
+1525,Rush,Black Moon,0,6AvNxXzO8v8N72a5ic6OqR,277
+1526,Safe in New York City,AC/DC,0,6xs17NF4X10Y7UGwto7S7Z,239
+1527,Sally Can't Dance,Lou Reed,0,5eLwwPNN9g5yLrIdyj2ewP,248
+1528,"Sarajevo, New York, Roma",Emir & Frozen Camels,0,6ISwYSYRwwiGvlHV3pg2oy,297
+1529,Saturday in the Park,Chicago,0,4OJFkrRQqol4FsPesF8eu4,235
+1530,Savoy Blues,Louis Armstrong,0,0BiJQ3TJW5aeo258qHu6TP,205
+1531,Savoy,Lucky Millinder,0,2QLYYBBQIlg7tFZxaLznqk,180
+1532,Sax Fifth Avenue,Johnny Beecher,0,1tkyWHi97vUK6DzyQLvA4q,151
+1533,Scenes From an Italian Restaurant,Billy Joel,0,3utq2FgD1pkmIoaWfjXWAU,456
+1534,Sci-Fi Wasabi,Cibo Matto,0,2DkkPE9FFCbNa0cfymZnVi,223
+1535,South 2nd,CocoRosie,0,6bIKJHtLkmt3dr3ngNZQzQ,249
+1536,Scrapple from the Apple,Charlie Parker,0,7flQESHoCoDzirWF4IkKGq,161
+1537,Screamin George,The Arkhams,0,5H10fIYsRhJZzZzTG4qNPW,150
+1538,Seaside,Dumpty Cooper Group,0,7InWsIuC9Q5lDWTiVcBDsj,275
+1539,Second Avenue Square Dance,Abe Ellstein Orchestra,0,1n3zxCdYi34EOq00vMUf55,171
+1540,Second Avenue,Art Garfunkel,0,12Ew62WBntsVlqN0fPUof0,165
+1541,Second Avenue,Horslips,0,5epa0gci66bqOn9KRrDVqn,240
+1542,Self Evident,Ani Difranco,0,1Furo59c21kyX8aw5ZRru5,550
+1543,Seven One Eight,FannyPack,0,2caTghd9wSecQHNxMuExYN,209
+1544,Seventh Avenue Rag,David Chesky,0,5Sh5mGjeIEL1LuFHMX8jMv,147
+1545,Seventh Avenue,Orville Stoeber,0,0DZrcQQM4AgNEE9NEu6bJW,115
+1546,Seventh Avenue,Rosanne Cash,0,23xOhuqU35L7nKJOQKO0Qc,312
+1547,Shadows On The Streets Of New York,Joe Bouchard,0,27ALWtmiFHjbWcoXGVedYH,207
+1548,Shattered,The Rolling Stones,0,0FfZBWDv7p63yj6oh2I2PS,226
+1549,She Had to Go and Lose It at the Astor,Harry Roy & His Band,0,7seQLOYuB99T9nwVI8flMQ,167
+1550,She'll Drive The Big Car,David Bowie,0,74Ev7GpWNCiuhUnaHJkC3o,274
+1551,She's A Latin From Manhattan,Al Jolson,0,7AogsWNG5539AaV57MJOEM,120
+1552,Sheena Is a Punk Rocker,Ramones,0,61MZN0yyMWSEwrLPUUGfgJ,169
+1553,Sherry Darling,Bruce Springsteen,0,0Is7SihfqWbZVTdiGi90yb,371
+1554,Shine On (Der Regen von New York),Howard Carpendale,0,5FAkAQdefFHiyVmqcnFvVW,245
+1555,Shortbus,Yo La Tengo,0,3LAwFBOFfb1LXCRePguUf6,126
+1556,Shy,Ani Difranco,0,55JAZodePCqoyXueneRnPT,285
+1557,Silvertown Blues,Mark Knopfler,0,3iuCw3tJux1RhrE24n8iDE,329
+1558,Singin' in Central Park,David Ippolito,0,7sqs5LoQnrU9GDZJlLz0bM,239
+1559,Sinking And Swimming On Long Island,Bayside,0,2jVvkve2dJ7Ioo74q5Vd7b,228
+1560,Six Men In New York,Taxxi,0,7Gpum9ITW5hqLq0UjHwIBS,123
+1561,Six,Darlington,0,5dvcFXhgn8kdlEBkIR5v0C,224
+1562,"Six-Thirty, Sunday Morning",Peter Allen,0,67XW1OAXDRLrom580DlPRj,305
+1563,Sixth Avenue Express,Pete Johnson & Albert Ammons,0,35gUOvaOkJ73f6jxMhZGSu,162
+1564,Sixth Avenue Heartache,The Wallflowers,0,1bzxvlkmBRDufR1lXWYeGv,285
+1565,Sixth Avenue,Cedar Walton,0,6IFlpmMUZyr2UjaWvpUtwJ,231
+1566,Skating in Central Park,Francis Lai,0,5Lh752917v8gXipkTN2Zv1,182
+1567,Skylines and Turnstiles,My Chemical Romance,0,3VqJUdav5hRAEAvppYIVnT,203
+1568,Slaughterhouse,Joe Budden,0,6rI2bflAlTLFCMKYf2xykB,421
+1569,Slow Bus Movin' (Howard Beach Party),Fishbone,0,2AKxjmOzeiJyTWNouRDqDp,155
+1570,Slow New York,Richard Julian,0,2Q2o0evlybDjW4cqmVvhQU,186
+1571,Slum Goddess,The Fugs,0,3KyOb9LT3DFLKYJKpoM9Xh,120
+1572,Small Talk at 125th and Lenox,Gil Scott-Heron,0,6Jnsl9pPYkX8jx0XyzzT84,119
+1573,Snowin' in Brooklyn,Ferron,0,4jjvEX7yu7OtxpOLGKGzNe,288
+1574,So Long Astoria,The Ataris,0,7N2lr3CCJGLxBUkF4PSkch,202
+1575,Soft Smoke,The Pink Spiders,0,31DCu23THDZ4fPISsOeaNM,201
+1576,Soho Grand,Love Pirates,0,6BeC0hrkau9yLPez021zAz,136
+1577,Soho Rain,Jeff Finlin,0,3zWLnUsGZPAYUgmd5hpJsh,253
+1578,Sometimes I Rhyme Slow,Nice & Smooth,0,18Mh3v6rBCCpcNYzyaA2RN,172
+1579,Somewhere In Brooklyn,Bruno Mars,0,0lC390OTPEjOjBvShCa33c,182
+1580,Son of a New York Gun,Gino Vanelli,0,4cOjwVlhJCfnZBzc82s6le,202
+1581,Song For A New York Rainmaker,Larry Coryell,0,34MpQ5ciAzRcRIpfE5lGhE,282
+1582,Song for Myla Goldberg,The Decemberists,0,6GeuYmhUFJdCBhKmbharbx,213
+1583,Song for Sharon,Joni Mitchell,0,2DslWBUkrGFHWAQe0GpxkB,517
+1584,Sound of the City,David London,0,78ciPRAFvd20EF1MxteokL,97
+1585,South Bronx,Boogie Down Productions,0,6JMIaVMbh5emijDiBODgit,308
+1586,South Slope,Project,0,0MGQ9MlUo1B9i8lZBUu5pv,78
+1587,Southbound Jericho Parkway,Roy Orbison,0,2WAl9YUZYSsJesXACRzk1Z,419
+1588,Spanish Harlem Incident,Bob Dylan,0,7wBSzVinxbRiMUu7ooY1jT,145
+1589,Spanish Harlem,Andy McCoy,0,3jJwClgUsZPkSguGLqLV70,233
+1590,Spanish Harlem,Tony Touch,0,2KaktoPgdjFA5i1tOUC3aS,263
+1591,Spring In Manhattan,Tony Bennett,0,4cYxtbTPSjdzjGmCZIostu,152
+1592,Spring In New York,Gilad Atzmon,0,4abUmuer0gJmTPg9cWrIUP,460
+1593,Spring Street,Dar Williams,0,3gLHKAOSJpxMrvYRJ2Fi6X,292
+1594,Spring Street,Vanessa Carlton,0,6SEjzvB8uOikrX1BOzP77f,250
+1595,Squeeze The Trigger,Ice-T,0,3XHtUdE2ex4nxLmJoKQwEN,374
+1596,St. Mark's Place,Earl Slick,0,3ZV8TxMjlH76yuT3x6hyA9,235
+1597,St. Mark's Place,Kirsty McGee,0,6Vc10ZalfSd2TDWni0tloW,194
+1598,St. Mark's Place,Skip The Use,0,4ymiulJ3o5at2Mbhk5oEO2,109
+1599,Stand up NY,Madball,0,7yjBvsWOOlJBw3khsF0OnJ,167
+1600,Staten Island Baby,Black 47,0,5LUTgekrTfEyOPSV6Rnpci,219
+1601,Staten Island,Johnny McEvoy,0,0orYBH5YiRBbmHQ5RTMxQm,151
+1602,Statue Of Liberty,Esperanto,0,1wZiexqyfjkFbSvyjix7MB,298
+1603,Statue Of Liberty,Jill Sobule,0,7M3TXdqVXJCq0ieQF11muP,202
+1604,Statue of Liberty,Laurie Anderson,0,1VB81F6yzcEXWuMxzO59ZK,264
+1605,Statue of Liberty,Little River Band,0,1yRdVulP7ZhxAXGRlCO9jE,212
+1606,Statue of Liberty,XTC,0,3PvmHbVALfJk9rxsSOg0UT,175
+1607,Stayin' Alive,Bee Gees,0,5ubvP9oKmxLUVq506fgLhk,285
+1608,Stickman Crossing the Brooklyn Bridge,Brooklyn Funk Essentials,0,50OlxTLQsXdYRQHLWlYbQp,448
+1609,Stolen Away on 55th & 3rd,Dave Matthews Band,0,58GZLXQobVjULCwrPcSJkZ,256
+1610,Stop Shammin',Big Daddy Kane,0,4TOGCGzDa0SeGUE7v118PV,236
+1611,Stop That Train,Beastie Boys,0,4AtMSZCvH60EY87ozdg2wj,118
+1612,Storm The Embassy,Stray Cats,0,2ZRMAt6ihf9WsToutDvgKY,305
+1613,Strange Powers,The Magnetic Fields,0,1Ccfb1xzwLDjQHLfAa2TxQ,161
+1614,Street Dance,Break Machine,0,41bTpvSwi26sD79ZgaCztE,389
+1615,Street In New York,Shabby Tiger,0,2WkNzpiZzjIxrm6E5Pljdf,305
+1616,Streets Of Little Italy,Bonnie Tyler,0,3fTYboXUIWtZZj4fPCnVsP,279
+1617,Streets Of New York,Alicia Keys,0,1wfaQ0EpdUNqZdDjgG989o,455
+1618,Streets Of New York,Clint Mansell,0,59m7xmdEFzZUWgTLPOtVZn,169
+1619,Streets of New York,Kool G Rap & DJ Polo,0,5hykhKQH1EL5jW2UYZ615w,262
+1620,Streets Of New York,The Wolfe Tones,0,68lNp0gp2yfKWEQliNF1xF,284
+1621,Streets Of New York,Willie Nile,0,6KP1NUpfFKMLYGELywtZrQ,320
+1622,Streets of NY,Terror Squad,0,5xDseUzCUQCuzyk3u0SFvE,194
+1623,Strong Island,JVC Force,0,4gL6J18mb93kNay5kuAUFR,359
+1624,Subway Funeral,Thursday,0,54Fj3AmnslMcTMikp0Xlql,258
+1625,Subway Joe,Joe Bataan,0,30E1ZeueWNbOzMP2PJRqa8,177
+1626,Subway Train,the New York Dolls,0,3utG7uK9ERDILMsIQwJRHb,260
+1627,Subways Are for Sleeping,(from the musical Subways Are for Sleeping),0,0KcAGocqW74vwYlr20k2pz,140
+1628,Suffragette City,David Bowie,0,3YZa4IzxK2UtEKTvdTgsi8,208
+1629,Sugar Hill,Three Sounds,0,58ZI7tzztIliII8AZJtoM7,166
+1630,Suicide (A Better Way),Choking Victim,0,39lwCdBl6JEeCD3JnsQw2l,190
+1631,The Apple Stretching,Grace Jones,0,751rI9EB9oxwe2iNJ8jaLE,429
+1632,Sullivan Street,Counting Crows,0,5Dca0ubiXuNWTM6HSIynT7,268
+1633,Summer in Central Park,Horace Silver,0,20ZALyUySircoAOgNfp3Cs,281
+1634,Summer in El Barrio,Bodega Bamz,0,0Oq2xmGuLubuECBXIjf9S4,169
+1635,Summer in New York,Michael Franks,0,3Tkx9Q2pOaiByKW4BdqBsJ,357
+1636,Summer in the City,Regina Spektor,0,2PnFHCWo2FIbMCXwvGM1kH,230
+1637,Summer in the City,The Lovin' Spoonful,0,7AzFID6u1b3zIWbd9pb8Dk,160
+1638,Summertime In New York,Mick Harvey,0,6ChM5BQo0UfGE84XGWGX7M,195
+1639,Sunday at the Savoy,Count Basie,0,0u0tpf5tN2ZaWo0nHXaJLG,752
+1640,Sunday Morning New York Blue,Rob Thomas,0,1aVuv0zbQiPRkSaapCu9Gg,205
+1641,Sunday New York Times,Matt Nathanson,0,7uAl1Rw10RhI9mAbcdzx9n,194
+1642,Sunday School to Broadway,Anne Murray,0,6wya668hwpFXr6MvQxgAoj,222
+1643,Sunkeneyed Girl,Mike Doughty,0,18oPiZJf1fSNmbxo2VXKoG,223
+1644,Sunrise In New York City,Willie Nile,0,5mMrpf0v0p4Ag1lhsjHrDD,169
+1645,Sunset In New York,Arabesque,0,0muJNUR6BBEl4uzMkTyN3d,234
+1646,Sunset Over Broadway,Roy Buchanan,0,19TuyGFuZFp6GTG4qf8R9Z,256
+1647,Sunshine Partytime,Rockers Revenge,0,4EalAa33oBxVGiy8iJtF6g,433
+1648,Super Subway Comedian,Suicide,0,0PMqbsVgQltlnoCNHb3BtQ,299
+1649,Superthug,Noreaga,0,5qEzf9tBursDHplB2FhzVy,300
+1650,Surfin' in Harlem,Swamp Dogg,0,7xbvZeNDG6x5LM8wMHFAKy,270
+1651,Swear to God,Emilyn Brodsky,0,6r0YOME1s0UwOyuesGzABt,167
+1652,Swingin' at the Copper Rail,Buck Clayton,0,6meGvmlG9Yk71H7hgGIC8A,382
+1653,Take Manhattan,Soul Asylum,0,4IqDWtslwusi6zKmv38uYc,175
+1654,Take That Look Off Your Face,Andrew Lloyd Webber (from the musical Song and Dance),0,6LUDvgaIGtAKVoKNu5bdWv,198
+1655,The Ghetto,Mark-Almond,0,4Zynwm3ZMdQ52YkXSMaQeV,375
+1656,Take Them To The Traitors' Gate,Thinkman,0,1xSDEutDue3EsrhMPEpdyj,324
+1657,Takin' Of Pelham One Two Three,David Shire,0,0v23pBPFEfo6AJNvMJdNnc,130
+1658,Talk On Indolence,The Avett Brothers,0,4rfY34F0sq2JHJiUHOLi39,219
+1659,Talk Talk New York,Burnin' Red Ivanhoe,0,32uqPscbDqsQCYf7mSzCXs,270
+1660,"Talkin' Baseball (Willie, Mickey & The Duke)",Terry Cashman,0,4z4Bas3eo7PHR8cr0qb7dD,204
+1661,Talking Vietnam Potluck Blues,Tom Paxton,0,2nABkAcNXTphJwKAXT6L4l,204
+1662,Tango in Harlem,Touch and Go,0,5YcaFJy1w7fwyqiXCKn5Im,205
+1663,Tarzan Of Harlem,Cab Calloway,0,1lBuQWfheGXfgApt01UBoX,166
+1664,Tavern On The Green,Chic,0,3fd2pLzLHBuTKrENEpBDie,135
+1665,Techno Funk,Lost,0,1JaLn4ZfDoXrF2gbguPtbj,171
+1666,Tenement Symphony,Tony Martin,0,0A2vjZabrrKMkjrR79Lc1L,173
+1667,Tenth Avenue Freeze Out,Bruce Springsteen,0,4Gmdm6oRVwJgsM8gYnwRoE,190
+1668,"Thank You, Lord, For Sending Me The F Train",Mike Doughty,0,4sS3VnewgxC1TeOGmg2kb3,162
+1669,The Beef Is On,Big Daddy Kane,0,0lrDPgq6noN5qRkcycAiKC,203
+1670,The Best Of Queens (It's Us),Mobb Deep,0,3cfHCVVA7nr6TdTNkii3xf,213
+1671,The Royal Scam,Steely Dan,0,2hYS79fHfVPgxb8PHFksHJ,390
+1672,The Boston Rag,Steely Dan,0,1wxA50yfhX9S7mI1MfqFcY,340
+1673,The Bowery Electric,Jed Davis,0,5h93hIGjFqMfgnAarpMqoQ,188
+1674,The Boxer,Simon & Garfunkel,0,76TZCvJ8GitQ2FA1q5dKu0,308
+1675,The Boy Looked At Johnny,The Libertines,0,1cOmaDUwrnJamajaVpNllx,158
+1676,The Boy Looked at Johnny,The Libertines,0,1cOmaDUwrnJamajaVpNllx,158
+1677,The Boys From Harlem,Cootie Williams,0,0I3S8c683nlD5QTjkdXsiZ,181
+1678,The Bridge Is Over,Boogie Down Productions,0,5jkjpSsMOfsxgdGScPZVq2,204
+1679,The Bridge,MC Shan,0,7pb9gOx7XsGQwpZlU5p6LF,264
+1680,The Bronx,Kurtis Blow,0,60rfCQMlUd0eEv1EdKpu8E,230
+1681,The Brooklyn Bridge,Mel Tillis,0,3BOxgWfy3dPtoc0IrXw9kc,145
+1682,The Brooklynites,Soul Coughing,0,0b9Rn8nIPcJ2ynpg0KbhIv,217
+1683,The Camera Eye,Rush,0,0hBby0yygBY1u3m6tSpZgC,658
+1684,The Cars That Ate New York,Paul Roland,0,4QU082gdoelIUG7VOxFNuC,291
+1685,The Chelsea Hotel Oral Sex Song,Jeffrey Lewis,0,5N3Y2GvjBBwsOTngIMxYer,423
+1686,The Circle at Fifth,David Chesky,0,7j6WDGbKGjdPT0nbaeteTf,141
+1687,The City,Fleetwood Mac,0,3isxH73IAtslp0gEftrwoD,216
+1688,The City,Mark-Almond,0,7kFyGT5ln0HWUiSq33wDE1,178
+1689,The Dakota,Christine Lavin,0,703ARYZ7dX4vdMRCTgV7Ri,270
+1690,The Day I Saw Bo Diddley In Washington Square,Willie Nile,0,6nlKiyt7CFL5IHRR0KkcMr,286
+1691,The Don,Nas,0,1O7WuVpRcGIwXBH89thJ11,182
+1692,The Dream,Higher,0,4b1PzI3GX8H6gLy6cFnfIG,274
+1693,The Faucets are Dripping,Malvina Reynolds,0,3h8ziBx5WZst3uVru6lFvy,231
+1694,The Girl from New York City,The Beach Boys,0,3wwIwGRKe7IQHEj6LLZpQB,116
+1695,The Great Train Robbery,Black Uhuru,0,3lUdE1jf7vXSiQMxkWB1dJ,308
+1696,The Hands That Built America,U2,0,7hRUNxIQQL6vEpMVhK3pcR,296
+1697,The Harlem Song,Country Joe and the Fish,0,78TWKf8DjEJrtlehUaRyz6,263
+1698,The Heart of Rock & Roll,Huey Lewis & The News,0,02B7SoMf8FmdWJdZTqpnWF,245
+1699,The Heart of Rock & Roll,Huey Lewis and the News,0,4T3Vl4y9ggN9dPbYfKyYqh,252
+1700,The Heat In Harlem,Graham Parker & the Rumour,0,7hxPppwb525pfIXVsUhYyz,419
+1701,The Hudson,Dar Williams,0,4tXv75OzA31ViAW2ULSiVV,280
+1702,The Incumbent,Soul Coughing,0,0Zi5aWrSgcLoEd5tF161U9,406
+1703,The Invisible Venus Of New York City,Bill Nelson,0,2RHHNczWUkRw5qLv8WYL7v,225
+1704,The Jazz at Waldo's,Elmer Bernstein,0,4XUWtNxiN9jwiF8LH5jOUv,156
+1705,The Jean Genie,David Bowie,0,6uZtMNTfU5u8w6fsnXeOdb,248
+1706,The Jungle Line,Joni Mitchell,0,6C5xDvn42YYdohvSEjsoP2,264
+1707,The Key to Gramercy Park,Deadsy,0,56RVUS1Yo2YxkhU9bIi2i1,192
+1708,The Killing of Georgie (Part I and II),Rod Stewart,0,7si0s3D7t9CbGNrfYSBwuQ,379
+1709,The L Train Is A Swell Train And I Don't Want To Hear You Indies Complain,Out Hud,0,5iEAwoz4w0KYQ5A0yDZbHj,739
+1710,The Lamb Lies Down on Broadway,Genesis,0,10birs3L6T1PnvDwk4NXuf,294
+1711,The Light Dies Down on Broadway,Genesis,0,3fIPM9u4HjT6d3NDuqt8fs,212
+1712,The Luckiest Guy on the Lower East Side,The Magnetic Fields,0,0WDjf1JHa22EYZFtI5SQDv,223
+1713,The Man from Harlem,Cab Calloway and his Orchestra,0,4cTl2fyAOtxMMOeGqebDH4,191
+1714,The Message,Grandmaster Flash and the Furious Five,0,5DuTNKFEjJIySAyJH1yNDU,431
+1715,The Minnesota Strip,The Dictators,0,2ZjUKJRSoULRq7PrGCgd7X,246
+1716,The New New York,Tru-Life,0,2BpwHcaI3qN9pPyBjIDAWK,264
+1717,The New York Shuffle,Graham Parker,0,2P2rwHy9V1mlAsstVfEMKu,178
+1718,The New Yorker,David Chesky,0,15ouJzSjqp3T0UxsCaGonx,113
+1719,The Night That New York Cried,Prelude,0,42K4z7IH5H8A1YM9M6oI1K,218
+1720,The Only Living Boy In New York,Simon & Garfunkel,0,5MbXzXGbqobR8xPVPs8OXA,238
+1721,The Phantom Who Haunts Broadway,Yo La Tengo,0,7lp78VBnYNRd2EqOJNaSlP,44
+1722,The Queen of Lower Chelsea,The Gaslight Anthem,0,7GxRTYeXu1df7x2MjDDjpT,219
+1723,The Right Profile,The Clash,0,33GXePBlErinst4NjAvWuc,234
+1724,The Rising,Bruce Springsteen,0,2czBvzOv3TvnyoW7Ozo7fP,287
+1725,The Secret to New York,We The Kings,0,72rCpPUs8vXOzScYcnndLX,182
+1726,The Snows Of New York,Chris de Burgh,0,0hgjvJANo8nqT4qcR4aQn7,183
+1727,The Spirit of Jazz,The Gaslight Anthem,0,4nBfThlcnOWjHEDhBkTJxf,193
+1728,The Start Of Your Ending (41st Side),Mobb Deep,0,5DGnlowf1fjT7VWsoeRDlb,264
+1729,The Stoop,Little Jackie,0,373aW6UITF50OkMp5sG7UC,173
+1730,The Streets Of New York,Elliott Murphy,0,5t65guZi6s69vWhJSXRKio,258
+1731,The Sun Will Rise in Queens,The Exit,0,7tj0s4oFztqFJGtH0ITOgf,276
+1732,The Things Dreams Are Made Of,Human League,0,5GLYtND9tYHCEdIQ1i1JH3,257
+1733,The Touchables In Brooklyn,Dickie Goodman,0,0Z92h6rKELLqw9uyy5vH0I,110
+1734,The Treat of 42nd Street,Gary Glitter,0,7c6kpHFM6a6QyaJwil5784,135
+1735,The True Meaning,Cormega,0,14atQTcRKMpd5kFPw9LBzu,232
+1736,The True Story Of House Music,LB Bad,0,2kCQQUIYVZ6G7QEd9WzU4o,301
+1737,The Truth Ain't Pretty,Steve Conte & The Crazy Truth,0,3riWarT0g7QVeFvdInnmtW,225
+1738,The Vampires of New York,Marcy Playground,0,5DsmuV5zcG7rqjwPP7JTee,175
+1739,The Village in the Morning,The Magnetic Fields,0,2yBEYUGZj8nwmyYNSvzV2i,220
+1740,The Wall Street Part of Town,Ry Cooder,0,28rgq0FeNUAcyio0AIaLcT,222
+1741,The Wall Street Shuffle,10cc,0,0kVB6PeqBbN2HhwJdWumeZ,236
+1742,The World I Know,Collective Soul,0,1HSVpIU0XU1WuwiBLBWAZd,255
+1743,The Zoo,The Scorpions,0,0YpmF3aZXOIuyi8itZbpkp,330
+1744,Theme From 'Escape From New York',John Carpenter,0,6T4OT1wFOwgNK9VysjaEAk,212
+1745,Theme From 'Mr Broadway',Dave Brubeck,0,2RpXpY7tp5RjbKopUuwlix,146
+1746,Theme From 'NYPD Blue',Mike Post,0,4I4OumfzAP8quME59h3KXp,208
+1747,Un Ecureuil À Central Park,Claude Nougaro,0,2HnMnz3TrQFximEKoCkwDI,434
+1748,Think We Got A Problem,Sheek Louch,0,5dmXK8BfcDYUgLhHFAlzLp,216
+1749,Third Avenue Rag,David Chesky,0,1c9CGLIn1V1S2ccMtpV1Lb,141
+1750,Third Week In The Chelsea,Jefferson Airplane,0,5t5bV1HLuULF0bX1F6MfCv,275
+1751,This Island,Le Tigre,0,4fjYnhOIulP59xvHrfaWaM,201
+1752,Thousands Are Sailing,The Pogues,0,0OVhZl9SaOLjLvYE6hcLGc,326
+1753,Three Boroughs,X-ecutioners,0,5TUiOtpghTJlyzTRHUmprd,84
+1754,Tighten Up (I Just Can't Stop Dancin'),Wally Jump Jr & The Criminal Element,0,1vdl92cFoRlInRfkaTdBY7,323
+1755,Tilden House,N.Y. House'n Authority,0,14osn3a7GnwrGMdMI4ONyC,422
+1756,Till The Next Goodbye,Rolling Stones,0,05Va2Xt5QZInHtqAzlm7R8,276
+1757,Time And Space,The Digable Planets,0,6GmEAxNBMbuCOr36lBk19Q,267
+1758,Times Square Go-Go Boy,East River Pipe,0,1tts0VFP42HmTtSeZE8a9G,199
+1759,Times Square Machine (N.Y.C. February 1991),Chris Whitley,0,4jvWSebnoOsOIFX0uKn3ej,54
+1760,Times Square Rag,David Chesky,0,7DG2Yb336cAtidgshFNylr,159
+1761,Times Square,Glue,0,6w1KwhUWSz7w8guDNmqg1p,187
+1762,Times Square,Marianne Faithfull,0,07krA7oMGkN3Lasvw7PHI4,264
+1763,Tin Pan Alley,Apples In Stereo,0,0VCeZATHAiT5VJVWHlx0af,139
+1764,Tina Toledo's Street Walkin' Blues,Ryan Adams,0,0jaw0pN1v5xyhkStfQj3rJ,366
+1765,To a Broadway Rose,Artie Shaw,0,1JN0T9flOWGfslDJfGK7XI,207
+1766,To Birdland and Hurry,Herbie Mann,0,0FskObyGiad83F5q3qT99H,193
+1767,To Get to You (55th & 3rd),Kenny Chesney,0,5K66N0FW2phuTqMvZqscVy,340
+1768,Token Back to Brooklyn,They Might Be Giants,0,0E9L98lkItMbw3yrllecHM,62
+1769,Tom's Diner,Suzanne Vega,0,7f9sC9fvtjYSZYOLSmKJlq,228
+1770,Tompkins Square Park,Chamaeleon Church,0,6farvXPGljtf4qBkAlgHFe,184
+1771,Tompkins Square,The Harbingers,0,0jKgGTL9adoFE08kgFoepd,145
+1772,Too Dumb for New York City,Waylon Jennings,0,6Wn39JX5yBRkq8NaD8OioN,175
+1773,Too Late (New York City),Tycoon,0,2hZjk0seFyIbaEcZuyw1kx,245
+1774,Train Under Water,Bright Eyes,0,6JFujOM9rzcsAyDS0kIFr5,366
+1775,Transit ride,Guru's Jazzmatazz,0,6B4O8Erp0ZQ1dgE9LBimsA,238
+1776,Tres Leches (Triboro Trilogy),Big Punisher,0,3KTfwbSw455pMTq8BfFIF3,259
+1777,Trial of Tears,Dream Theater,0,3FK7zg1VfqTufbp7FwBeA9,785
+1778,Tribeca,Greg Adams,0,4kHUiIuoWOU9obIJ1kMb8D,212
+1779,Trylon Swing,Cab Calloway,0,6bCMHhxWCBHvhdig4b0VY2,165
+1780,Tuesday in New York,Jon Mark/Mark-Almond,0,1LLRiBMjKF2u7ZhtdMAno3,299
+1781,Turtle Bay,Herbie Mann,0,1BoTUVwSn4Zk1VWDpAtV9y,183
+1782,Twelve-Thirty (Young Girls Are Coming to the Canyon),The Mamas & the Papas,0,2nmteiJeK6RAIGH3pL9Pmh,206
+1783,Twenty Years,Augustana,0,2xqjlxsJpuRwNnq5iz9sGX,266
+1784,Twistin' the Night Away,Sam Cooke,0,7FS541dJh3iQAEXEZoDhE6,159
+1785,Two Little Girls,Ani DiFranco,0,1BLV8sIYFJrjMcnsZ8sXyA,297
+1786,U.M.M.G.(Upper Manhattan Medical Group),Duke Ellington,0,5sJpQV6iIInQ4DqL3Jfqzc,186
+1787,Un Caribe En Nueva York,Ricardo Arjona,0,4qtgB62LZJZFm5fy2xRGTK,324
+1788,Un Español En Nueva York,Los Rebeldes,0,5nCczJN4QqJEQPKNV6TkOO,226
+1789,Un Verano En Nueva York,El Gran Combo de Puerto Rico,0,1q2J8KWeewoqOrZI4a65P9,298
+1790,Underground Town,The Toasters,0,3e8osmwGlqF7p4Va7YVWFn,208
+1791,Underground,Jane's Addiction,0,5SleusK2Wc2SH46DVidSES,187
+1792,Underground,Versus,0,7LNDivZP07JxtF59mMpOGk,422
+1793,Underneath the Harlem Moon,Don Redman and his Orchestra,0,4Req6vALcavf7e27bvTJjX,192
+1794,Union Square,Tom Waits,0,1BY6jSunIhyzLwhl1UW8Rp,143
+1795,Up Cherry Street,Baja Marimba Band,0,0nI9BluESgK3IuIBxnchfU,251
+1796,Up in the Streets of Harlem,the Drifters,0,7o4kVOkwCYLBjAVSiK1yNe,182
+1797,Up On The Catwalk,Simple Minds,0,2LrrEKuTtb7jBU6ZYc0ed7,286
+1798,Uprock,Rock Steady Crew,0,3ePBOxk0KixjwDOLscYtQz,221
+1799,Uptown,The Chambers Brothers,0,7jdaancLRhdfIU8Ujawi9i,176
+1800,Val Jester,The National,0,6yPYdOfxEbfI9FefDkHWVr,180
+1801,Valley Winter Song,Fountains of Wayne,0,0g10ndCuaKKaDqUa7gKZMV,214
+1802,Venezuelan In New York,King Changó,0,21uXRyludlJUVYOZGnTd2d,326
+1803,Venus of Avenue D,Mink DeVille,0,7vwJ2siZcQvy74Zyo0F7TK,302
+1804,Venus,Television,0,3x0iCzjgf0v9lnwvAhU9P2,229
+1805,Violets for Your Furs,Frank Sinatra,0,5Qy0neF19Aj2Tb5T7T0gy3,184
+1806,Vipers of Harlem,Darryl Read,0,7kYCo3uWGFnAR5sOtZx4mD,269
+1807,Visions of Johanna,Bob Dylan,0,2rslQV48gNv3r9pPrQFPW1,451
+1808,Waiting for the B Train,Christine Lavin,0,1aSpvTuEafleoPEPXlQcPI,196
+1809,Wake up in New York,Craig Armstrong,0,5P7SWfTfsu2TNf2NAn94Dg,210
+1810,Walk from Regio's,Isaac Hayes,0,6hfCnZXkRBneixasZAQh53,143
+1811,Walk in New York,Onyx,0,3YsxFbSzqiPVkyiinQImSw,295
+1812,Walk on the Wild Side,Lou Reed 1972,0,6eLtcmdyvlakt5ctaqobZH,355
+1813,Walkin' Down Broadway,The Penguins,0,3PJWR0zmlDaP9W2e77Uwcl,162
+1814,Walking Down Madison,Kirsty MacColl,0,40KO7b33rA50X4gLbZee3Z,395
+1815,Walking Down On Brooklyn Bridge,Love Pirates,0,5S7BwL93fmJB5n79ImV5oE,236
+1816,Wall Street Bongo,Yello,0,5apNcYbbUTNCWtSOI9T1Hg,185
+1817,Wall Street Rag,Herb Alpert and the Tijuana Brass,0,6QZycprXYZpvaJFOxJbSRq,142
+1818,Wall Street Wail,Duke Ellington,0,42Uy4mAtJrQN5tFh7PveOB,271
+1819,Wall Street,Fat City,0,2ZsKApLDwaLCmF1eLAYke4,269
+1820,Wall Street,La Familia,0,110QwXn4txFM0wZ0mTP49M,190
+1821,Wall Street,Simon Phillips,0,5T0tdImiPJa2Sg94k5F5F8,237
+1822,Wall Street,Van Dyke Parks,0,2YAGpY0cC2pba9yUtUqloj,272
+1823,Washington Square Park,The Get-Up Kids,0,7E7KLXRACSoIW0AVhkLbMV,188
+1824,Washington Square Park,The Wonder Years,0,1UtRLZhtra58Qxgkz3K9dv,209
+1825,Washington Square,Counting Crows,0,2RnlcUG66KojoICSo67Nb8,257
+1826,Washington Square,The Village Stompers,0,2JwLfiU13mnYuiqcqriOLl,162
+1827,Washington Street,Laurie Anderson,0,2EiVRHkdsf4Kir373FUgwq,280
+1828,Watching Brooklyn,Trent Dabbs,0,2NZvA9Uu0uQGVz9YbUKYKL,123
+1829,Way Up In NYC,Loudon Wainwright III,0,34j6TjMUMKJoPTIiz1axWi,246
+1830,We Are the City,Casey Neill,0,44bos3Bc4OsjUACczKffiU,239
+1831,We Got the Juice,Freeez,0,17W4Tvef8dHbk2HfWIWmdh,381
+1832,We Live In Brooklyn Baby,Roy Ayers,0,4LWXJvwI43g8cSJOiHIcjJ,225
+1833,We Run N.Y.,Tony Touch,0,1Q2V4LCT77nkZzvH3dkEgP,163
+1834,We're a Happy Family,Ramones,0,0walD6ZsABZcEA1R7tchRm,159
+1835,We've Got The Juice,Derek B,0,1t4zTbcEj6wqGqbQCCU1sD,279
+1836,Welcome to New York,Scott Klopfenstein,0,6muCestTf4gjpI8K2Unewc,288
+1837,Welcome to New York,Taylor Swift,0,6qnM0XXPZOINWA778uNqQ9,212
+1838,Welcome to New York,Tim Mahoney,0,1241jF37pBXCvBSkmKT6mC,216
+1839,West 22nd Street Theme,Bobby Hutcherson,0,2QNgPY0MzduKqNNLrON0ng,282
+1840,West 42nd Street,Deodato,0,0QdrDwh8Opdnj9DI5dOK7T,353
+1841,West 4th Street,Valerie & Bobby Capers,0,0v5kuqXdb2MH9tFsTR2Q8k,149
+1842,West Side Nights,Larry Fast,0,1q8PrbmaZwH4qPuYPEBQCG,495
+1843,West Side Story Overture,(from the musical 'West Side Story'),0,14Cb0qUyqiCCjNXUFHV8hb,281
+1844,Westside Story,The Game,0,0lOe1dR2TNkJMCjIcRuw6T,223
+1845,What Harlem Is to Me,Coleman Hawkins & The Ramblers,0,3X42QFsjqnFQav0hS41vbc,166
+1846,What More Do I Need?,Stephen Sondheim,0,0HZIWqNOhAV89DhHiYRwVz,180
+1847,What New York Used to Be,The Kills,0,11m1MrusRBoVGH2U43KLx4,197
+1848,What's New in New York City,Merle Haggard,0,4ZSLQaxwpn0NytS3LlR8Gc,170
+1849,Whatever Happened to New York?,Ann Magnuson,0,2ajaHRF2dCro2ZZvvX9VBf,207
+1850,When I First Kissed You,Extreme,0,1IGWLg0CAdoCzaTnwZ876Z,240
+1851,When New York was Irish,Terence Winch,0,5cRYfa8O8GytfAseHETSq9,278
+1852,When the Last Light Goes Out on Broadway,Willie Nile,0,47J6J4HI3VEksiCNS6YM57,245
+1853,When the Lights Go Out on Broadway,Whistle,0,4OqUKIvJy7eaBTuutBcfoo,178
+1854,When the Revolution Comes,The Last Poets,0,2ZvNOGkA3mBmwru0VcK50C,150
+1855,When the Stars Go Blue,Ryan Adams,0,04rMpRstoJt3uvqyNGKczX,211
+1856,When the Whip Comes Down,The Rolling Stones,0,2h7OfDcrNaHnhHLR9uEnhA,260
+1857,When You Got to New York,Saturday Looks Good to Me,0,3jOkilj6Gs0j5JH67zFUHZ,215
+1858,Where I'm From,Digable Planets,0,1962ZwEY7WNQLcmYFn3eR9,275
+1859,Where I'm From,Jay-Z,0,0R0zZnqPg7yOWb4PRmW8nC,266
+1860,Whitestone Bridge,Tir Na Nog,0,6jC9ICXwpGEX5jJEzTMe2N,255
+1861,Whizz Kid,Mott the Hoople,0,7iJlURgOSuB1rb1wr5ohYW,205
+1862,Who Are You New York?,Rufus Wainwright,0,3d2K68avKB6qILZcTGG55L,222
+1863,Why,Jeremy Kushnier,0,1i5AB1WVhi91qyFph4zJPu,232
+1864,Wild Irish Rose,George Jones,0,60mSfniJxY9z9AktYVvsYU,278
+1865,Williamsburg Will Oldham Horror,Jeffrey Lewis,0,0Bly1GQ00yqdHtQ8XjjXTw,348
+1866,Wimpy Drives Through Harlem,The Queers,0,7GnG1S0L53pFYmtMIvogEc,83
+1867,Wind Of Change,Bee Gees,0,6saSM77E5tk8r64mF4QJw6,292
+1868,Wombling White Tie And Tails,The Wombles,0,75irFuqngHylr6JeZi8v6C,216
+1869,Women In New York,Lord Kitchener,0,4uPQ1rdTs2jbmfjpssl8BC,174
+1870,Work,ASAP Ferg,0,7xVLFuuYdAvcTfcP3IG3dS,283
+1871,Workin' for the MTA,Justin Townes Earle,0,0D9EFeXon8jQE7KgJvuplG,228
+1872,Wouldn't Have You Any Other Way (NYC),Elton John,0,49rat0ZasTEBYVpIEFI4dm,278
+1873,Wrath Of Kane,Big Daddy Kane,0,0xiHggpKPrPwFD6e4Kp0Sh,303
+1874,Yeah! New York,Yeah Yeah Yeahs,0,6VBXqL5ztd119C0K3GgZ28,125
+1875,You and Me and New York City,Brad Hopkins,0,7LDJZXV0TMFPyHR1DDtBrD,193
+1876,You Don't Mess Around with Jim,Jim Croce,0,5yrsBzgHkfu2idkl2ILQis,184
+1877,You Get High in N.Y.C.,Revanche,0,3mbfCu1qa3x5i2iNK1pucR,512
+1878,You Lift Me Up,Rachael Lampa,0,0pdvnlCwUjnaMH2GWEdyvK,218
+1879,You Said Something,PJ Harvey,0,4m5S4wvLY031rN6beIWoRe,198
+1880,You Surround Me,Erasure,0,6k8TkPk7a5tk44wULwczZ9,238
+1881,You Took the Sunshine from New York,The Wildhearts,0,6X5bha0vv7XFOncUCmai4X,219
+1882,You'd Rather Run,Jaymay,0,7J9l66lAvD6rW6yoJUoGih,591
+1883,You're Gonna Chase Love Away: Max's Kansas City,Elliott Murphy,0,365jgrevsBhhdVVV0w3TOs,287
+1884,You've Seen Harlem at Its Best,Ethel Waters,0,6qkf0Rb11UpnKLU5R6MO0W,172
+1885,Your Latest Trick,Dire Straits,0,4UK1g9Z1lWedkmIQuSyCe5,393
+1886,Youth Of Eglington,Black Uhuru,0,4ag0EZlimeFAoNta9B1b16,302
+1887,Zen Koans Gonna Rise Again,Dave Van Ronk,0,4Jwtey1uLfk70U4bW26vNW,222
+1888,Zephyr & I,Suzanne Vega,0,3HGZyvldfUUXqzFpw5h17C,189
+1889,Zip Code,Five Americans,0,1bdtY3SGI196r2LF0Dd6Oa,152
+1890,Zoo York,Oakenfold,0,15V4btWmnH94Ai05HifzxD,325
+1891,707,Mac Dre,12,1DTQkKxHaAjN77rpqYffdK,266
+1892,All Dressed Up for San Francisco,The Philosopher Kings,12,2GOJ6Oxii56Qh8IohUFSpC,271
+1893,All the Lost Souls Welcome You to San Francisco,American Music Club,12,3n8hDQnnXBNkjDyudAzPHN,163
+1894,Arizona,Mark Lindsay,12,2RtmMC4btQbvQ9w5KxPZpy,188
+1895,Back in San Francisco,The Orange Peels,12,4RVYx0yqzaAsKKhl0Vpq5w,257
+1896,The Ballad of Wilhelm Fink,Green Day,12,29ubdKKlj7GYgjMB4uzxLN,32
+1897,The Bay,Lyrics Born,12,7tywJB7omzwjdDK80bT0lY,272
+1898,The Bay,Zion I,12,5LQd4dDcv3BsCH0cFh8vRt,207
+1899,Berkeley is My Baby and I Wanna Kill It,Blatz,12,1SIsJeIJZO5HFUdHWTmtOz,162
+1900,The Best in Me,Sherwood,12,3109wCeWsv8XuqP5FwjY8k,261
+1901,Bixby Canyon Bridge,Death Cab for Cutie,12,1xFKRN7Dx8KP8zdg7zs7XN,315
+1902,The Blind Leaving the Blind,Punch Brothers,12,3BjoLDK193KC3Eaq6HKjUZ,718
+1903,Calling San Francisco,Tommy Castro,12,6rqYh92BVjfrcbSdTGiMdH,325
+1904,Campbell California,Lars Frederiksen and the Bastards,12,1OKqBP23RZRxpbdWPtiK6S,137
+1905,Carlotta Valdez,Harvey Danger,12,6eaUFwzmJrkxhNtsqKgCeS,166
+1906,The Chapter in Your Life Entitled San Francisco,The Lucksmiths,12,3RSswzgA4dD8EeS24pPyOv,269
+1907,Christie Road,Green Day,12,6WSh4D27xQjMhCwEq34zSZ,209
+1908,City Hall,Vienna Teng,12,13TqRc2ZbXb59wwH8XmnKp,288
+1909,Come Back from San Francisco,The Magnetic Fields,12,6iHrqAF6XO2rzl4OLFb4eo,168
+1910,Come Monday,Jimmy Buffett,12,0yje3JVMgJNZENayymCTHA,191
+1911,Condition Oakland,Jawbreaker,12,58n5ZfJWqcE5It8yvHX1YN,317
+1912,Danville Girl,Woody Guthrie,12,2rFzUrdVedeznt5j5lV71X,225
+1913,Deep Kick,Red Hot Chili Peppers,12,4VgylHaBo55VXqX4AiZiyc,393
+1914,Deportee (Plane Wreck at Los Gatos),Woody Guthrie,12,7zOOmy8YYcmpKHBcTB8uaQ,254
+1915,Desvelado,Bobby Pulido,12,2JJSGhPpATm8lXeYjD95fw,221
+1916,Don't Marry Her,The Beautiful South,12,20abcpNIRjDmyFoAbFozil,201
+1917,Taxi,Harry Chapin,12,7qnxmC6qdYkjcoCJCeD8Jx,406
+1918,Down and Out in San Francisco,Martha Berner,12,17tyZmbyk3Jjvk5LIsjN1D,184
+1919,Down in Oakland,Transplants,12,0hBu9axnr7q4bMjlaJzAul,203
+1920,Down on Mission Street,Lloyd Cole,12,5mb5uD8Wso0AysCvBUhowa,225
+1921,Down in Frisco,Jon English,12,3zGmlihGA2fzveXuZ4R84J,192
+1922,Fake Tales of San Francisco,Arctic Monkeys,12,4KGyQfes7t5BiaoBvs380e,177
+1923,Fasting in San Francisco,Lupon,12,4DCrPvAJ2cS7j262p16Ax6,202
+1924,Frisco Blues,John Lee Hooker,12,4taFApmkTGwcjwQIfZOPVO,165
+1925,Frisco Town,Memphis Minnie,12,1dBTgdSunQXJ31JPIi0ziL,172
+1926,Girl in the Blue Velvet Band,Peter Rowan,12,0eZg3jtvb5QKoHAoDbizKe,226
+1927,Golden Gate,Al Jolson,12,1thPgoLfInyls0CpViga3E,153
+1928,"Goodnight, San Francisco",The Bittersweets,12,2q693T8tpJWImSQh7KLOOm,270
+1929,The Golden Gate,John Vanderslice,12,2b26HtCuKsn4ioLsS08jbm,232
+1930,Got the Gate on the Golden Gate,Mel Tormé,12,4Cgu4Z3yVHUgs1iCqZYk7k,261
+1931,Grace Cathedral Hill,The Decemberists,12,1THqPHDrsvnxvs7Nq2MPwm,268
+1932,Grace Cathedral Park,Red House Painters,12,78FJDOBOhAG9UpXd4cqEhx,231
+1933,The Grand Duchess of San Francisco,American Music Club,12,6k1LqXXPW0OXGAZi7voLPW,165
+1934,The Haircut Song,Ray Stevens,12,5l9LAtSWF7wcZCALSjGJiF,242
+1935,Half Moon Bay,Ronnie Day,12,4YsWAnk6P1mHmU2ZEuadn6,155
+1936,Half Moon Bay,Tom Grant,12,1HcurWFHNSO5VQV6b9Khn8,193
+1937,Half Moon Bay,Train,12,2pJP5MYThS3HtuTYx085Ab,235
+1938,"Hello, San Francisco",Buddy Guy,12,2vp3bj9NQ9CmJKU3USRodr,521
+1939,Honeymoon in San Francisco,Of Montreal,12,6QHeArsWWF6U1H2IoeeWpj,192
+1940,Earthquake Weather,All Bets Off,12,08oLvGDMXyCg5LqXkick0I,162
+1941,Haight Street,Anberlin,12,2VhzW4E35jlYvJoYcVDnnA,178
+1942,I'm Always Drunk in San Francisco,Carmen McRae,12,4jsrzfNVVFAtNtMPVpFdwo,184
+1943,If I Could Give All My Love (Richard Manuel Is Dead),Counting Crows,12,4XsNMUborShcdw5Jv08zbX,232
+1944,In San Francisco,The Welcome Matt,12,6y4QWbJVXXn6QXnXuRDwZG,225
+1945,"Sit Down, John",1776,5,6ghUhgMQz86QkgmhbJ4LOO,117
+1946,In San Francisco (Wake Me Up),The Welcome Matt,12,6y4QWbJVXXn6QXnXuRDwZG,225
+1947,In San Francisco Watching SLC Punk,Ghost Runner on Third,12,0kLQdkgGZNnax4IehNjp7j,194
+1948,Journey to the End of the East Bay,Rancid,12,301rOc8VF34Op3NhRfYcus,191
+1949,Yay Area,E-40,12,6JFdyoLzHdGibgutS7LrBb,228
+1950,Jumpers,Sleater-Kinney,12,1YFUVWqrfXKJtRchH3kMAt,264
+1951,K-L-M Line,The Fairways,12,1kMZ3mxSGeYEyeTqgGkd0w,229
+1952,King of Disco,Akcent,12,7CMl0Ok243lA6fKxjuF1EE,221
+1953,Left of the Dial,The Replacements,12,7nL0nuLhX6ItOoEq9RpkOO,223
+1954,Life in San Francisco,Girls,12,6zVjTt5iZXrjy7YdutI6u1,141
+1955,Lights,Journey,12,7EHmKkyAr6MZv5Y2FdZbXw,190
+1956,Lights Out in San Francisco,Craig Chaquico,12,06s5leTNWdaPsgJCta6hdP,209
+1957,A Little Bit of Everything,Dawes,12,5xL83O27JVR7CtUgglnggX,339
+1958,Love on Haight Street,BT,12,6rqCCosFMsH8YTuetbO7jj,378
+1959,Make Like Paper,Red House Painters,12,5ZVZYG2CpguW148AjFIBJB,723
+1960,Mercury News,Lucy Wainwright Roche,12,7qPJ9Rwcvyzrtm2AabEvmL,186
+1961,Mission Bells,The Aislers Set,12,4QN6pkHu92VxCobg9cAojh,240
+1962,Mission in the Rain,Jerry Garcia Band,12,7tg7ZGUQCWEfvPtyd5qwmK,460
+1963,The Mission is Bitchin,The Units,12,36CecRFKByj5LQpDAZX2JG,105
+1964,Mission Street,Vienna Teng,12,1JL8hv24ZI6sGbnoDydvVU,270
+1965,Misty Mountain Hop,Led Zeppelin,12,5NnZ4JJxWiqqhYNu3rwmFj,278
+1966,Moon over Marin,The Dead Kennedys,12,2GhSbuIKbpS3XJ7wnWgz1B,223
+1967,My Brother Lived in San Francisco,Joan Ryan,12,0dTZzzrLVDQuuxB5ovMMj6,224
+1968,My Side of the City,Beulah,12,7BVugg6cN3hRPbAnuGxMrK,207
+1969,New Oakland,Mistah F.A.B.,12,6yoRcAvgoIqS6eL8kpJBxF,227
+1970,New Zealand Pines,John Vanderslice,12,6wn0pXyYAyV7pcjGJTr6FS,257
+1971,Oakland,Too Short,12,5nYRlF5XVaw2xh3mT4XNR3,166
+1972,Oakland Stroke,Tower of Power,12,3pefQvPsDGSgBQ3vO6r8Wb,52
+1973,Olé! Tarantula,Robyn Hitchcock,12,0RyknIHYv7CBPRvORDH7j8,170
+1974,On a San Francisco High,Sony Holland,12,3j9KrsESWYXdBm0GvTutTO,202
+1975,Pacific Dust,The Mother Hips,12,7zC8aZ1UVdk1DSGbf5KkNW,258
+1976,Pacific Heights,Pep Love,12,0ic8r7b89geZRgLnFUaz4T,292
+1977,Palo Alto,Radiohead,12,36smNNHs9GP5I5BGqoDVVX,231
+1978,"Piazza, New York Catcher",Belle and Sebastian,12,12eefUObewFbvXYQ3bN7E4,183
+1979,Planet Fillmore,San Quinn,12,4oPc51VixivHxYkjOfG3WD,246
+1980,The Pleasure of Her Company,Vic Damone,12,5KdkuAfOa5QA2eEYccxLD1,192
+1981,Ride Captain Ride,Blues Image,12,1d9hUvkv64Wmdu671Dydpc,225
+1982,Saint Dominic's Preview,Van Morrison,12,0MgfdN0hWlNeQCSLqjfn6C,391
+1983,Samba de Sausalito,Santana,12,2Y2gB5b3rAZbTRRl3JMjX4,191
+1984,San Fran,Kids of 88,12,4bsEDVJ6MzSdkOiZM8zz3M,209
+1985,San Franciscan Nights,Eric Burdon & The Animals,12,7g0XgioAO3q8iBUQNoEAye,199
+1986,Linden Arden Stole the Highlights,Van Morrison,12,2rqzOXZEUyV3OHzT2J3id7,157
+1987,New Year's Kiss,Casiotone for the Painfully Alone,12,7FMteOz4IdoNbl3U2Ydo2x,122
+1988,San Francisco,Walter Jurmann and Bronislaw Kaper,12,3yHIKnQXNVgDfF1d7e8U3K,143
+1989,San Francisco,Brett Dennen,12,0bcBDU55rTT9X5pXVwVDJZ,230
+1990,San Francisco,Brian Wilson & Van Dyke Parks,12,6B4aptbUlmrf4OzJHqw30V,268
+1991,San Francisco,Cascada,12,2OmF9xfZwvPAocJkm70aiP,226
+1992,San Francisco,Citylife,12,0Q4sOTetqU26kng7RKXX67,437
+1993,San Francisco,Damian Anderson,12,5Mu3lEmmf31HezyT5vXFD3,187
+1994,San Francisco,Die Flippers,12,2b1d5iA4DZqOEbRBazqoGC,196
+1995,San Francisco,The Dingees,12,5H7WFDrJIn7l1gV27vTQ5l,193
+1996,San Francisco,Foxygen,12,0J7Zv3nJki2SBTvidhMDZy,227
+1997,San Francisco,Frédéric François,12,0ryPhASVpsRB5F3YQtR2gi,624
+1998,San Francisco,Hello Saferide,12,5rmPPegHEID4k4FWFeqaTM,204
+1999,San Francisco,Jesse Rhodes aka Stegosaurus,12,6HZQhjwQre28iMG0ENOrYv,209
+2000,San Francisco,Jill Sobule,12,5B8IDykw5FAy7wSiPb9f4z,290
+2001,San Francisco,The KOLIN,12,5ivFyPxr2oaZCSK1MeWBUk,298
+2002,San Francisco,Kristin Hersh,12,1ilTOOjBTfVoL32ZXqBUop,178
+2003,San Francisco,Maxime Le Forestier,12,4EucYViqJKQ4lCECHnec1P,165
+2004,San Francisco,Midicronica,12,0nsn0xuYHUTbq47O7SBV5v,206
+2005,San Francisco,Mike Burns,12,4AKzWvTgRTvXngMslyDyDF,355
+2006,San Francisco,The Mowgli's,12,5RRWirYSE08FPKD6Mx4v0V,173
+2007,San Francisco,MU330,12,4VeA6Qr4Ibw6eD6CdkQw46,101
+2008,San Francisco,Richard March,12,1VaPmzw89JYQtsRAh2AqIE,398
+2009,San Francisco,Rufus Wainwright,12,6dzK5XR233rQ5Y1kSaj1l0,293
+2010,San Francisco,Sarah RabDAU,12,7v9Rzuz3mdtcEz9Bm96jSL,206
+2011,San Francisco,Son of Dave,12,0hWwvCkPWMX6ISqJQ8ugla,250
+2012,San Francisco,Spouse,12,2WiGubITP4oyMdP4JdTKD2,288
+2013,San Francisco,Steve Tannen,12,5jB06PouYkGOHFL25Q73jS,208
+2014,San Francisco,Ten Mile Tide,12,3jQ8l4tu8wMCuRRdF50HkN,433
+2015,San Francisco,Vanessa Carlton,12,2zc6lEWxazLAFWi2h6eCAb,251
+2016,A San Francisco,Vission Latina,12,6sCUhcGYEq6SGJZzxPHChJ,246
+2017,San Francisco (In Situ),They Might Be Giants,12,2Mpk5I4LNVsayjaoYofRip,58
+2018,San Francisco (Be Sure to Wear Flowers in Your Hair),Scott McKenzie,12,66ujRcQB3xjilVohGyvTKM,177
+2019,San Francisco (The Rhythm),Eskmo,12,5g3ntAzf0dlQipBFLEluPe,289
+2020,San Francisco (You've Got Me),Village People,12,1pTV6j0gtlBNdwZwo1iW1y,319
+2021,"San Francisco, 1906",Capybara,12,1hImWFb9rws6ctJGgACZRL,277
+2022,San Francisco Bay,Lee Oskar,12,0TaatujAlsDlmmZPLlu5dR,445
+2023,San Francisco Bay Blues,Jesse Fuller,12,5i3JtaOeGJjAo0fBJTsYoV,179
+2024,San Francisco B.C.,Silver Jews,12,1D52muCcduOpCqnFA9yyR3,374
+2025,San Francisco Bound,The Pimps of Joytime,12,3aaC6jYSriAnOuU1daGCu5,297
+2026,San Francisco Days,Chris Isaak,12,5Trbt34yBAzpM59c6G8pqO,178
+2027,San Francisco Fan,Joe Jackson,12,4cXBfCHgGR14rx3IEpWulU,269
+2028,San Francisco Fat,NOFX,12,7aXGkFWTCnxkjiQfSzDc0m,164
+2029,San Francisco FM Blues,Doug Sahm,12,1LRu1sf04W4ruuzqdxMv7D,210
+2030,San Francisco Girls (Return of the Native),Fever Tree,12,2Vio9orJlk0fFVeO0CgtA6,242
+2031,San Francisco Holiday,Thelonious Monk,12,2QZ1ILBqYeQu8jG7fP0XAX,508
+2032,San Francisco Knights,People Under The Stairs,12,0msneWUDfYKAGrifwEDhtl,271
+2033,San Francisco Payphone,Catch 22,12,4CSiHkDFP6OK4kUBEzO2gr,169
+2034,San Francisco Saturdays,John Callahan,12,2K7Hhysc8b9HMJ6efCFHfo,110
+2035,San Francisco Shuffle,Meade,12,7flxxFzgWI5TpsKhvBxnbJ,372
+2036,San Francisco Song,Camera Obscura,12,5fqPU4UMDbGtqEM8dWuYQ7,140
+2037,"San Francisco, Take Me Back",Band of Annuals,12,1rAvYEqNO99WN3qiDlX5Ry,223
+2038,San Francisco Via Chicago Blues,The Elected,12,4Ol7Or6pHLpX0f766IoGpH,166
+2039,San-Ho-Zay,Albert King,12,5OY0TEjNHO7aSvXRbAJSVu,53
+2040,Santa Rosa,Nitty Gritty Dirt Band,12,2y6qryg1chppjGIJLuDR51,143
+2041,Sausalito,George Duke,12,3PNaTSu61eZ5rY4NEiieST,376
+2042,Sausalito,Conor Oberst,12,3pv6b4KfFccp71Dsy7igzA,190
+2043,Sausalito Summernight,Diesel,12,3Vah9acceGHoVBgH4iijET,309
+2044,"Save Me, San Francisco",Train,12,7gA5OQWsvAY7HhazroFuwI,249
+2045,Sequel,Harry Chapin,12,0HFW81AR9sO7FiCBy75O5b,398
+2046,Shark Infested,The Killa Sharks,12,0WIz4o0DhKHJop6ugPAd1m,292
+2047,Shoot Out in Chinatown,The Band,12,4dArwFayrjFaR1red6af9e,173
+2048,Show'n Love,The Killa Sharks,12,6FDDZJxI49HlTz7FIlgEW0,233
+2049,(Sittin' on) The Dock of the Bay,Otis Redding,12,3zBhihYUHBmGd2bcQIobrF,163
+2050,Sky High Honey,Matt Nathanson,12,5ZaSW9btilS0vGRHjGCZZc,206
+2051,"So Long, San Francisco",Glenn Yarbrough,12,6zEnYQnZNUlMA3NWw6noAk,159
+2052,Soul Shadows,Bill Withers,12,1gSP2PYlWu3429ySMUjc8s,383
+2053,The Sound of San Francisco,Global Deejays,12,60tsXfCcG6Ljxsr8whOXL5,224
+2054,Standing on the Moon,Grateful Dead,12,2KhNJ3rZ4NiWrxX2lAqZJN,323
+2055,Strawberry Wine,Ryan Adams,12,0L51VUczq7ZNaaoB6fxlAe,478
+2056,A Summer in San Francisco,Hendrik Meurkens,12,6OL7EJLi7wi1o9s0Mb8YIa,333
+2057,Tania,Camper Van Beethoven,12,0DmiE6qnCiIqRoVy4EqPUv,249
+2058,Tenderloin,Rancid,12,2efdMAHXriAAFPG5fs02xN,92
+2059,Tiny Montgomery,Bob Dylan,12,3S4uVMF2KcxAVubsq5J0WD,166
+2060,Vallejo,Mac Dre,12,4N30UIuVcDSdY4WWU8pR04,111
+2061,"The Vowels, Pt. 2",Why?,12,3tjij4yQtotAqGkEVVALr3,246
+2062,Wake Me Up in San Francisco,Jackie Payne Steve Edmonson Band,12,0AxhKGmzwttZZHscroVIem,304
+2063,We Built This City,Starship,12,6OnfBiiSc9RGKiBKKtZXgQ,296
+2064,Welcome 2 Da Bay,Yukmouth,12,0B8szTmsbS4DM7vI2tKIqA,274
+2065,Welcome to Paradise,Green Day,12,5kr3j5Clb9rjEposoMyLVt,224
+2066,When I Come Around,Green Day,12,1Dr1fXbc2IxaK1Mu8P8Khz,178
+2067,Who Needs the Peace Corps?,Frank Zappa,12,4Qb4Ts7g11Sem3YJf7TZy4,148
+2068,Yerba Buena Bounce,The Hot Club of San Francisco,12,3z1kzKv25N8BNaZD6bc4ep,264
+2069,Aurora Bridge,The Young Fresh Fellows,11,2fJeNW1bbOiXr4qwmlDTv0,169
+2070,The Ave,Blue Scholars,11,6YdpIYFhLHUqNxvvzMMD5d,184
+2071,"Baby, I'm an Anarchist",Against Me!,11,0uSwAqfR6cBDj5BRP6L3Vx,160
+2072,Belltown Ramble,Robyn Hitchcock,11,4Z6Wo8BPhwd9VVKy1Kbqtr,375
+2073,Chains,Patty Loveless,11,6mjnGqvFFfNGKYqmKeZqAy,149
+2074,Claiming the City,Macklemore,11,2b2PPF2dMbgDZVIDsS5ZT5,268
+2075,Cool City,The Cute Lepers,11,5BhEhzWkUnlKKC0hV2Lv8t,102
+2076,Cowboy Boots,Macklemore,11,0lH2JOmVFlrClxbNQxCgyr,255
+2077,The Day Seattle Died,Cold,11,1sEnmRviPgOmPUAo32n3Gc,214
+2078,Emerald City,United State of Electronica,11,5VAREJuoCHAcXNNksHdBGE,245
+2079,Frances Farmer Will Have Her Revenge On Seattle,Nirvana,11,06B04lID9HGPwPWwBkTQfU,250
+2080,Fuck You Seattle,Broadway Calls,11,3eK8u5ue9FGXOcE4uyxoPu,217
+2081,The Gates of Ballard,Sunn 0))),11,0bG5BB3V9DddCzYa7uFG5M,937
+2082,Home,Jake One,11,5PMTzQgF0JnMVDNJb0234Y,180
+2083,Hello Seattle,Owl City,11,6kIpxmFQ35wgI3cK77LKbx,167
+2084,Inkwell,Blue Scholars,11,5OTTkHVa9RPlyZQlBdAMSn,296
+2085,Interstate 5,The Wedding Present,11,11sDkLw0Ax4h7hP6oLs5wP,486
+2086,Jesus Christ Made Seattle Under Protest,The Mellors,11,4QAsQDNG4JeqzMXxEOIH4o,209
+2087,Jet City Woman,Queensrÿche,11,4sOlbksuGHyUkSafNnho2f,321
+2088,Mister Rogers,Grynch,11,7wKTvEg0rGzS2eUzXCsGXZ,236
+2089,Moving to Seattle,The Material,11,11eGLzpYcCg1j7ts7WOAY8,209
+2090,The Mud Shark,The Mothers,11,2m36fzWTQ9M1oPvw8uBcP6,321
+2091,My Oh My,Macklemore,11,6Pi7FM06HeixUs0TChN1yh,257
+2092,New Way Home,Foo Fighters,11,44yHNmayqe7dI9fHjAYPCl,340
+2093,Posse on Broadway,Sir Mix-a-Lot,11,7MmhQMfjXPF2AnqrmbqvVB,304
+2094,Ringway to SeaTac,The Wedding Present,11,7Fm5xLhhQIiYZldadvKy94,161
+2095,School,Nirvana,11,0EY1Z9UmZnYZyM7zHs6C0j,162
+2096,Seatown Funk,Kid Sensation,11,7zWH8dxLhel7nNq4OzYyd3,258
+2097,Seattle,The Classic Crime,11,1jytedNaBN2t9bjoOx6FdE,268
+2098,Seattle,The Hot Toddies,11,1I40t5OT1J6BbbdPPvr75e,109
+2099,Seattle,Jeffrey Lewis,11,1imzEZRw7srQUSgSKhbz8k,154
+2100,City Dont Sleep,Macklemore,11,63GKFKG3enu4dMhsil0QG0,210
+2101,Evergreen Christmas,Loni Rose,11,6e92ALJEnTBf6Tb36FDVWC,301
+2102,Seattle,Willow,11,6kd7qZLpefXyde8FnNuwjU,222
+2103,Seattle Ain't Bullshittin',Sir Mix-a-Lot,11,1XJVfmTuk4Aka23GnF0ucO,333
+2104,Seattle Hunch,Jelly Roll Morton,11,5fcuVmKshTxYV83RQhg2j9,187
+2105,September in Seattle,Shawn Mullins,11,39eryOJcHMNfkcFiVAGN7K,201
+2106,The Shadow of Seattle,Marcy Playground,11,2AWCqHT2N1LyXwY9Ku2s9B,163
+2107,The Sound of Seattle,Daryl Lockhart,11,7bVnEMv5MH52ygw8zrdA7r,171
+2108,Slick Watts,Blue Scholars,11,7MvhTLaPfX8Bzj4AF8Zu8F,203
+2109,Sub Pop Rock City,Soundgarden,11,555HrUYusY22ERx2xVpzCz,195
+2110,Summer Night in Seattle,Jenna Drey,11,2vZZqFHbSRO0oPEhawDzSJ,369
+2111,Sunny in Seattle,Blake Shelton,11,6v1wO0PcMPej4Go7QPr9dY,207
+2112,Teardrop Windows,Benjamin Gibbard,11,3FXkPTsLDsYEdx0mkAIp8R,167
+2113,This Place is a Prison,The Postal Service,11,71RakHH2tdYRLFM2RniO5K,234
+2114,The Best I Ever Had,The Swellers,11,1FTBGFF2CJIEsMdkRMHo6z,239
+2115,The Town,Macklemore,11,78wkOLqITJnDlAhvAclsb1,336
+2116,The View From Home,Bryan Bowers,11,5WXtj26RJ0KYpeu55Wgtxm,141
+2117,Vagabonds,The Classic Crime,11,3l7tlbBtqe5QuMQMlGGfjT,223
+2118,Viva! Sea-Tac,Robyn Hitchcock,11,5KPniH1UwbY3ffBSxsBDMI,231
+2119,Welcome to Seattle,Boom Bap Project,11,3MfLh0SUdilDvgLQivFFjQ,234
+2120,Work in Progress,Set Your Goals,11,1pFRV9m2ObKnYnX482r64D,133
+2121,"Wir sind hier nicht in Seattle, Dirk",Tocotronic,11,1bRGL3saYmVDLkd1ydCK5L,194
+2122,Seattlehead,Duff McKagan,11,7lgqqk454Q42QmLzKLPvkN,228
+2123,Sick of Seattle,The Smithereens,11,6hLlb3uweFdMdW7VJz2Z8B,183
+2124,Talkin' Seattle Grunge Rock Blues,Todd Snider,11,5uBXisCJe8QgqGJhLAin4r,254
+2125,"Miami, My Amy",Keith Whitley,3,5K1HsMKNWMrxADlqAUjpIp,207
+2126,The New South,Hank Williams Jr.,3,5ZVeko2Gm6ux8SwYJxRvQl,239
+2127,If the South Woulda Won,Hank Williams Jr.,3,1H8VHGHaRujxpq15KUglIw,199
+2128,Miami,Counting Crows,3,7GDgfn9D2NjtSgc9IH1w3Q,301
+2129,Miami,Will Smith,3,6e8Ou0wiqAzIpWb2eSxll8,197
+2130,Miami,Bob Seger,3,2wz3h7kJNRkHkJUzCW8b7e,280
+2131,Miami Beach,Bonde do Rolê,3,3lKCiVBo1jgBfsS0cHrmg5,220
+2132,I'm in Miami Bitch,LMFAO,3,1vaUxfrERQIQfJ1wBTmeRE,227
+2133,Miami 2017 (Seen The Lights Go Out On Broadway),Billy Joel,3,6uC9fa50cFyDOc1BTOLXiM,311
+2134,Swimming In Miami,Owl City,3,0I1AvOpuD75uLQRpjgqvfp,295
+2135,Only in Miami,Bette Midler,3,0bTTE4Obds2aaa7MIzThRz,233
+2136,Summer Wit' Miami,Jim Jones,3,0pJ1L8Rq1R3RGMerdFFe3I,206
+2137,Miami,K'Jon,3,3Zdmx7txvXid5IzdQXNTu1,351
+2138,Miami Nights,Wale,3,03O2yXOELrmsV8BIrsiyQB,216
+2139,Miami 2 Ibiza,Swedish House Mafia & Tinie Tempah,3,3Faa4vgk1nEczUvadWyVQc,258
+2140,Miami,Against Me!,3,1QGf9kxXXsblNktjDbHpNV,240
+2141,Miami,Taking Back Sunday,3,7n9tNUDOFfxkFcuecIjJ2d,221
+2142,Miami,John Mellencamp,3,42tdgBJfhR26A6dUm2Ca6d,233
+2143,Miami,Randy Newman,3,21jPhpm4CN4uP5wmsIKxcp,242
+2144,Going Back to Miami,The Blues Brothers,3,4CRvbQ6GdqGB8QZXGisiYV,240
+2145,Everybody's Got a Cousin in Miami,Jimmy Buffett,3,6YdFbGDL5jAlGFDiCzPMhX,439
+2146,Miami,U2,3,5t3VvTrmnlxypdtAacg9Gh,292
+2147,Miami,Yo Gotti,3,6gIJ8d01Klvu3owx1cAf1t,168
+2148,Waking Up in Vegas,Katy Perry,22,6fvxos1qSHrIgOkKw4dhWS,199
+2149,Banned in DC,Bad Brains,8,0YnP5BtP6lTwQV8gLOzaov,132
+2150,The Bourgeois Blues,Lead Belly,8,4rhaDfV9y5UvGZ67BT8U35,138
+2151,The District Sleeps Alone Tonight,The Postal Service,8,3l14MJpQB4tFFgKLqUqtV3,283
+2152,Chocolate City,Parliament,8,0tkokbqEygQIxlQ8oap3KN,336
+2153,Christmas Eve in Washington,Maura Sullivan,8,3Q0vBlBA7OfygRJrCBGnSP,177
+2154,"Washington, D.C",The Magnetic Fields,8,22reYeFPVc6i15XGmbUs7i,113
+2155,The Washington Post March,John Philip Sousa,8,63RYoY070aZ8ceRMEiprBU,156
