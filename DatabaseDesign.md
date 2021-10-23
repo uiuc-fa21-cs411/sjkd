@@ -43,6 +43,11 @@ CREATE TABLE Song (
     FOREIGN KEY (CityID) REFERENCES City(CityID)
 );
 ```
+## Data Tables 
+[Songs Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/songtable.csv)
+[Cities Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/citytable.csv)
+[Routes Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/routetable.csv)
+[Concerts Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/concerttable.csv)
 
 ## Advanced Query 1
 ```
