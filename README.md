@@ -15,6 +15,8 @@ The purpose of this project is to create a playlist specifically for road trips.
 
 [Link to Conceptual Design](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/ConceptualDesign.md)
 
+[Link to Database Design](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/DatabaseDesign.md)
+
 ## System Demo URL
 
 link to your project main page (TBD)
