@@ -3,9 +3,9 @@ import pandas as pd
 
 mydb = mysql.connector.connect(
     host='localhost',
-    user='kes8',
-    database='kes8_database',
-    password='TrackRail21!'
+    user='user',
+    database='userdatabase',
+    password='**pass**'
     )
 mycursor = mydb.cursor()
 
@@ -81,9 +81,9 @@ def fill_all_tables():
     fill_songs()
 
 # Tables Created & Filled, shouldn't have to run again
-# create_all_tables()
-# fill_all_tables()
-# mydb.commit()
+#create_all_tables()
+#fill_all_tables()
+#mydb.commit()
 
 # Testing filled tables
 mycursor.execute('select * from City where CityID = 1;')

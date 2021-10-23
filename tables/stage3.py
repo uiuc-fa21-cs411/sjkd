@@ -3,9 +3,9 @@ import pandas as pd
 
 mydb = mysql.connector.connect(
     host='localhost',
-    user='kes8',
-    database='kes8_database',
-    password='TrackRail21!'
+    user='user',
+    database='user_database',
+    password='**pass**'
     )
 mycursor = mydb.cursor()
 
@@ -15,14 +15,19 @@ mycursor = mydb.cursor()
 # for each. Only return cities with at least 3 concerts.
 def query1():
     print("-------------------- Query 1 --------------------")
-    mycursor.execute('SELECT CityName, StateName, count(Concert.ConcertID) as numConcerts\
+    mycursor.execute('CREATE INDEX state_name_index ON City (CityName(5)) USING HASH;')
+    mycursor.execute('EXPLAIN ANALYZE SELECT CityName, StateName, count(Concert.ConcertID) as numConcerts\
                       FROM Concert \
                       LEFT JOIN City on Concert.CityID = City.CityID\
                       WHERE Lng > -90 and Date like \"%/2022\"\
                       GROUP by CityName, StateName\
-                      HAVING numConcerts >= 3')
+                      HAVING numConcerts >= 3;')
     for row in mycursor:
         print(row)
+        times = [str(row)[i+2:i+7] for i in find_all('..', str(row))]
+        results = [float(i) for i in times]
+        print(sum(results))
+    mycursor.execute('DROP INDEX state_name_index ON City')
 # SELECT CityName, StateName, count(Concert.ConcertID) as numConcerts FROM Concert  LEFT JOIN City on Concert.CityID = City.CityID WHERE Lng > -95 and Date like "%/2022" GROUP by CityName, StateName HAVING numConcerts >= 3;
 
 # Advanced Query 2
@@ -31,7 +36,8 @@ def query1():
 # Order the results by the number of songs per city in descending order
 def query2():
     print("-------------------- Query 2 --------------------")
-    mycursor.execute('SELECT Song.CityID, CityName, StateName, count(Song.CityID)\
+    mycursor.execute('CREATE INDEX state_name_index ON City (CityName(5)) USING BTREE;')
+    mycursor.execute('EXPLAIN ANALYZE SELECT Song.CityID, CityName, StateName, count(Song.CityID)\
                       FROM Song\
                       INNER JOIN City on City.CityID = Song.CityID\
                       GROUP by Song.CityID\
@@ -39,5 +45,20 @@ def query2():
                       ORDER by count(Song.CityID) DESC;')
     for row in mycursor:
         print(row)
+        times = [str(row)[i+2:i+7] for i in find_all('..', str(row))]
+        results = [float(i) for i in times]
+        print(sum(results))
+    mycursor.execute('DROP INDEX state_name_index ON City')
 # SELECT Song.CityID, CityName, StateName, count(Song.CityID) FROM Song INNER JOIN City on City.CityID = Song.CityID GROUP by Song.CityID HAVING count(Song.CityID) >= 7 ORDER by count(Song.CityID) DESC;
+
+
+#HELPER FUNCTION TO SUM QUERY TIME
+def find_all(sub, str):
+    idx = str.find(sub)
+    while idx != -1:
+        yield idx
+        idx = str.find(sub, idx+1)
+    
+query2()
+
 
