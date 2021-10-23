@@ -74,18 +74,23 @@ def create_all_tables():
     create_route_table()
     create_concert_table()
     create_song_table()
-# Tables Created, shouldn't have to run again
-# create_all_tables()
+def fill_all_tables():
+    fill_cities()
+    fill_routes()
+    fill_concerts()
+    fill_songs()
 
-# Fill tables
-fill_cities()
-fill_routes()
-fill_concerts()
-fill_songs()
+# Tables Created & Filled, shouldn't have to run again
+# create_all_tables()
+# fill_all_tables()
+# mydb.commit()
 
 # Testing filled tables
-# mycursor.execute('select * from City where CityID = 1;')
-# mycursor.execute('select * from Route where RouteID = 1;')
-# mycursor.execute('select * from Concert where ConcertID = 1;')
+mycursor.execute('select * from City where CityID = 1;')
+print([row for row in mycursor])
+mycursor.execute('select * from Route where RouteID = 1;')
+print([row for row in mycursor])
+mycursor.execute('select * from Concert where ConcertID = 1;')
+print([row for row in mycursor])
 mycursor.execute('select * from Song where SongID = 1;')
 print([row for row in mycursor])
