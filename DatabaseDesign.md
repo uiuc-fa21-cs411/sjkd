@@ -44,10 +44,10 @@ CREATE TABLE Song (
 );
 ```
 ## Data Tables 
-[Songs Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/songtable.csv)
-[Cities Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/citytable.csv)
-[Routes Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/routetable.csv)
-[Concerts Table](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/concerttable.csv)
+[Songs](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/songtable.csv)
+[Cities](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/citytable.csv)
+[Routes](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/routetable.csv)
+[Concerts](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/concerttable.csv)
 
 ## Advanced Query 1
 ```
