@@ -381,7 +381,7 @@ city_id,city_name,state_name,state_abbrev,lat,lng
 379,Chico,California,CA,39.7575,-121.8152
 380,Dover,Delaware,DE,39.161,-75.5203
 381,Clearwater,Florida,FL,27.9789,-82.7622
-382,Coeur d'Alene,Idaho,ID,47.7041,-116.7935
+382,Coeur dAlene,Idaho,ID,47.7041,-116.7935
 383,Seaside,California,CA,36.6224,-121.8191
 384,Independence,Missouri,MO,39.0871,-94.3501
 385,West Jordan,Utah,UT,40.6024,-112.0008
@@ -464,7 +464,7 @@ city_id,city_name,state_name,state_abbrev,lat,lng
 462,Tracy,California,CA,37.7269,-121.4522
 463,Boca Raton,Florida,FL,26.3752,-80.108
 464,Lafayette,Colorado,CO,39.9949,-105.0997
-465,Lee's Summit,Missouri,MO,38.9172,-94.3816
+465,Lees Summit,Missouri,MO,38.9172,-94.3816
 466,Rio Rancho,New Mexico,NM,35.2872,-106.6981
 467,South Fulton,Georgia,GA,33.6269,-84.5802
 468,Beaverton,Oregon,OR,45.4779,-122.8168
@@ -523,12 +523,12 @@ city_id,city_name,state_name,state_abbrev,lat,lng
 521,Miami Beach,Florida,FL,25.8171,-80.1396
 522,Norwalk,Connecticut,CT,41.1144,-73.4215
 523,San Leandro,California,CA,37.7071,-122.1601
-524,O'Fallon,Missouri,MO,38.785,-90.7175
+524,OFallon,Missouri,MO,38.785,-90.7175
 525,Newton,Massachusetts,MA,42.3316,-71.2085
 526,Muncie,Indiana,IN,40.1989,-85.395
 527,Citrus Heights,California,CA,38.6948,-121.288
 528,State College,Pennsylvania,PA,40.7909,-77.8568
-529,Town 'n' Country,Florida,FL,28.0108,-82.576
+529,Town n Country,Florida,FL,28.0108,-82.576
 530,Decatur,Illinois,IL,39.8556,-88.9337
 531,Jackson,Michigan,MI,42.2431,-84.4037
 532,Fort Myers,Florida,FL,26.6195,-81.8303

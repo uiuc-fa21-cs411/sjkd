@@ -2,15 +2,15 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 0,East River,Jeffrey Lewis,0,7eatI6m2W2da2pIjF9xzaF,190
 1,Flight,Rare Bird,0,7oJbYEoFt2kD7tsKYJqCtC,222
 2,New York City,ATC,0,5shT50Ko5C46NbNVSJHdTw,210
-3,New York Rain,Last Autumn's Dream,0,4c8JVCEFs6JlqvJSZdex8O,270
+3,New York Rain,Last Autumns Dream,0,4c8JVCEFs6JlqvJSZdex8O,270
 4,Uptown,Joe Bataan,0,7zYkzG4BgJYnqpOWOb3tK2,308
-5,Last Night,Kid 'n Play,0,3q5fgYEHyB30CjxaLy1jbV,264
+5,Last Night,Kid n Play,0,3q5fgYEHyB30CjxaLy1jbV,264
 6,Laredo,Band of Horses,170,61beXNR1qPPxjyM8x3pdRk,192
 7,Ode to Pittsburgh,Loudon Wainwright III),30,7pFYzEVKa5WYXiUZSzW50I,194
-8,There's No Surf in Cleveland,the Euclid Beach Band,29,7d8rUQISXtGAesdgkMfRB4,274
+8,Theres No Surf in Cleveland,the Euclid Beach Band,29,7d8rUQISXtGAesdgkMfRB4,274
 9,Willie Jones,the Charlie Daniels Band,21,3bC10NHwY64PV7lSBmjZ13,192
 10,Harlem Shake,Baauer,0,01XFgRZfZI7oBagNf1Loml,196
-11,Houston (I'm Comin' to See You),Glen Campbell,12,6JxpwwqnYykrRr2uxTqLso,200
+11,Houston (Im Comin to See You),Glen Campbell,12,6JxpwwqnYykrRr2uxTqLso,200
 12,Hyphy,The Federation,12,3nnLUys1KPa4WrJQDZAgts,271
 13,I Left My Heart in San Francisco,Tony Bennett,12,1bYItjcPRtxZs6Ir71O5RB,170
 14,Josie,John Stewart,12,05kdmWdXwTgHpK969gevDS,178
@@ -23,13 +23,13 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 21,Manhattan,Eric Johnson,0,21i2hxJAkQCWlSWejTkN0T,292
 22,Pier 17,Jagúar,0,6KG2MmTTGFatxV0o2a7N05,621
 23,The New York Girls Club,Rebecca Pidgeon,0,2JuMIzXoCFoLrMVOu3xKqj,221
-24,Hit 'Em Up,2Pac,0,0Z2J91b2iTGLVTZC4fKgxf,312
+24,Hit Em Up,2Pac,0,0Z2J91b2iTGLVTZC4fKgxf,312
 25,Slam,Onyx,0,0W2mz7mvaBaEsC4rmoRNPn,218
 26,Tribeca,Kenny G,0,4iaqAIsPzcIITMJGrdilPB,406
 27,Seattle,Public Image Limited,11,5a5WR72xhtIyEHj3Q8RKo1,220
 28,Seattle,The Sass,11,0mlf3yOGzVnIVxjybDQL3h,213
 29,Seattle,Mark Knopfler,11,0xQguLwFZSGfGnpfaUXMNF,256
-30,Hot'lanta,38 Special,0,4or6bIly7Vv5JVoTZBp9xm,342
+30,Hotlanta,38 Special,0,4or6bIly7Vv5JVoTZBp9xm,342
 31,Little Faith,The National,0,2kAu35H96f9hG3J96zfQOt,276
 32,NYC,Burial,0,1ZJyJhgJzndyIkvTrPbVAO,457
 33,One To 31,J Live,0,38wWn5PLzm6ZjEMPf66QnQ,273
@@ -63,7 +63,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 61,52nd Street,Billy Joel,0,4V4JM8brxPHFkaDd4OyTii,146
 62,53rd & 3rd,The Ramones,0,1KsSlsvm2hjzB1WWkryxIj,141
 63,59 Chrystie Street,Beastie Boys,0,1gBEvCBtfABQqEjwUGoSD3,56
-64,6 'N The Mornin',Ice-T,0,2cBOh97kgDenDOdtKhwU9O,224
+64,6 N The Mornin,Ice-T,0,2cBOh97kgDenDOdtKhwU9O,224
 65,6B Panorama,Aesop Rock,0,6SjwDmFU8wp5cEb6B54kF1,122
 66,6th Avenue Heartache,The Wallflowers,0,1qEyqHR1xsj2MC4Qy0dsaI,337
 67,6th Avenue,India.Arie,0,3CW4q8eFoRyGnnA52l5VlI,172
@@ -71,7 +71,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 69,7th Avenue South,Jonathan Butler,0,79fDlHRG0mvHy8IZejn2aN,298
 70,7th Avenue,Big Rude Jake,0,1YJj3vFE2NFiMzORvXvEmD,289
 71,8 Million Stories,Kurtis Blow,0,1FLIgmB6iB4Q1yj9eWisOA,482
-72,80 Blocks From Tiffany's,Pete Rock & Camp Lo,0,3RVZBDyJlNod81aEJk3pJz,164
+72,80 Blocks From Tiffanys,Pete Rock & Camp Lo,0,3RVZBDyJlNod81aEJk3pJz,164
 73,Biggest Bordertown,Bob Neuwirth,0,2ABUMg9QisTb7Vfz4Z7UBk,278
 74,83rd & 4th,Zaine Griff,0,7l3bRIjmM1fSFJ4Xd0LFgc,200
 75,88 Christopher Street,Dirt Bike Annie,0,1975Qd9xzW3TxVpGLdaMsJ,175
@@ -81,13 +81,13 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 79,A Broadway Musical,(from the musical A Broadway Musical),0,5jRNnH8oSlUfN6pJUvk6ju,278
 80,A Helluva Town,George Russell,0,51UFGWaxrNhTQwPpBYtT37,301
 81,A Letter to the New York Post,Public Enemy,0,5XnTUZ7g2XsyyVu8ScI26y,165
-82,A Little Somethin',LL Cool J,0,6zLzZYLJElc4vHk6N4xun4,266
+82,A Little Somethin,LL Cool J,0,6zLzZYLJElc4vHk6N4xun4,266
 83,A Million Miles From Harlem,Mac & Katie Kissoon,0,1Exmmn7qMtJRyL4Jm7XOs9,212
 84,A New York Christmas,Rob Thomas,0,4vkIcG79OWK0h3iZRfckLa,279
 85,A Queens Story,Nas,0,5ZFe9xHarx827MT4ecHQvi,275
 86,A Scot In New York,Band Of The Black Watch,0,1nB4GQnOTH5frtd6oJHQYt,135
 87,A Trip to NYC,Sleeping States,0,08ACwYQp5MGFUkFteuyWQi,164
-88,Ain't No Greens In Harlem,The Vibrations,0,5liSDOxOIkIBazr5hKOyzr,202
+88,Aint No Greens In Harlem,The Vibrations,0,5liSDOxOIkIBazr5hKOyzr,202
 89,Alex Chilton,The Replacements,0,2g9EvzLR2sYscJQubwKGqu,194
 90,All My Friends In New York,The Destructors,0,7EjluChxWIbYEZK2pyGkep,136
 91,All The Critics Love U In New York,Prince,0,4DS9ptm14TaKZ5san3PZOr,357
@@ -120,9 +120,9 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 118,Bells Of New York City,Josh Groban,0,2dPH8BpFW1BlKzlE5XmFBV,229
 119,Beneath Your Beautiful,Emeli Sande,0,2EcsgXlxz99UMDSPg5T8RF,271
 120,Bensonhurst Blues,Oscar Benton,0,2CqMG89BE6Qy1MXgkJVDPg,233
-121,Bicton V's Brooklyn,Dave Warner,0,32dZk5UqTIESzTDr0gyfE8,244
+121,Bicton Vs Brooklyn,Dave Warner,0,32dZk5UqTIESzTDr0gyfE8,244
 122,Big Apple Boogaloo,Brooklyn Funk Essentials,0,1jqjLr80EJt9sGvW3bBsN8,247
-123,Big Apple Dreamin',Alice Cooper,0,6003800WpzyePDBJHEhJ0H,310
+123,Big Apple Dreamin,Alice Cooper,0,6003800WpzyePDBJHEhJ0H,310
 124,Big Apple Rock,Black Ivory,0,13tmpoRRMxBahDwG252Mc7,614
 125,Big Apple,Kajagoogoo,0,5GdmKwHrXRfGT40ZGs0W5R,249
 126,Big Apple,Molly Hatchet,0,21yBJIccH2SVrshsxrrmQ8,181
@@ -135,20 +135,20 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 133,Black Jesus † Amen Fashion,Lady Gaga,0,3u8L4te13sTuqyHNR7j2rB,216
 134,Bleecker & MacDougal,Fred Neil,0,3xa8iDexIelqRCwvXJtr1Z,134
 135,Bleecker Street,Simon & Garfunkel,0,4c0ecVwn17owdwpIBL07wC,163
-136,Blue Belles O' Harlem,Duke Ellington,0,2YKujJprCCaE2rH6vI4lXS,369
+136,Blue Belles O Harlem,Duke Ellington,0,2YKujJprCCaE2rH6vI4lXS,369
 137,Blue Moon Over Brooklyn,Peter Criss,0,50dvb2pRDUqa3tq4c37SVd,325
 138,Blues For 52nd Street,Archie Shepp & Mal Waldron,0,4W8MkbHvrQPPsGZ5fxjGip,325
-139,Bob Dylan's 115th Dream,Bob Dylan,0,5ka7NFOlZUpVLJmA2tO0o4,389
+139,Bob Dylans 115th Dream,Bob Dylan,0,5ka7NFOlZUpVLJmA2tO0o4,389
 140,Body of an American,The Pogues,0,6YaiRxNzp5mZFR3orTq2Pb,283
 141,Boogie Down Bronx,Man Parrish,0,2CbgPrMwa0UWUdppsOIoTR,318
 142,Bowery Avenue,Tim Rose,0,2CvKS1mBfDAu7rAjuQcoLe,255
 143,Bowery Blues,Lydia Lunch,0,3v6bLWxnw2wnSgiUkm3jn1,115
 144,Bowery,Local Natives,0,204bkAaMO1MDYUVSovGjO3,277
 145,Bowery,Smog,0,2d0SWsSyNhXXYzU7mg80YQ,203
-146,Breakfast At Tiffany's,Henry Mancini,0,3Gtv7xHJ6Kpk1AcmDQqFJs,168
+146,Breakfast At Tiffanys,Henry Mancini,0,3Gtv7xHJ6Kpk1AcmDQqFJs,168
 147,Breakfast In Central Park,Dilana Smith,0,7JHyd1q4L4EToOUhe42K5Z,303
 148,Breakfast In NYC,Oppenheimer,0,0iJkc06uGCcVBVHsQxo37U,143
-149,Breakin' Up,Rilo Kiley,0,01Q8bAneKdVSjgTcRo9uCO,217
+149,Breakin Up,Rilo Kiley,0,01Q8bAneKdVSjgTcRo9uCO,217
 150,Bridge & Tunnel,The Honorary Title,0,1FfSzgcC3t6PG64vxgcrtw,234
 151,Bright Lights Bigger City,Cee Lo Green,0,2zT5npcA5n2RhhnBiWg3zo,218
 152,Bright Lights,Matchbox Twenty,0,4dZhQj20JbKlD9oR0X8kjZ,234
@@ -233,7 +233,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 231,Brooklyn To T-Neck,Das EFX,0,4R49vyyOJhf4QULunsAhzU,243
 232,Brooklyn Took It,Jeru The Damaja,0,2F8I7MsqHj583E3pFa2Fx9,203
 233,Brooklyn Uncompromised,Jeff Berlin,0,7f2odzPuyNNXKkOhBTbrNa,348
-234,Brooklyn Zoo,Ol' Dirty Bastard,0,2FWmKZ3kNbVsKGhuNHsltW,217
+234,Brooklyn Zoo,Ol Dirty Bastard,0,2FWmKZ3kNbVsKGhuNHsltW,217
 235,Brooklyn,Buckcherry,0,5Tv5sVWoB1oQL2PbNvXoq5,241
 236,Brooklyn,Carrie Rodriguez,0,0k39lU2lHS91VAa2PQbCDn,187
 237,Brooklyn,Cashmere,0,6J1CX2FjxU4nAkd14Pwd2B,162
@@ -245,12 +245,12 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 243,Brooklyn,Natalia Zukerman,0,2MxmdWt25jAtKFVPwxIM2R,198
 244,Brooklyn,Steely Dan,0,5w6AGoRTmtlLK89lhrupBR,259
 245,Brooklyn,They Might Be Giants,0,0E9L98lkItMbw3yrllecHM,62
-246,Brooklyn,We're About 9,0,7ovmjI9yz5YxB9NmmKvhXK,157
+246,Brooklyn,Were About 9,0,7ovmjI9yz5YxB9NmmKvhXK,157
 247,Brooklyn,Woodkid,0,6pJGFvFcsJPOg835pNYxyJ,210
 248,Brooklyn,Yasiin Bey,0,4TIaZQlv6wM07hTc3uHSVV,309
 249,Brooklyn,Youngblood Brass Band,0,7aNwURnV4t19bPQM4mvpLY,425
-250,Brooklyn's On Fire,Nicole Atkins,0,1kcCzN1P4lvEhh7m2qk45g,221
-251,Brooklyn's The Borough,Tony Touch,0,5snBqiAyrVoQUoT9aJ2U54,140
+250,Brooklyns On Fire,Nicole Atkins,0,1kcCzN1P4lvEhh7m2qk45g,221
+251,Brooklyns The Borough,Tony Touch,0,5snBqiAyrVoQUoT9aJ2U54,140
 252,Bucktown,Smif-N-Wessun,0,5fyRqeycMofUoGmDis5Gu6,237
 253,Bulletproof Weeks,Matt Nathanson,0,4ytcnBQOoAHtHiIQ4zXPWe,241
 254,Bulls In Brooklyn,The Academy Is...,0,10nNkqpddkR0VUvOLWGqAc,207
@@ -259,10 +259,10 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 257,C.R.E.A.M.,Wu-Tang Clan,0,119c93MHjrDLJTApCVGpvx,252
 258,Cab,Train,0,3tUKDoU4xjdZiXbiUiRnUw,143
 259,Cabbies on Crack,Ramones,0,4OX5sFiOrGz1kSgI0tl3sf,179
-260,Cafe Regio's,Isaac Hayes,0,38TjGLRAXPOcrQZzBATY6O,369
+260,Cafe Regios,Isaac Hayes,0,38TjGLRAXPOcrQZzBATY6O,369
 261,Cali to New York,The Black Eyed Peas,0,7zRjHhdMEVyEOgSUgptmsE,287
 262,Calling Out Names,Kurupt,0,4WvWg9Wzeknes6hSu0tGL1,236
-263,Can't Explain (42nd Street Happenstance),Jill Scott,0,4emn95gx9O3BIGelWdv5tC,279
+263,Cant Explain (42nd Street Happenstance),Jill Scott,0,4emn95gx9O3BIGelWdv5tC,279
 264,Canal Street,Love as Laughter,0,2xhBPV0k4IQHKNXvu7saUL,267
 265,Captain Jack,Billy Joel,0,3igkLltDaiFiMl83IdDBfm,437
 266,Carmine Vattelly (N.Y.N.Y.C.),Celibate Rifles,0,7BDf81UGP3SlP8ZZNM6ncD,106
@@ -270,7 +270,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 268,Carnival in Harlem,Tito Puente,0,2dz85Fy77y8HVtJPhAd5NV,205
 269,Carnival,Natalie Merchant,0,4QXhRjZacZ1gZUeL7Ukktw,361
 270,Cell Phones Ringing (In The Pockets Of The Dead),Willie Nile,0,4fRmA3rPDZEztsnf1750UR,314
-271,Central Park 'n' West,Ian Hunter,0,3rr0bA6c8XXWH2mj4JOqqa,240
+271,Central Park n West,Ian Hunter,0,3rr0bA6c8XXWH2mj4JOqqa,240
 272,Central Park Arrest,Thunderthighs,0,1MlotkKkgmpSihATp5nTgI,228
 273,Central Park Blues,Nina Simone,0,3sr2dMJ6PR4TTRb0NJcuhh,414
 274,Central Park New York,The Wiggles,0,5GceilYxhvHYHfanh6DNPO,90
@@ -307,9 +307,9 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 305,Christmas in New York,Lou Christie,0,6tWJVBu3r1FNDeoVaA6J7u,174
 306,Christmas in Washington Square,Wayne Newton,0,5OAEndW0iAOoS1atiPyoXd,181
 307,Christmas on Riverside Drive,Kid Creole,0,66bgh0gH06ITB5aFdM12WU,305
-308,City Lights,The Flamin' Groovies,0,6Wo7dscOR93BPWqZJT7puw,264
+308,City Lights,The Flamin Groovies,0,6Wo7dscOR93BPWqZJT7puw,264
 309,City Love,John Mayer,0,5O3fUsQQBFxW8SH1kHthDH,240
-310,I'm Real,James Brown,0,6DzXw0IEY1ErHfiVagW33j,334
+310,Im Real,James Brown,0,6DzXw0IEY1ErHfiVagW33j,334
 311,City of Blinding Lights,U2[1],0,6OSovJ8w191AEOZ5fCqL0o,365
 312,City of Immigrants,Steve Earle,0,5hjwQvz9UNxfeiEulAS6FW,258
 313,City of the Dead,The Clash,0,744eHv8kvVhIYc4le3NEvt,167
@@ -327,7 +327,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 325,Coney Island Baby,Tom Waits,0,6yO8MQCgYjdXoZLpoNgwos,242
 326,Coney Island Cyclone,Mercury Rev,0,2fYZT5fsni7SGsgG9bQJ74,154
 327,Coney Island Dreaming,Clint Mansell,0,0csfb2CwIirLvt3t9QEQ39,64
-328,Coney Island Girl,Fun Lovin' Criminals,0,25ASkS4Hx8RrtyqrDScez3,187
+328,Coney Island Girl,Fun Lovin Criminals,0,25ASkS4Hx8RrtyqrDScez3,187
 329,Coney Island Low,Clint Mansell,0,4opHKvbt5eB76fTzSjIRcl,133
 330,Coney Island Man,Swing Out Sister,0,1UKLVf5vV0GRFFpk7tVpr8,222
 331,Coney Island Of Your Mind,The Wisdom Of Harry,0,7ptM0vsP0Nu7Auu7pELgwY,273
@@ -352,7 +352,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 350,Cradle and All,Ani Difranco,0,5Y7dKrLuMZADSbq7BjhtwO,257
 351,Crime Saga,Shabazz the Disciple,0,4Bcrn7v4spruMaUpUxwfwB,268
 352,Cuckoo Cocoon,Genesis,0,7tN2IV0WjRFVgi9ybajwYQ,132
-353,Daddy Don't Live in that New York City No More,Steely Dan,0,37oRZIexeWiMQ9sMDvaA48,194
+353,Daddy Dont Live in that New York City No More,Steely Dan,0,37oRZIexeWiMQ9sMDvaA48,194
 354,"Damn, Sam (I Love a Woman That Rains)",Ryan Adams,0,07A4I35sBKxJ43iPZmWMqZ,128
 355,Dance Yourself Dizzy,Liquid Gold,0,1PuUboooNpZFmtsCJRF4sn,252
 356,Danger Zone,Big L,0,0kU9oWqYnPeqEca3x2auV9,216
@@ -380,8 +380,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 378,Dodgers Were In Brooklyn,The Great Divide,0,4CrSIoZ9BdTNJSDDabro6L,220
 379,Does This Bus Stop at 82nd Street?,Bruce Springsteen,0,5GttWUZxYgLsWNdCMfisR0,124
 380,Doin It,LL Cool J,0,4WMBl2wiGUSGa5C7tfQEAo,293
-381,Don't Be Upset,Jeffrey Lewis,0,7BbZyJg0HvWmIYDx8NLy1c,172
-382,Don't Leave Me (Ne Me Quitte Pas),Regina Spektor,0,7til9cDK5rExLomnvyUhS3,217
+381,Dont Be Upset,Jeffrey Lewis,0,7BbZyJg0HvWmIYDx8NLy1c,172
+382,Dont Leave Me (Ne Me Quitte Pas),Regina Spektor,0,7til9cDK5rExLomnvyUhS3,217
 383,Doo Doo Doo Doo Doo (Heartbreaker),The Rolling Stones,0,0f7VY69zhtS20Xm5PVYCm5,206
 384,Doo Wop In Harlem,Prefab Sprout,0,3w32xY0J1ES8QKT8ddfteM,223
 385,Down And Out In New York City,James Brown,0,0jOnm3CL79MflZQSZiimpg,283
@@ -399,7 +399,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 397,East 70th Street,Emil Viklický,0,0F7HsZe7f7m3YYWZXCIgK3,549
 398,East 9th Street,Andrew Hill,0,4TS1O6M5QIXj7XB5UxbJnp,704
 399,East Harlem,Beirut,0,4i6O75iAptEnENjKLOLZ9Y,238
-400,East MC's (Made In Brooklyn),Masta Killa!,0,209PI93oQgAp60E9DYbAnT,300
+400,East MCs (Made In Brooklyn),Masta Killa!,0,209PI93oQgAp60E9DYbAnT,300
 401,East River Blue,Spyro Gyra,0,0M7ZYwNY9X3T0zRDGZoEjr,374
 402,East River Drive,Grover Washington Jr,0,7AWqLC5PXdy59uP2KZxNim,284
 403,East River Drive,Stanley Clarke,0,4Ws4XYaAstAyjPi7SHt90u,467
@@ -437,8 +437,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 435,Empire State,Fleetwood Mac,0,1jYMhxQ2OY1HavN7n5AyIq,172
 436,Empty Garden (Hey Hey Johnny),Elton John,0,01PjrDX13iIjeHc5iJZmb3,308
 437,Englishman In New York,John Rocca,0,0Qx4g8qmNbUJzkMgssgO69,205
-438,Everybody's Shakin' Hands On Broadway,Luv',0,37DIRwAKo1xMN1Zwgt99x0,203
-439,Everyone's Coming To New York,John Carpenter & Alan Howarth,0,3MNosUYcgXzSYZXYUcQxfU,144
+438,Everybodys Shakin Hands On Broadway,Luv,0,37DIRwAKo1xMN1Zwgt99x0,203
+439,Everyones Coming To New York,John Carpenter & Alan Howarth,0,3MNosUYcgXzSYZXYUcQxfU,144
 440,Expression,Salt N Pepa,0,1lXs8UWoQr7wMjHdxQI2XA,236
 441,Eyes of a New York Woman,B. J. Thomas,0,3egChKZ4fIbZpiL98dx49h,183
 442,F Train,Babe the Blue Ox,0,5GYK99VDuId8MAREUDKfjd,146
@@ -473,7 +473,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 471,Fort Greene (S)Killz,Dana Dane,0,5HEvIAPn4yhmTK6It4N2dd,306
 472,"Four Superbowls, No Rings",Such Gold,0,1rpMVB3i2HBjgCi6rAWKJF,100
 473,Fourth Street Rag,David Chesky,0,167AG6vPx8eOlKSDujNpsO,146
-474,Freedom '91,New Model Army,0,7qqklpYaz1AI04lpiaN312,222
+474,Freedom 91,New Model Army,0,7qqklpYaz1AI04lpiaN312,222
 475,Freezing in New York,Mighty Sparrow,0,0GwGUNKzcx1vVqANE6OQrG,186
 476,From Cotton to Satin (From Birmingham to Manhattan),Johnny Paycheck,0,6G6VnlLl9GsVEbTO091zTa,187
 477,From New York to LA,Patsy Gallant,0,1hV8qrJMyGJ5tJubYCNG6c,291
@@ -481,7 +481,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 479,Fuck New York,Slapshot,0,4neFWvChTBTF5MEPMk88Pn,200
 480,Fuel,Ani DiFranco,0,2kEsa3JlXjwmx9kC0X0jH0,240
 481,Fuk New York,Blatz,0,3E6l4kK6r8bDwmly3vGZWd,112
-482,Funkin' for Jamaica (N.Y.),Tom Browne,0,7o76PBf6KmvWPo2sJtdSYt,278
+482,Funkin for Jamaica (N.Y.),Tom Browne,0,7o76PBf6KmvWPo2sJtdSYt,278
 483,Gates of the West,The Clash,0,3I3XzNNcTqVRlx1HbleK3w,205
 484,Genius Rap,Dr. Jeckyll & Mr. Hyde,0,71V59P1ap285AB9TNJdmbH,280
 485,George Murphy,Tom Lehrer,0,7rgVqFvpb7njqF3ocTcMRP,128
@@ -499,8 +499,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 497,Go Brooklyn,Stetsasonic,0,215p6eT6cVv9tKyuRrb2K1,234
 498,Go Harlem,Chick Webb and his Orchestra,0,2mxhVBPYtywA2mBKKibqk5,139
 499,God of 42nd Street,Saigon Kick,0,7rEVlTebCVVEzCYUyzgDtl,239
-500,Goin' to New York,James Blood Ulmer,0,6LXMswiTa3mWoyi2b5tvST,238
-501,Goin' to New York,Jimmy Reed,0,29JlWX0DMSRaBlqiimmhxo,137
+500,Goin to New York,James Blood Ulmer,0,6LXMswiTa3mWoyi2b5tvST,238
+501,Goin to New York,Jimmy Reed,0,29JlWX0DMSRaBlqiimmhxo,137
 502,Going Back to Brooklyn,MC Lars,0,0bZOR8zanKi4Yr29xDjzJP,144
 503,Going to Queens,The Mountain Goats,0,4OVkSsivFm0X9Wh8y3hZLJ,146
 504,Gone Country,Alan Jackson,0,1A0I5aiVZRwecRlbQcweBh,259
@@ -535,7 +535,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 533,Harlem After Midnight,Mills Blue Rhythm Band,0,1UPYCopFrufCg9eN9ZyL9m,198
 534,Harlem Air Shaft,Duke Ellington,0,2IkNLH9HAclNapw4R9B4CV,243
 535,Harlem Bass,Tony Barthele,0,0WOJJIRSrhuCS1gyVTt9ra,121
-536,Harlem Blues,Nat 'King' Cole,0,6IOisx5B67jHbXwucaNz08,111
+536,Harlem Blues,Nat King Cole,0,6IOisx5B67jHbXwucaNz08,111
 537,Harlem Blues,Teena Marie,0,34C92oyWy0RDgNtx0qjsTF,317
 538,Harlem Bound,Gibson Brothers,0,58JlkIm0JYY3SZqcw2CDjX,272
 539,Harlem Bound,Memphis Slim,0,5xAK93jPF0GmgR0DkplKIR,161
@@ -593,16 +593,16 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 591,Hello Darling,Tippa Irie,0,32nvcsI9BlyzXuEcmW7L07,336
 592,Hello New York,Adrian Gurvitz,0,2c7mGAdWnyc6lQG9Nee39P,290
 593,Hello New York,Silverhead,0,3h0R0BhZoUZTyZUMQC5uGw,204
-594,Henry Street,(from the musical 'Funny Girl'),0,5gbVPOqgeTBm69JgJIOgmU,116
+594,Henry Street,(from the musical Funny Girl),0,5gbVPOqgeTBm69JgJIOgmU,116
 595,Here I Come,Barrington Levy,0,4abVwdCy5QUcyI3KS2lMJK,217
 596,Here to New York,Ruth,0,6N0YbZGY3nqCudPNYGM1pf,208
-597,"Here's Looking At You, Kid",The Gaslight Anthem,0,0rV6GENOCq3FeUogvk9F3G,221
+597,"Heres Looking At You, Kid",The Gaslight Anthem,0,0rV6GENOCq3FeUogvk9F3G,221
 598,Hey Brooklyn,Mancie,0,4tCr2fqzIazMxKdTEf3Lm1,186
 599,Hey Eugene!,Pink Martini,0,6Mzca5ZxLQmzs2XQOGOHob,190
-600,Hey There Delilah,Plain White T's,0,4RCWB3V8V0dignt99LZ8vH,232
+600,Hey There Delilah,Plain White Ts,0,4RCWB3V8V0dignt99LZ8vH,232
 601,"Hey, Manhattan",Prefab Sprout,0,2i0PHCuiBFT4RaxUqtywdv,285
 602,High And Dry,Space Cadette,0,52xjoNeEYTDD96FYphCphW,202
-603,High Bridge House,N.Y. House'n Authority,0,67JRpypFRP1I2Y4V5Mz0hL,169
+603,High Bridge House,N.Y. Housen Authority,0,67JRpypFRP1I2Y4V5Mz0hL,169
 604,Hillbilly From Tenth Avenue,Artie Shaw,0,03q2TuiKnZAghuzNzDyzmU,171
 605,Hitch Hiking Down Broadway,The Escorts,0,7LD3KwWDw8IisU220Tby70,165
 606,Ho Hey,The Lumineers,0,0W4Kpfp1w2xkY3PrV714B7,163
@@ -632,8 +632,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 630,I Am the Way (New York Town),Loudon Wainwright III,0,1wMyLPQWapsfYX8MLEQckn,190
 631,"I Am, I Said",Neil Diamond,0,4wOKTOwGVrie2GIbCMEe7U,213
 632,I And Love and You,The Avett Brothers,0,7CEV9VwA8XO9wwxTXgYKvY,300
-633,I Can't Live Without My Radio,LL Cool J,0,2qfTGzETefwtBWKDThZjnU,327
-634,I Can't See New York,Tori Amos,0,0AByf8LXqfnKa1UW7kbxsr,434
+633,I Cant Live Without My Radio,LL Cool J,0,2qfTGzETefwtBWKDThZjnU,327
+634,I Cant See New York,Tori Amos,0,0AByf8LXqfnKa1UW7kbxsr,434
 635,I Do the Rock,Tim Curry,0,1pH0ZuY6owJ8sao2eZsx7g,281
 636,I Dreamt I Dwelt in Harlem,Glenn Miller & his Orchestra,0,1d0XxgsAxk9EId2jbWj3zl,217
 637,I Got An Uncle In Harlem,Sweet Substitute,0,0Iwsxa5hzVT6M09cfwdOCA,166
@@ -642,7 +642,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 640,I Hate New York,Blue Mercedes,0,7awqfG0MeBP3Ng9jZAxL42,204
 641,I Just Wanna Have Something to Do,Ramones,0,4EsxCMnKlvJ0D1wnRgATJz,243
 642,I Know You Got Soul,Eric B & Rakim,0,5D2lp16FQ0VIfLGRDn5jcG,284
-643,I Love Livin' in the City,Fun Lovin' Criminals,0,1Zs4PM67vQsIuluFSXPbAF,225
+643,I Love Livin in the City,Fun Lovin Criminals,0,1Zs4PM67vQsIuluFSXPbAF,225
 644,I Love New York,Casiopea,0,6g7I0dWEzWHfOVuyZhVEti,248
 645,I Love New York,Madonna,0,44WTY1d9M86PEAgPZNeHHe,275
 646,I Love New York/New York New York,Glee,0,4OdlzQY1elrRbmXexXTvAp,164
@@ -653,20 +653,20 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 651,I Used to Be a Brooklyn Dodger,Dion,0,30DNBQChtgiadnvNDLEnSF,240
 652,I Went Walking,Rank And File,0,3aziMuO7bspreRSUoP3xcJ,177
 653,I Woke Up in a Car,Something Corporate,0,3kaK1EohdhDXT5ICBMRGkz,252
-654,I'll Sink Manhattan,They Might Be Giants,0,5W9C47JBGnTWUIXotDeTYo,156
-655,I'll Take New York,Tom Waits,0,4EeRzn7N8zEYugDkBwNHOc,237
-656,I'll Take Us Home,Matt and Kim,0,6C7RaIgUcB19Myk2za2LV7,206
-657,I'm Gonna Be a Country Girl Again,Buffy Sainte-Marie,0,7LgI89WNfXW2OeTBy2MGYo,179
-658,I'm Never Gonna Leave You (New York),Gotham Flasher,0,0m4IBhQKvRwn31MLoE2Qlb,551
-659,I'm Singing Broadway,Bette Midler,0,2P37kYEAMHZesVfFgkBxSa,282
-660,I'm Stone In Love With You,The Stylistics,0,7vrALUTv5NVHt8cf0jhei6,199
-661,I'm Waiting for the Man,The Velvet Underground,0,3fElupNRLRJ0tbUDahPrAb,279
-662,I've Been Watching The New York Dolls,The Destructors,0,1kYjBTzii13rTj3ipnW8St,202
-663,I've Got New York,The 6ths,0,7GOfzokBzJBGaKvZi1UmG7,132
+654,Ill Sink Manhattan,They Might Be Giants,0,5W9C47JBGnTWUIXotDeTYo,156
+655,Ill Take New York,Tom Waits,0,4EeRzn7N8zEYugDkBwNHOc,237
+656,Ill Take Us Home,Matt and Kim,0,6C7RaIgUcB19Myk2za2LV7,206
+657,Im Gonna Be a Country Girl Again,Buffy Sainte-Marie,0,7LgI89WNfXW2OeTBy2MGYo,179
+658,Im Never Gonna Leave You (New York),Gotham Flasher,0,0m4IBhQKvRwn31MLoE2Qlb,551
+659,Im Singing Broadway,Bette Midler,0,2P37kYEAMHZesVfFgkBxSa,282
+660,Im Stone In Love With You,The Stylistics,0,7vrALUTv5NVHt8cf0jhei6,199
+661,Im Waiting for the Man,The Velvet Underground,0,3fElupNRLRJ0tbUDahPrAb,279
+662,Ive Been Watching The New York Dolls,The Destructors,0,1kYjBTzii13rTj3ipnW8St,202
+663,Ive Got New York,The 6ths,0,7GOfzokBzJBGaKvZi1UmG7,132
 664,I-95,John Waite,0,7pK5a6cXcrtpt7oDQYpSGX,213
 665,Ich war noch niemals in New York,Udo Jürgens,0,3IchfVcS6QwpKLFuRE1Qyd,284
 666,Idiot Kings,Soul Coughing,0,6XJMqhK9979ZDIHKvF9UVu,237
-667,If I Can't,50 Cent,0,7JeKXMQKm6GoLGTkNy2jZ0,196
+667,If I Cant,50 Cent,0,7JeKXMQKm6GoLGTkNy2jZ0,196
 668,If You Were Here,Unlovables,0,2zdwzSPWKnoKCajDhujHyJ,160
 669,Illume,Fleetwood Mac,0,3BoH0VPwnxdnCfoMJxLJud,290
 670,In a New York Minute,Ronnie McDowell,0,49MTbqdjWsdtgdGQldmdgt,169
@@ -690,15 +690,15 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 688,Is It Raining in New York City?,Cashman & West,0,4c3yigzb2ckQ3xzAntqhQ8,229
 689,Island Girl,Elton John,0,2u3UJ9KyduTnbi9yUVGYfW,222
 690,Santa Fe,Beirut,406,2bxQP85JNU11CQV4KXCnau,254
-691,It Ain't All Hugs and Handshakes,Crime in Stereo,0,0OrqTrChg2t6MRvckdljKs,149
+691,It Aint All Hugs and Handshakes,Crime in Stereo,0,0OrqTrChg2t6MRvckdljKs,149
 692,It Rains in New York Too,Pete Miser,0,1m1E38mK8kN9vJmg68Qeyy,268
-693,It's Tricky,Run DMC,0,6jBCehpNMkwFVF3dz4nLIW,183
+693,Its Tricky,Run DMC,0,6jBCehpNMkwFVF3dz4nLIW,183
 694,Italian from New York,Chicago,0,7ChQYMe8sVngP0Ihu6C3FR,254
-695,J'ai rêvé New York,Yves Simon,0,7lQKua2bx1v9ZQOwrquka4,279
+695,Jai rêvé New York,Yves Simon,0,7lQKua2bx1v9ZQOwrquka4,279
 696,Jamaica Avenue,Chris Gantry,0,512f1DUZGhPS9VPXyK9GIt,181
 697,Jamaica Bay,Dumpty Cooper Group,0,5sEADdL4zsUiyqK4CxUPQY,223
 698,Jamaican in New York,Shinehead,0,2CL1Q0rQcbKavqqzu3zjQ2,268
-699,Jammin',Bob Marley & MC Lyte,0,38oIp9y5zW2ylFE3y7MKaP,248
+699,Jammin,Bob Marley & MC Lyte,0,38oIp9y5zW2ylFE3y7MKaP,248
 700,Janine,Soul Coughing,0,4ieGRacGU9nN1CHLhqcky7,298
 701,Jazzy Sensation,Afrika Bambaataa,0,0mjhfkFmpUkknmrl40zFFx,583
 702,Je voudrais voir New York,Daniel Lavoie,0,1hJnYsaACYwOHjc4LWOSG2,221
@@ -707,21 +707,21 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 705,Joey,Bob Dylan,0,3sXLemtrtO6ygZF0G4OIwI,665
 706,Jonathan,Fiona Apple,0,1xq9GyfTbElPmxFMcKHNiI,303
 707,Joyce From The Bronx,David Matthews,0,0egAsBMTIWvXHWsS1CdfJO,423
-708,Jumpin' at the Woodside,Count Basie,0,5bjDadKhSzdKK8sy5FGgAI,188
+708,Jumpin at the Woodside,Count Basie,0,5bjDadKhSzdKK8sy5FGgAI,188
 709,Jungle Harlem,Mel Turner,0,7dX7zVuoTmrW05uOQDDizq,138
 710,Jungleland,Bruce Springsteen,0,3R2q3FCnNIw2XhuEbYtYk6,575
-711,Just Like Tom Thumb's Blues,Bob Dylan,0,0V1771LhL3tG36pb55EZAH,327
+711,Just Like Tom Thumbs Blues,Bob Dylan,0,0V1771LhL3tG36pb55EZAH,327
 712,Just Over the Brooklyn Bridge,Art Garfunkel,0,4ovdVqCbrTdBZRKEULYzAj,66
 713,Keyornew,Mathieu Boogaerts,0,2AMkn2iGVpvm5ViZIQ6W8O,224
-714,Kickin' 4 Brooklyn,MC Lyte,0,1bzGzVJkRmhKdxQt1g9u5n,142
+714,Kickin 4 Brooklyn,MC Lyte,0,1bzGzVJkRmhKdxQt1g9u5n,142
 715,Kids in America,Kim Wilde,0,1YGZyfvdgZxzipWoWYVKxi,205
 716,King of N.Y.,Fat Joe,0,7q1OTJxBz0heO98QRefw0s,247
 717,King of New York,Fun Lovin Criminals,0,15X00ewGvzud1B5KGoq3qM,226
 718,King of New York,Schoolly D,0,04AjYdT99bSRinN6GXYsnf,275
 719,King of New York,The Quireboys,0,1MCmScPGX3XgIk9q7Y20NP,339
 720,King of the New York Streets,Dion,0,1zrpMiEqs4qnVZpM8qQQTf,292
-721,King's Road,Tom Petty,0,0nYcdrqObqVmwBOgn1zgOf,203
-722,Kitty's Back,Bruce Springsteen,0,5AToGW7gh0xgNyrDVd3qus,424
+721,Kings Road,Tom Petty,0,0nYcdrqObqVmwBOgn1zgOf,203
+722,Kittys Back,Bruce Springsteen,0,5AToGW7gh0xgNyrDVd3qus,424
 723,Knew Your City,Hee Young,0,6NhTl6hZ3Th4fmSHfBf2o0,141
 724,Koka Kola,The Clash,0,1YvbtzUkXtgotCTo6QeqkW,107
 725,L.E.S. Artistes,Santigold,0,4dmCLAZbWYT0qtcG7GVMdb,204
@@ -739,21 +739,21 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 737,Last Exit to Brooklyn,Mark Knopfler,0,7pWf7SRmwF90mSrweFukEr,384
 738,Last Exit to Brooklyn,Modern Talking,0,1ObOEFQ8u9SXJofR1fN0HB,196
 739,Last Summer in New York,The Saw Doctors,0,7cyDm6mD0fTquhOr6CXcYO,161
-740,Later At Minton's,Stanley Turrentine,0,4avLskN3Upm7AxNuMTkAin,827
+740,Later At Mintons,Stanley Turrentine,0,4avLskN3Upm7AxNuMTkAin,827
 741,Latin From Manhattan,Al Jolson,0,6aPAFb5PvdySOJUkrUcZgl,121
 742,Lazy Little Girl From New York,Red Baron,0,0V8L0dhpg6er2IbgkpXjp4,313
 743,Le Cireur De Souliers De Broadway,Yves Montand,0,1NNMvB8p9VTRPoUB7BNTZW,220
 744,Le Funambule,Gerard Lenorman,0,50UCbMZKRr7DUY96yn0WHC,178
 745,Le Vieux Broadway,Mort Shuman,0,2drqFejwLI89xwR0tEM6BX,299
-746,Leapin' on Lenox,"Eddie `Lockjaw, Davis",0,6R7lMV72OIGsOkxVrLJDQ9,306
+746,Leapin on Lenox,"Eddie `Lockjaw, Davis",0,6R7lMV72OIGsOkxVrLJDQ9,306
 747,Leaving New York,R.E.M.,0,4lgVbDYZR1VV4gEkIueSiw,289
 748,Leaving New York,Ross Crean,0,7csJ5DIOWsA8uVRzM7NnHa,356
 749,Lee Highway Blues,(blues standard),0,2piMU0HSPLqMMguzTIlpkr,157
 750,Lenox Avenue Breakdown,Arthur Blythe Trio,0,19saLPjjPlDRM8XrWTXwY5,397
-751,Let's Get Rid Of New York,The Randoms,0,7CXwRaJiIqsvUjWsBR4RSG,162
-752,Let's Go All the Way,Sly Fox,0,6eLDMmVI7HF7W56cOrJj00,239
-753,Let's Go Mets,the New York Mets,0,0Iq7Wn9sN1e6lgLpwta7A5,91
-754,Let's Keep the Dodgers in Brooklyn,Phil Foster,0,5vRHU4QnfnySs6IvysRBxe,179
+751,Lets Get Rid Of New York,The Randoms,0,7CXwRaJiIqsvUjWsBR4RSG,162
+752,Lets Go All the Way,Sly Fox,0,6eLDMmVI7HF7W56cOrJj00,239
+753,Lets Go Mets,the New York Mets,0,0Iq7Wn9sN1e6lgLpwta7A5,91
+754,Lets Keep the Dodgers in Brooklyn,Phil Foster,0,5vRHU4QnfnySs6IvysRBxe,179
 755,Levon,Elton John,0,0aJfFLl0grcQS7euiIp0ni,322
 756,Life During Wartime,Talking Heads,0,7CqleiaEqHVazV19P532X9,221
 757,Life in New York,Monty Kelly & His Orchestra,0,4yViWwsx1dNSOnEb0W2397,171
@@ -765,14 +765,14 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 763,Little Old New York,Victor Herbert,0,5lP1mbGjxpb02jrqjP6gTo,133
 764,Little Spain,Clifford Jordan,0,6I09QhLmwMHHN1mm6JmVQe,470
 765,Live from New York,Raekwon,0,0Ss2246fpQN1edfgwFSnAf,205
-766,Livin' In New York,Kaz Lux Band,0,1TT8yoJnzEnGnxNROTj4WA,197
+766,Livin In New York,Kaz Lux Band,0,1TT8yoJnzEnGnxNROTj4WA,197
 767,Living for the City,Stevie Wonder,0,1O1mCVN5hue4lOOqd5EysZ,219
 768,Allentown Jail,Kingston Trio,66,1LIQZwJmz3ByvUYd5RkQhE,149
 769,Allentown,Billy Joel,66,59xhCcRskqyMtKzdvLZDfV,230
 770,Alone in Vegas,Pusha T,22,2IDBEnkg139IIjmhSICmGQ,271
 771,Amarillo by Morning,George Strait,218,4TnUKixNWMfajncgdSwFoi,173
 772,Amarillo Sky,Jason Aldean,218,0axUHkhMMY0YSC1jFBVWqv,202
-773,Amy's Back In Austin,Little Texas,31,03F9hwZMmzYxUyOSqwC2Bk,276
+773,Amys Back In Austin,Little Texas,31,03F9hwZMmzYxUyOSqwC2Bk,276
 774,Anybody Going To San Antone,Charley Pride,10,2qQ0m2ImNPFI97tL5rbVVG,138
 775,Anybody Going To San Antone,Charlie Pride,24,2qQ0m2ImNPFI97tL5rbVVG,138
 776,Aurora,Foo Fighters,11,7dIh8FF0EzYKS8STv3v4F4,349
@@ -809,11 +809,11 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 807,Dixie On My Mind,Hank Williams Jr.,6,7HdSVjZimbY8w0DX8aHLMv,156
 808,Do You Know The Way To San Jose?,Burt Bacharach and Hal David,28,6rO3qRXUnbxwDomrIGiGgY,188
 809,Does Fort Worth Ever Cross Your Mind,George Strait,53,2zPIhmitmDGUjW1JQQ1PeG,185
-810,Don't Make Me Come to Tulsa,Wade Hayes,67,60tcahoglu9NKNoYpO6292,212
+810,Dont Make Me Come to Tulsa,Wade Hayes,67,60tcahoglu9NKNoYpO6292,212
 811,Dracula From Houston,Butthole Surfers,6,4KJKj7GZLzxq1bXRu0XP6l,222
 812,Easton and Main,the Turnpike Troubadours,67,2KYQ3NrpKTATXq0v1XtHoP,237
 813,El Paso,Marty Robbins,57,4f8hBeMXMvssn6HtFAtblo,259
-814,El Paso,Old 97's,57,1ibplmpfwz0z0YGXteyPhK,298
+814,El Paso,Old 97s,57,1ibplmpfwz0z0YGXteyPhK,298
 815,El Paso,Taking Back Sunday,57,0uUCGxUnbgiYDc9mnj9nZh,196
 816,Folsom Prison Blues,Johnny Cash,97,2fDHuS1PTkHBbCWWZF1ph9,162
 817,For Baltimore,All Time Low,21,6kYGBXtrbXtl1vcbmD1bWG,188
@@ -830,12 +830,12 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 828,Home Again Garden Grove,The Mountain Goats,262,1KOe5eyJfDHTad719bEr9l,195
 829,Home Sweet Oklahoma,Leon Russell,67,27ftja8mfOMK9rWCwqj7Qr,207
 830,Honolulu City Lights,Keola Beamer and Kapono Beamer,58,7p7wUyiSlKhbBj6a4W5JQJ,203
-831,Houston (Means I'm One Day Closer to You),Larry Gatlin & The Gatlin Brothers,6,5rTzROLwNJMABN7pp6YMQq,188
+831,Houston (Means Im One Day Closer to You),Larry Gatlin & The Gatlin Brothers,6,5rTzROLwNJMABN7pp6YMQq,188
 832,Houston,R.E.M.,6,5L1BH2YPxvDY2zDHjY5bJ9,125
 833,Houston,Soul Coughing,6,4mBOvyGHkpb8ss1TMIN6IK,243
 834,Hungry Heart,Bruce Springsteen,21,1KsI8NEeAna8ZIdojI3FiT,199
 835,I Drove Her To Dallas,Ty England,4,7kbEbWHFLevRponZaXN4B1,213
-836,If Hollywood Don't Need You (Honey I Still Do),Don Williams,218,7Mbo3YZGE1AKTRMp1uUXJo,190
+836,If Hollywood Dont Need You (Honey I Still Do),Don Williams,218,7Mbo3YZGE1AKTRMp1uUXJo,190
 837,In the Heartland,the Michael Stanley Band,29,5v1uTDwk4E70I4NBB6ARk4,212
 838,Indianapolis,Menudo,35,4pRlsUjy1UnGl0ggBb87jq,213
 839,It Came from San Antonio,Bruce Robison,24,2P0yzluQP2SLYa0fXcCEh3,209
@@ -851,14 +851,14 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 849,Las Vegas Nights,Verona Grove,22,79xQjdC6Tsmsjlfc41AIuR,239
 850,Tampa to Tulsa,The Jayhawks,67,13oA6zf1ulzKDBpf1NFAWY,241
 851,Last Trip to Tulsa,Neil Young,67,5DuqkaZP6rr7R9WeKxYAnM,566
-852,Let's Go To Vegas,Faith Hill,22,39HccIrICWp9EBD8MunAUW,191
-853,Let's Move to Cleveland,Frank Zappa,29,2rJbB8GqSGIsuYPJZcHbFN,351
+852,Lets Go To Vegas,Faith Hill,22,39HccIrICWp9EBD8MunAUW,191
+853,Lets Move to Cleveland,Frank Zappa,29,2rJbB8GqSGIsuYPJZcHbFN,351
 854,Liberty Street,The New Basement Tapes,33,6Ks0I9aDwiXmhCN1uK6Bfr,164
 855,Little Rock,Free Micah,99,3Icjtronjec3AN2NSqwVW2,220
 856,Little Rock,Reba McEntyre,99,48uxF2VWwb2RClsI7okkWU,218
 857,"Look Out, Cleveland",The Band,29,6n68qcS9FwZqFgaW62qmbb,187
 858,Marina del Rey,George Strait,999,7MvQkU9ycC0KoibUzGuzlf,183
-859,Mary Jane's Last Dance,Tom Petty,35,3dmqIB2Qxe2XZobw9gXxJ6,273
+859,Mary Janes Last Dance,Tom Petty,35,3dmqIB2Qxe2XZobw9gXxJ6,273
 860,Maybe It Was Memphis,Pam Tillis,46,3wjD3Ufjll7UKrEDPdGuX3,239
 861,Leaving Las Vegas,Sheryl Crow 1994,22,0Zs7d8PvLFjWrMv5zXAZRV,329
 862,Me & Paul,Willie Nelson,170,4vcDnnuHUmombz20IRkzRO,228
@@ -872,8 +872,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 870,Midnight in Montgomery,Alan Jackson,181,3TkENcA7TF7QysCvt0oQ5e,225
 871,Montgomery in the Rain,Hank Williams Jr.,181,3O9povXoVWnTD8JJJXoYzv,235
 872,New San Antonio Rose,Bob Wills,24,0ENjQO4pgtxXRFEPS3GXUv,156
-873,New Year's Day,Charlie Robison,170,7DXNTiUCWJvomSGEGMr3H8,234
-874,O.D.'d in Denver,Hank Williams Jr.,17,7MJe06aTq57id8qtb1s2du,160
+873,New Years Day,Charlie Robison,170,7DXNTiUCWJvomSGEGMr3H8,234
+874,O.D.d in Denver,Hank Williams Jr.,17,7MJe06aTq57id8qtb1s2du,160
 875,Ohio (Come Back to Texas),Bowling for Soup,29,4COleG16xBCkpofKHsJU2p,230
 876,Omaha,Counting Crows,56,2Uwjr7EnHRXMgmL9SmX1Gj,219
 877,Pecos Promenade,Tanya Tucker,4,3HpYLawc8BRy6WYttM8c6Q,149
@@ -919,14 +919,14 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 917,Tell Me Something Bad About Tulsa,Merle Haggard,67,4RzmLd77OM3nIksqC767qD,195
 918,Tenth Street,[Valencia],5,5FOJpkkbJuWvCBtwxsjfUf,234
 919,Texas Women,Hank Williams Jr.,57,2UZbHeebSCEJjjzfnDQ1Zt,149
-920,That's How I Got to Memphis,Bobby Bare,46,31c37xfmgHkAAqiDzNTln8,151
+920,Thats How I Got to Memphis,Bobby Bare,46,31c37xfmgHkAAqiDzNTln8,151
 921,The Day That She Left Tulsa,Wade Hayes,67,0QMmEcLfSWcfkuy5SS0IIj,213
 922,The Heart of Rock & Roll,Huey Lewis and the News,29,4T3Vl4y9ggN9dPbYfKyYqh,252
 923,The Kansas City Song,Buck Owens,33,2LZhCiS3zDhI1q3ilcSNkM,141
 924,The Ride,David Allan Coe,181,4wt2PBgqXZbvRiWSHDc4O4,190
 925,Tokyo Storm Warning,Elvis Costello,181,0pLfv0qTmH5AG2aUQQdkBt,384
 926,Train from Kansas City,Neko Case,33,3ICHseyibemieGb9NxUVOZ,205
-927,Truck Drivin' Man,Lynyrd Skynyrd,46,7lHEUnQSXkqGMijPvC5qQh,316
+927,Truck Drivin Man,Lynyrd Skynyrd,46,7lHEUnQSXkqGMijPvC5qQh,316
 928,Trudy,the Charlie Daniels Band,4,17sf02DzW9rvp2C6pgZk7n,288
 929,True Dreams of Wichita,Soul Coughing,89,0XxkoXS5CSHzKFeS6N8sga,300
 930,"Tucson, Arizona (Gazette)",Dan Folgelberg,55,0qsWQvw0JWeUNMill7CrlO,513
@@ -940,21 +940,21 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 938,Tulsa,Rufus Wainwright,67,0LZWVdDqeH2nM9HtFXwk1d,138
 939,Tulsa,Waylon Jennings,67,29XDDOcKtVf91fP2zypqMj,185
 940,Turn the Page,Bob Seger,56,6rjMQscV8vUrjKXAsU9hNi,301
-941,Uneasy Rider '88,the Charlie Daniels Band,6,59yEymxln8Hyuz8XNkUTIX,264
+941,Uneasy Rider 88,the Charlie Daniels Band,6,59yEymxln8Hyuz8XNkUTIX,264
 942,Uneasy Rider,the Charlie Daniels Band,56,59yEymxln8Hyuz8XNkUTIX,264
 943,Vegas,Sara Bareilles,22,1NcGrbn2dbx6VQOPQeKhjl,247
 944,Viva Las Vegas,Elvis Presley 1964,22,7aslRU8JraJshF8cOrSOb3,135
 945,Walking in Memphis,Marc Cohn,46,5fgkjhICZnqFctrV0AyuQD,252
 946,Wanted Man Johnny Cash,Bob Dylan,60,3w5ecYEMUouguLjRh7CvsB,191
 947,Welcome to Fabulous Las Vegas,Brandon Flowers,22,35uvFjZWknhCYKkL9DbUFO,287
-948,What am I Doing Hangin' 'Round?,The Monkees,24,4mY0WNmDYbizKtfySyQZko,185
-949,What's Your Mama's Name,Tanya Tucker,46,0J6dezPhTa0ePaN87kphCs,182
+948,What am I Doing Hangin Round?,The Monkees,24,4mY0WNmDYbizKtfySyQZko,185
+949,Whats Your Mamas Name,Tanya Tucker,46,0J6dezPhTa0ePaN87kphCs,182
 950,Wichita Lineman,Glen Campbell,89,6V9VCm1zOY2lGR80RehJ9i,186
 951,Wichita Skyline,Shawn Colvin,89,4mtRuEDlwvtnsge8Owi22c,218
-952,Won't Let You Down Texas,Chamillionaire,6,3Yd8ejd801K1suN0jT8DO1,1080
+952,Wont Let You Down Texas,Chamillionaire,6,3Yd8ejd801K1suN0jT8DO1,1080
 953,Wrong Side of Memphis,Trisha Yearwood,46,3YgGtQfSy4Lrz3uFW0mL5n,167
 954,Yo Home to Bel-Air,DJ Jazzy Jeff & The Fresh Prince,5,0XsMR5jdR5nCXfJrB3Wfk9,321
-955,You're the Reason God Made Oklahoma,David Frizzell & Shelly West,67,6h2uiSGYI1oLzYg0MvBs6v,204
+955,Youre the Reason God Made Oklahoma,David Frizzell & Shelly West,67,6h2uiSGYI1oLzYg0MvBs6v,204
 956,My City Was Gone,The Pretenders,80,3CTxcImER2VN4xGVF4mJCV,325
 957,Living In Brooklyn,Product Of Da Neighbourhood,0,0z4ykE3ehogu5MPjx2iOrm,585
 958,Lola From The Copa,MC Lyte,0,2YgcWQzHcbGrBAdurqSIjx,185
@@ -990,7 +990,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 988,M79,Vampire Weekend,0,3PYTEgSf4opLzuUiPecUqS,255
 989,MacDougal Blues,Kevn Kinney,0,4IqQIdEMRcNVkLDMItydpl,234
 990,Machine Gun Funk,Notorious B.I.G.,0,2bXI4Rbw1D7aVeHWLjn1Lb,255
-991,Macy's Day Parade,Green Day,0,3zca0nsKOLnN28ftZEXAQn,213
+991,Macys Day Parade,Green Day,0,3zca0nsKOLnN28ftZEXAQn,213
 992,Madison Avenue Man,Greg Kihn Band,0,5Y2EmzDS2udQV79yuwXYw5,287
 993,Madison Avenue,Gil Scott-Heron,0,3CNjzfkOrbdXPbTUKVNFJ4,289
 994,Madison Avenue,Kid Creole & The Coconuts,0,4vXVb3tmJGKIDpes7NMCrY,190
@@ -1015,7 +1015,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1013,Manhattan Mambo,Ted Heath and his Music,0,28ufkr9kIHPtlV2if32R0O,238
 1014,Manhattan Melody,Herb Alpert,0,5vxadVMLRKUaLplSdMo0jr,344
 1015,Manhattan Moods,McCoy Tyner,0,3fovhcOOaptGBN1jAtVpwm,360
-1016,Manhattan Morning (Christmas '72),Flash,0,68Hbg1Y9GsbtM8x6ee8Ep7,385
+1016,Manhattan Morning (Christmas 72),Flash,0,68Hbg1Y9GsbtM8x6ee8Ep7,385
 1017,Manhattan Nights,Jeff Tyzik,0,2Y9Q6Sh3kchzShJH8L7hfM,285
 1018,Manhattan Reflections,Ahmad Jamal,0,0hGxuIzvufsCS6GJfFhIge,379
 1019,Manhattan Rock,Elliott Murphy,0,6OPE0sMDtsIObd7Cnt7v3B,241
@@ -1033,7 +1033,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1031,Manhattan,Cat Power,0,5T4Bf4aKOR4ewZBPJCYGVB,316
 1032,Manhattan,Cinerama,0,1khiYHkPcHhAQd4tR55BYm,283
 1033,Manhattan,Dumpty Cooper Group,0,0UnoFqDTW37RbjfTVRmcJE,203
-1034,Manhattan,G'race,0,7Ea9rTssvqTx45WX9mlctO,177
+1034,Manhattan,Grace,0,7Ea9rTssvqTx45WX9mlctO,177
 1035,Manhattan,Jan & Dean,0,1HxDkkelCXeYTeU4Q4D4Ex,142
 1036,Manhattan,Kings of Leon,0,2d5vz9uU5Jan1rX8mkxw2w,204
 1037,Manhattan,Laidback,0,08GAvH3h9qEi7zRsGwJP4h,111
@@ -1048,7 +1048,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1046,Manhattan:Rico,George Russell,0,4V3VT8AgyIzXJFTIOmKlBw,612
 1047,Marching Bands of Manhattan,Death Cab For Cutie,0,7xBWYN1Dzciatr34K6sfDh,252
 1048,Marry the Night,Lady Gaga,0,1k18nxjYj8R5iz82Ap7GEY,264
-1049,Max's Kansas City,Wayne County,0,5cUvm4K2933YSIM9e1dwbV,233
+1049,Maxs Kansas City,Wayne County,0,5cUvm4K2933YSIM9e1dwbV,233
 1050,Me and Julio Down by the Schoolyard,Paul Simon,0,6vxHp3CDNo0afgKGp2yi1E,164
 1051,Meet U In Brooklyn,Fabrice Lig,0,2upfHvPHTwdzoufVItswwj,468
 1052,Meet You in Manhattan,Michael Sicoly,0,0Q31zxwsL69WGgaWrOSmtt,205
@@ -1097,7 +1097,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1095,My Life,Slaughterhouse,0,5j21tjqJmMO5Jlu1uKZysY,261
 1096,My My Metrocard,Le Tigre,0,7EEst6o3tDcp8Rqm2KljUV,174
 1097,My Philosophy,Boogie Down Productions,0,2P8KBF5BtraQiGpxDXrCnF,340
-1098,My Ship's Rolling In,Drink Me,0,0XZMvCrJpcTHUDeu1sNdc3,169
+1098,My Ships Rolling In,Drink Me,0,0XZMvCrJpcTHUDeu1sNdc3,169
 1099,Myriad Harbour,The New Pornographers,0,5XRgh8sTHjMQLcYQHXIYBt,240
 1100,N.G.A. To N.Y.C.,Skoota,0,3tWcjOHKJBHh797fyJpbdf,252
 1101,N.Y. Kangaroo,Eddie Billups And The Gigs,0,0VNTMMA6LUxMbCxevQBQSq,138
@@ -1144,7 +1144,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1142,New York City Boy,Mabel,0,0puP4wa6FG2ZLtIA4jp7ER,203
 1143,New York City Boy,Pet Shop Boys,0,7KeoeLwqtTIIgeHkvgxkeT,315
 1144,New York City Cops,The Strokes,0,5g4cz7u4MrUTKDdo1TmABo,211
-1145,New York City Don't Mean Nothing,Savatage,0,2lc97P61hVzft735hwa4Eg,242
+1145,New York City Dont Mean Nothing,Savatage,0,2lc97P61hVzft735hwa4Eg,242
 1146,New York City Dreams,Tommy McLain,0,57u1h04sbl6qU9DADndQe0,169
 1147,New York City Dues,Johnny Rivers,0,6xa1v0t9NKZpiEDVze1nU7,314
 1148,New York City Girl,John Waite,0,4knFPBhIeL7G3kgSlIW1OX,290
@@ -1189,7 +1189,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1187,New York City,Iceland,0,6YucZ9NGEX2GTqZAkTq3KQ,240
 1188,New York City,Israel Vibration,0,3CMnDMew5cpCEDUgG3bT72,277
 1189,New York City,John Lennon and Yoko Ono,0,6uKsrF9ejNeVy0lZvOQFdp,318
-1190,New York City,Jonas Fjeld Rock'n'Rolf Band,0,2nfCyhRgmWK1KpHExGKA9p,92
+1190,New York City,Jonas Fjeld RocknRolf Band,0,2nfCyhRgmWK1KpHExGKA9p,92
 1191,New York City,Keith Caputo,0,2EVgWcrBoHOGbw7pOdh8H1,275
 1192,New York City,Ken Tobias,0,1o9KLOSMTdmcBAK9MRL5fB,216
 1193,New York City,Kevin Johnson,0,6w6mo4gWYX0YHH1ezkut6N,225
@@ -1219,17 +1219,17 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1217,New York City,Veronica,0,3of461w1flcSh5iBnGohuH,295
 1218,New York City,Village People,0,33Rpy8ZyT1OHyoFn3z8uc4,360
 1219,New York City,Wild Horses,0,7L29JohuUJ7MbrqcdUfEoO,312
-1220,New York City's A Lonely Town,Dick Jensen,0,2ZIYslIHusSW033gC5EVhr,190
+1220,New York Citys A Lonely Town,Dick Jensen,0,2ZIYslIHusSW033gC5EVhr,190
 1221,New York Collapse,Sassafras,0,6vpia76gbDUk5f9XSTitBP,361
 1222,New York Connection,Tom Scott,0,0KClyNWfsTfmaofHr510Cl,264
 1223,New York Crew,Judge,0,37zEVfh1UaWVfR0gQsJtOx,105
 1224,New York Dash,Keith Emerson,0,57iY8Dzyl3JdST332HZiJK,92
 1225,New York Doll,David Dundas,0,2GsPgsYJL1fzk8SVraFUjz,229
-1226,New York Dream's Suite,Happy The Man,0,1JWZAZtZMj85mSTr1MqHys,511
+1226,New York Dreams Suite,Happy The Man,0,1JWZAZtZMj85mSTr1MqHys,511
 1227,New York Electric Street Music,Larry Young,0,5KUKM96ujnePGJZoKlItTU,514
 1228,New York Fever,The Toasters,0,2E3trbS49TAWZT5FpuDnEI,127
 1229,New York Giants,Big Punisher,0,2pmsuhR9b0oe6Sgdn1cFfL,210
-1230,New York Girl,Deedee O'Malley,0,5ameeZEbM3vzxOwYX46RmY,288
+1230,New York Girl,Deedee OMalley,0,5ameeZEbM3vzxOwYX46RmY,288
 1231,New York Girl,Simon F,0,18alhJMrFfS9NErsHbmIVz,152
 1232,New York Girls,Steeleye Span,0,3psPJiOAtRrhlWYxBNvG8n,182
 1233,New York Girls,The Mooney Suzuki,0,37CSvgb9EJtnZN1Gwt4ilZ,235
@@ -1244,7 +1244,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1242,New York Is Closed Tonight,Barry Greenfield,0,3iRUKPlfpxnE43567lcboW,203
 1243,New York Is Killing Me,Gil Scott-Heron,0,698P8cDwdZgT436Omdo8N1,269
 1244,New York Is My Kind of Town,Metropolis,0,1ZP6SvggsXIK7ewTt6K2Zm,432
-1245,New York Is Rockin',Curtis Stigers,0,1ODG9skvAXG6j38Um7Tp3w,243
+1245,New York Is Rockin,Curtis Stigers,0,1ODG9skvAXG6j38Um7Tp3w,243
 1246,New York Ladies,Michael Chapman,0,7cLYnEYatq9oTjHE4giAsX,569
 1247,New York Lady,Burt Bacharach,0,3ddYXguQNAp9dDv7ZcasKW,314
 1248,New York Lament,Horace Silver,0,6llgaajpdlG9k2sZRvDGLM,281
@@ -1267,7 +1267,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1265,New York Skyline,Garland Jeffreys,0,2LHVMc1B8LuX3KYmBsO4ZW,211
 1266,New York Skyline,Sam Signaoff,0,6aEPxDXJ408mCjIcuEQoBX,126
 1267,New York Slave,The Blood Brothers,0,6gC9KOPvqImo98N7e5Yb9v,161
-1268,New York Snow,Lunch At Allen's,0,0yNrdwFwDineRv0e3ZJvG2,292
+1268,New York Snow,Lunch At Allens,0,0yNrdwFwDineRv0e3ZJvG2,292
 1269,New York Sokaklarında,MFÖ,0,66PjnDVQblpmN65naZgKfB,213
 1270,New York Soul,Ray Barretto,0,72l8AJZ9rhJHjulPvsdlDd,165
 1271,New York Stakes,Pete Haycock,0,5SibeoqJJOav6G6MBpK4fc,318
@@ -1309,7 +1309,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1307,New York,Le Butcherettes,0,1mwYAGQASYBs45MVnOEQTZ,118
 1308,New York,Lighthouse,0,3lbOruo8B89FCUn6YwtoRn,241
 1309,New York,Lil Louis,0,5OaYcfR4iOfx1EcgdbP20G,248
-1310,New York,Lil' Louis,0,5OaYcfR4iOfx1EcgdbP20G,248
+1310,New York,Lil Louis,0,5OaYcfR4iOfx1EcgdbP20G,248
 1311,New York,MCL (Micro Chip League),0,0ilyJ1rLXgjpzpqFR40mKk,306
 1312,New York,MCL - Micro Chip League,0,0ilyJ1rLXgjpzpqFR40mKk,306
 1313,New York,Melissa Horn,0,5GjvXn7LnDY97RNcWyxqlq,209
@@ -1338,13 +1338,13 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1336,New York,Tomte,0,3IVsurJCjYqxoAtfOFJBDG,287
 1337,New York,U2,0,49OhVeFZ9q0cIkgGfBStnq,328
 1338,New York,Vennaskond,0,2CBvfK5CKQI6Mrfo1TT7PE,286
-1339,New York's A Lonely Town,The Trade Winds,0,0yZsBLZVU2HTMlMqYvWevJ,133
-1340,New York's In Love,David Bowie,0,3YcTIsCP4dmLWID1RdCI7s,274
-1341,New York's Movin',Ahzz,0,6Wlf0He27nuHeFdRhh9kqo,474
-1342,New York's Not My Home,Jim Croce,0,2iAe3yqQ5QYX8SI1iF4kJ6,189
-1343,New York's On Fire,Seventh Avenue,0,54NmIoTzMjFqLSyRIqkxnt,508
-1344,New York's One Soulful City,Hank Crawford,0,0T9hmEjTAruRuXE2NbV5vh,369
-1345,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0,5rAff9XfcWx7rguN3t0fkW,335
+1339,New Yorks A Lonely Town,The Trade Winds,0,0yZsBLZVU2HTMlMqYvWevJ,133
+1340,New Yorks In Love,David Bowie,0,3YcTIsCP4dmLWID1RdCI7s,274
+1341,New Yorks Movin,Ahzz,0,6Wlf0He27nuHeFdRhh9kqo,474
+1342,New Yorks Not My Home,Jim Croce,0,2iAe3yqQ5QYX8SI1iF4kJ6,189
+1343,New Yorks On Fire,Seventh Avenue,0,54NmIoTzMjFqLSyRIqkxnt,508
+1344,New Yorks One Soulful City,Hank Crawford,0,0T9hmEjTAruRuXE2NbV5vh,369
+1345,"New York, I Love You But Youre Bringing Me Down",LCD Soundsystem,0,5rAff9XfcWx7rguN3t0fkW,335
 1346,"New York, New York",(from the musical On the Town),0,3XERZYN5O5cNF3g2dDX7fy,183
 1347,"New York, New York",Back Street Crawler,0,4ceWPG9mDztQgIRBWlAICj,280
 1348,"New York, New York",Denise,0,4AZHvqyQy24IKkd4EjHKh0,375
@@ -1373,7 +1373,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1371,No Sleep Till Brooklyn,Beastie Boys,0,5qxChyzKLEyoPJ5qGrdurN,246
 1372,No Winners (Ground Zero),Paul Hardcastle,0,6lwpmFb7TS7Td8XwP6Sf63,1889
 1373,"No Woman, No Cry",The Fugees,0,5bUVHuzQh5mkvMPjUU074i,273
-1374,Nobody Picks A Fist Fight In New York City,We're All Just Passing Through,0,46PyMp4SR5S1RBfrJxDrN1,266
+1374,Nobody Picks A Fist Fight In New York City,Were All Just Passing Through,0,46PyMp4SR5S1RBfrJxDrN1,266
 1375,Noche En Down Town,Fito Páez,0,3NlJuopHXTfS5Gb5nf06vW,306
 1376,Nolita Fairytale,Vanessa Carlton,0,59d8G3noBayJU6fw34Ek1F,206
 1377,North On 95,Shawn Mullins,0,3dVJZteQ3Uc3GyAE4rBe5U,241
@@ -1416,9 +1416,9 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1414,NYC,Steve Earle,0,4iJnWp26gbxkG6B25eGmpp,217
 1415,NYC,Weather Report,0,1eLyUGplOMBsTBS1JhWgGp,293
 1416,NYC,Wire,0,6GxHQSGs2t3ScZtosOYYWv,43
-1417,NYC's Like a Graveyard,The Moldy Peaches,0,4Lmc9oH7ZDw4USlqNBXXH1,195
+1417,NYCs Like a Graveyard,The Moldy Peaches,0,4Lmc9oH7ZDw4USlqNBXXH1,195
 1418,NYC-25,The Olivia Tremor Control,0,4kaOmQm3EicdwWCbTydYIv,277
-1419,NYC/Dublin/NYC,O'2L,0,3VQRYsnyVAOY4Ncas3M9Mn,256
+1419,NYC/Dublin/NYC,O2L,0,3VQRYsnyVAOY4Ncas3M9Mn,256
 1420,NYCNYUSA,Fatback Band,0,4w002bj9guCJNbvvSAD62B,256
 1421,NYPD Theme,"Johnny `Hammond`, Smith",0,6gl6UQNfWLzJTW9q7ZGj6k,203
 1422,Ocean Parkway,Spyro Gyra,0,1ftZ87Tc9xkrQJvxGGFgAH,273
@@ -1437,7 +1437,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1435,On The Bowery,Ferre Grignard,0,5k2dA5GMBF8Gbi9K0BKUcE,245
 1436,On The Drag,They Might Be Giants,0,5HESV3AIAG5d3q7iEyix1h,138
 1437,On The Subway,The Last Poets,0,2ZvNOGkA3mBmwru0VcK50C,150
-1438,One Day You'll Dance For Me New York City,Thomas Dybdahl,0,4T9x6eGgl7vuu1yYVKPzNU,294
+1438,One Day Youll Dance For Me New York City,Thomas Dybdahl,0,4T9x6eGgl7vuu1yYVKPzNU,294
 1439,One More Night In Brooklyn,Justin Townes Earle,0,4xv3P9DiKTKMfFaClyZtgn,184
 1440,One Night in NYC,The Horrorist,0,2VPtiwgTUNY3Y3sM9n9hxH,254
 1441,One,Bee Gees,0,2TXQsN854jne8GXWbd3SJx,294
@@ -1482,10 +1482,10 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1480,Positively 4th Street,Bob Dylan,0,4heMx0OAwfILu13Lf0VbBM,247
 1481,Posse on Broadway,Sir Mix-A-Lot,0,7MmhQMfjXPF2AnqrmbqvVB,304
 1482,Poster Girl,Backstreet Boys,0,4uT2Nl3fUMeCWZ4TEk4SwH,235
-1483,Potter's Field,Tom Waits,0,6W8UOF6Z6o4Sj5OnT4tDDS,520
+1483,Potters Field,Tom Waits,0,6W8UOF6Z6o4Sj5OnT4tDDS,520
 1484,Private Party,Wally Jump Jr & The Criminal Element,0,6m6zoNl6oKtexdZIReqQGB,455
 1485,Pump Up New York ,Mr Lee,0,4FMN8Bj0UAiOxWNxCNTbDJ,288
-1486,Puttin' on the Ritz,Irving Berlin,0,22m3Ip5Q91lpE4micZrY9C,272
+1486,Puttin on the Ritz,Irving Berlin,0,22m3Ip5Q91lpE4micZrY9C,272
 1487,Q.U. -- Hectic,Mobb Deep,0,0KwR2yIvknqi1V9BUFmZ2i,286
 1488,Queens Get the Money,Nas,0,2ybnIelgBnGGgDoWvMtwAY,132
 1489,Queens Is,LL Cool J featuring Prodigy,0,6leaCWJ3CWn1ad7qAaUxHG,265
@@ -1495,10 +1495,10 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1493,Radio Free Brooklyn,Pete Miser,0,6GwPyspjKU3ksMVOwazXso,303
 1494,Ragga House (All Night Long),Simon Harris & Daddy Freddy,0,0KfmxXLJaL9LVvlmKhWSp0,384
 1495,Raining In New York,Oh Laura,0,6SjcUEXuQIDTzYpExarJZZ,257
-1496,Rapper's Delight,Sugarhill Gang,0,0FWhGmPVxLI6jOVF0wjALa,427
+1496,Rappers Delight,Sugarhill Gang,0,0FWhGmPVxLI6jOVF0wjALa,427
 1497,Rats in the Cellar,Aerosmith,0,0SvVWpJKUTVeQxQLTPL02o,246
 1498,Rats,Drink Me,0,249I1wHwc3CZBzsosLSSqO,190
-1499,Real Rock & Roll Don't Come From New York,The Gizmos,0,44i2ugYADZ7tESlfeAyMEO,134
+1499,Real Rock & Roll Dont Come From New York,The Gizmos,0,44i2ugYADZ7tESlfeAyMEO,134
 1500,Rebel Without a Pause,Public Enemy,0,1zONdCQrEJ4t3mlzKQADEN,302
 1501,Red Cab to Manhattan,Stephen Bishop,0,4Fs77thw103erzlqFnGA3T,229
 1502,Red Dragon Tattoo,Fountains of Wayne,0,2EXyxZ7okf7i0k91mD0MDO,212
@@ -1506,7 +1506,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1504,Rene and Georgette Magritte with Their Dog After the War,Paul Simon,0,2ngP1nI1hQepXw4Zke4ODi,283
 1505,Rent,"Jonathan Larson, from the musical Rent",0,0Xfxx7TVLcy3SPNB7SK6ex,236
 1506,Rent,Pet Shop Boys,0,79p7mYGJC9IgybmPsZf5HP,308
-1507,Return of the Crooklyn Dodgers,Crooklyn Dodgers '95,0,7tojsPuAq9a1puP9ApOJnV,304
+1507,Return of the Crooklyn Dodgers,Crooklyn Dodgers 95,0,7tojsPuAq9a1puP9ApOJnV,304
 1508,Return to Spanish Harlem,Tony Middleton,0,3e4RbSWj0Cm7e70QSPk0Wn,145
 1509,Reverie,The Morning Of,0,16uk3LdvDmf36Vs2Um4ATH,157
 1510,Rhinestone Cowboy,Glen Campbell,0,0VwTeYNjcl30DyQlt3GPe0,194
@@ -1514,19 +1514,19 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1512,Rikers Island,Cocoa Tea,0,0LW13aGI2sWVfavsJtP0G8,216
 1513,Riverside Drive,Peter Wolf,0,5xwUstJHm3ZxldQKW8tGd9,324
 1514,Rock City,Bernard Lavilliers,0,3jeMNgvtXfmeDIJqqFUzar,187
-1515,Rock'n'Roll City,Kim Larsen,0,48hMpLP1RLWLQfEYOowqaz,270
+1515,RocknRoll City,Kim Larsen,0,48hMpLP1RLWLQfEYOowqaz,270
 1516,Rockaway Beach,The Ramones,0,2HZGsnMByx3V8KmNW6LqWF,126
 1517,Rockaway to Sunset,Spyro Gyra,0,2Tpn8UlV3iYXEdTq8Tw914,348
 1518,Rockaway,Christine Lavin,0,0mIgwPPDWbvDrIhN4xJSIm,245
-1519,Rockin' Around in NYC,Marshall Crenshaw,0,4s4QoOdeolCr7AzDLXQ6nP,221
-1520,Rockin' the Bronx,Black 47,0,6gAqwYSeOdcwjb5xEUjfcF,242
+1519,Rockin Around in NYC,Marshall Crenshaw,0,4s4QoOdeolCr7AzDLXQ6nP,221
+1520,Rockin the Bronx,Black 47,0,6gAqwYSeOdcwjb5xEUjfcF,242
 1521,Romeo Had Juliette,Lou Reed,0,6tM8cMX9S4AyRd5sDDrzhN,190
 1522,Roseland Shuffle,Count Basie,0,3rABAOaZZI1QehFovn7Zzb,154
-1523,Roseland Taxi Dancer,Danny O'Keefe,0,4jmz3F7cpkRY1UDmxy5GfB,167
-1524,Roxanne '97,Puff Daddy & Sting,0,0eacq0yrmFELO3moJKZFZa,272
+1523,Roseland Taxi Dancer,Danny OKeefe,0,4jmz3F7cpkRY1UDmxy5GfB,167
+1524,Roxanne 97,Puff Daddy & Sting,0,0eacq0yrmFELO3moJKZFZa,272
 1525,Rush,Black Moon,0,6AvNxXzO8v8N72a5ic6OqR,277
 1526,Safe in New York City,AC/DC,0,6xs17NF4X10Y7UGwto7S7Z,239
-1527,Sally Can't Dance,Lou Reed,0,5eLwwPNN9g5yLrIdyj2ewP,248
+1527,Sally Cant Dance,Lou Reed,0,5eLwwPNN9g5yLrIdyj2ewP,248
 1528,"Sarajevo, New York, Roma",Emir & Frozen Camels,0,6ISwYSYRwwiGvlHV3pg2oy,297
 1529,Saturday in the Park,Chicago,0,4OJFkrRQqol4FsPesF8eu4,235
 1530,Savoy Blues,Louis Armstrong,0,0BiJQ3TJW5aeo258qHu6TP,205
@@ -1549,15 +1549,15 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1547,Shadows On The Streets Of New York,Joe Bouchard,0,27ALWtmiFHjbWcoXGVedYH,207
 1548,Shattered,The Rolling Stones,0,0FfZBWDv7p63yj6oh2I2PS,226
 1549,She Had to Go and Lose It at the Astor,Harry Roy & His Band,0,7seQLOYuB99T9nwVI8flMQ,167
-1550,She'll Drive The Big Car,David Bowie,0,74Ev7GpWNCiuhUnaHJkC3o,274
-1551,She's A Latin From Manhattan,Al Jolson,0,7AogsWNG5539AaV57MJOEM,120
+1550,Shell Drive The Big Car,David Bowie,0,74Ev7GpWNCiuhUnaHJkC3o,274
+1551,Shes A Latin From Manhattan,Al Jolson,0,7AogsWNG5539AaV57MJOEM,120
 1552,Sheena Is a Punk Rocker,Ramones,0,61MZN0yyMWSEwrLPUUGfgJ,169
 1553,Sherry Darling,Bruce Springsteen,0,0Is7SihfqWbZVTdiGi90yb,371
 1554,Shine On (Der Regen von New York),Howard Carpendale,0,5FAkAQdefFHiyVmqcnFvVW,245
 1555,Shortbus,Yo La Tengo,0,3LAwFBOFfb1LXCRePguUf6,126
 1556,Shy,Ani Difranco,0,55JAZodePCqoyXueneRnPT,285
 1557,Silvertown Blues,Mark Knopfler,0,3iuCw3tJux1RhrE24n8iDE,329
-1558,Singin' in Central Park,David Ippolito,0,7sqs5LoQnrU9GDZJlLz0bM,239
+1558,Singin in Central Park,David Ippolito,0,7sqs5LoQnrU9GDZJlLz0bM,239
 1559,Sinking And Swimming On Long Island,Bayside,0,2jVvkve2dJ7Ioo74q5Vd7b,228
 1560,Six Men In New York,Taxxi,0,7Gpum9ITW5hqLq0UjHwIBS,123
 1561,Six,Darlington,0,5dvcFXhgn8kdlEBkIR5v0C,224
@@ -1568,11 +1568,11 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1566,Skating in Central Park,Francis Lai,0,5Lh752917v8gXipkTN2Zv1,182
 1567,Skylines and Turnstiles,My Chemical Romance,0,3VqJUdav5hRAEAvppYIVnT,203
 1568,Slaughterhouse,Joe Budden,0,6rI2bflAlTLFCMKYf2xykB,421
-1569,Slow Bus Movin' (Howard Beach Party),Fishbone,0,2AKxjmOzeiJyTWNouRDqDp,155
+1569,Slow Bus Movin (Howard Beach Party),Fishbone,0,2AKxjmOzeiJyTWNouRDqDp,155
 1570,Slow New York,Richard Julian,0,2Q2o0evlybDjW4cqmVvhQU,186
 1571,Slum Goddess,The Fugs,0,3KyOb9LT3DFLKYJKpoM9Xh,120
 1572,Small Talk at 125th and Lenox,Gil Scott-Heron,0,6Jnsl9pPYkX8jx0XyzzT84,119
-1573,Snowin' in Brooklyn,Ferron,0,4jjvEX7yu7OtxpOLGKGzNe,288
+1573,Snowin in Brooklyn,Ferron,0,4jjvEX7yu7OtxpOLGKGzNe,288
 1574,So Long Astoria,The Ataris,0,7N2lr3CCJGLxBUkF4PSkch,202
 1575,Soft Smoke,The Pink Spiders,0,31DCu23THDZ4fPISsOeaNM,201
 1576,Soho Grand,Love Pirates,0,6BeC0hrkau9yLPez021zAz,136
@@ -1595,9 +1595,9 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1593,Spring Street,Dar Williams,0,3gLHKAOSJpxMrvYRJ2Fi6X,292
 1594,Spring Street,Vanessa Carlton,0,6SEjzvB8uOikrX1BOzP77f,250
 1595,Squeeze The Trigger,Ice-T,0,3XHtUdE2ex4nxLmJoKQwEN,374
-1596,St. Mark's Place,Earl Slick,0,3ZV8TxMjlH76yuT3x6hyA9,235
-1597,St. Mark's Place,Kirsty McGee,0,6Vc10ZalfSd2TDWni0tloW,194
-1598,St. Mark's Place,Skip The Use,0,4ymiulJ3o5at2Mbhk5oEO2,109
+1596,St. Marks Place,Earl Slick,0,3ZV8TxMjlH76yuT3x6hyA9,235
+1597,St. Marks Place,Kirsty McGee,0,6Vc10ZalfSd2TDWni0tloW,194
+1598,St. Marks Place,Skip The Use,0,4ymiulJ3o5at2Mbhk5oEO2,109
 1599,Stand up NY,Madball,0,7yjBvsWOOlJBw3khsF0OnJ,167
 1600,Staten Island Baby,Black 47,0,5LUTgekrTfEyOPSV6Rnpci,219
 1601,Staten Island,Johnny McEvoy,0,0orYBH5YiRBbmHQ5RTMxQm,151
@@ -1606,10 +1606,10 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1604,Statue of Liberty,Laurie Anderson,0,1VB81F6yzcEXWuMxzO59ZK,264
 1605,Statue of Liberty,Little River Band,0,1yRdVulP7ZhxAXGRlCO9jE,212
 1606,Statue of Liberty,XTC,0,3PvmHbVALfJk9rxsSOg0UT,175
-1607,Stayin' Alive,Bee Gees,0,5ubvP9oKmxLUVq506fgLhk,285
+1607,Stayin Alive,Bee Gees,0,5ubvP9oKmxLUVq506fgLhk,285
 1608,Stickman Crossing the Brooklyn Bridge,Brooklyn Funk Essentials,0,50OlxTLQsXdYRQHLWlYbQp,448
 1609,Stolen Away on 55th & 3rd,Dave Matthews Band,0,58GZLXQobVjULCwrPcSJkZ,256
-1610,Stop Shammin',Big Daddy Kane,0,4TOGCGzDa0SeGUE7v118PV,236
+1610,Stop Shammin,Big Daddy Kane,0,4TOGCGzDa0SeGUE7v118PV,236
 1611,Stop That Train,Beastie Boys,0,4AtMSZCvH60EY87ozdg2wj,118
 1612,Storm The Embassy,Stray Cats,0,2ZRMAt6ihf9WsToutDvgKY,305
 1613,Strange Powers,The Magnetic Fields,0,1Ccfb1xzwLDjQHLfAa2TxQ,161
@@ -1636,7 +1636,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1634,Summer in El Barrio,Bodega Bamz,0,0Oq2xmGuLubuECBXIjf9S4,169
 1635,Summer in New York,Michael Franks,0,3Tkx9Q2pOaiByKW4BdqBsJ,357
 1636,Summer in the City,Regina Spektor,0,2PnFHCWo2FIbMCXwvGM1kH,230
-1637,Summer in the City,The Lovin' Spoonful,0,7AzFID6u1b3zIWbd9pb8Dk,160
+1637,Summer in the City,The Lovin Spoonful,0,7AzFID6u1b3zIWbd9pb8Dk,160
 1638,Summertime In New York,Mick Harvey,0,6ChM5BQo0UfGE84XGWGX7M,195
 1639,Sunday at the Savoy,Count Basie,0,0u0tpf5tN2ZaWo0nHXaJLG,752
 1640,Sunday Morning New York Blue,Rob Thomas,0,1aVuv0zbQiPRkSaapCu9Gg,205
@@ -1649,17 +1649,17 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1647,Sunshine Partytime,Rockers Revenge,0,4EalAa33oBxVGiy8iJtF6g,433
 1648,Super Subway Comedian,Suicide,0,0PMqbsVgQltlnoCNHb3BtQ,299
 1649,Superthug,Noreaga,0,5qEzf9tBursDHplB2FhzVy,300
-1650,Surfin' in Harlem,Swamp Dogg,0,7xbvZeNDG6x5LM8wMHFAKy,270
+1650,Surfin in Harlem,Swamp Dogg,0,7xbvZeNDG6x5LM8wMHFAKy,270
 1651,Swear to God,Emilyn Brodsky,0,6r0YOME1s0UwOyuesGzABt,167
-1652,Swingin' at the Copper Rail,Buck Clayton,0,6meGvmlG9Yk71H7hgGIC8A,382
+1652,Swingin at the Copper Rail,Buck Clayton,0,6meGvmlG9Yk71H7hgGIC8A,382
 1653,Take Manhattan,Soul Asylum,0,4IqDWtslwusi6zKmv38uYc,175
 1654,Take That Look Off Your Face,Andrew Lloyd Webber (from the musical Song and Dance),0,6LUDvgaIGtAKVoKNu5bdWv,198
 1655,The Ghetto,Mark-Almond,0,4Zynwm3ZMdQ52YkXSMaQeV,375
-1656,Take Them To The Traitors' Gate,Thinkman,0,1xSDEutDue3EsrhMPEpdyj,324
-1657,Takin' Of Pelham One Two Three,David Shire,0,0v23pBPFEfo6AJNvMJdNnc,130
+1656,Take Them To The Traitors Gate,Thinkman,0,1xSDEutDue3EsrhMPEpdyj,324
+1657,Takin Of Pelham One Two Three,David Shire,0,0v23pBPFEfo6AJNvMJdNnc,130
 1658,Talk On Indolence,The Avett Brothers,0,4rfY34F0sq2JHJiUHOLi39,219
-1659,Talk Talk New York,Burnin' Red Ivanhoe,0,32uqPscbDqsQCYf7mSzCXs,270
-1660,"Talkin' Baseball (Willie, Mickey & The Duke)",Terry Cashman,0,4z4Bas3eo7PHR8cr0qb7dD,204
+1659,Talk Talk New York,Burnin Red Ivanhoe,0,32uqPscbDqsQCYf7mSzCXs,270
+1660,"Talkin Baseball (Willie, Mickey & The Duke)",Terry Cashman,0,4z4Bas3eo7PHR8cr0qb7dD,204
 1661,Talking Vietnam Potluck Blues,Tom Paxton,0,2nABkAcNXTphJwKAXT6L4l,204
 1662,Tango in Harlem,Touch and Go,0,5YcaFJy1w7fwyqiXCKn5Im,205
 1663,Tarzan Of Harlem,Cab Calloway,0,1lBuQWfheGXfgApt01UBoX,166
@@ -1669,7 +1669,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1667,Tenth Avenue Freeze Out,Bruce Springsteen,0,4Gmdm6oRVwJgsM8gYnwRoE,190
 1668,"Thank You, Lord, For Sending Me The F Train",Mike Doughty,0,4sS3VnewgxC1TeOGmg2kb3,162
 1669,The Beef Is On,Big Daddy Kane,0,0lrDPgq6noN5qRkcycAiKC,203
-1670,The Best Of Queens (It's Us),Mobb Deep,0,3cfHCVVA7nr6TdTNkii3xf,213
+1670,The Best Of Queens (Its Us),Mobb Deep,0,3cfHCVVA7nr6TdTNkii3xf,213
 1671,The Royal Scam,Steely Dan,0,2hYS79fHfVPgxb8PHFksHJ,390
 1672,The Boston Rag,Steely Dan,0,1wxA50yfhX9S7mI1MfqFcY,340
 1673,The Bowery Electric,Jed Davis,0,5h93hIGjFqMfgnAarpMqoQ,188
@@ -1703,12 +1703,12 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1701,The Hudson,Dar Williams,0,4tXv75OzA31ViAW2ULSiVV,280
 1702,The Incumbent,Soul Coughing,0,0Zi5aWrSgcLoEd5tF161U9,406
 1703,The Invisible Venus Of New York City,Bill Nelson,0,2RHHNczWUkRw5qLv8WYL7v,225
-1704,The Jazz at Waldo's,Elmer Bernstein,0,4XUWtNxiN9jwiF8LH5jOUv,156
+1704,The Jazz at Waldos,Elmer Bernstein,0,4XUWtNxiN9jwiF8LH5jOUv,156
 1705,The Jean Genie,David Bowie,0,6uZtMNTfU5u8w6fsnXeOdb,248
 1706,The Jungle Line,Joni Mitchell,0,6C5xDvn42YYdohvSEjsoP2,264
 1707,The Key to Gramercy Park,Deadsy,0,56RVUS1Yo2YxkhU9bIi2i1,192
 1708,The Killing of Georgie (Part I and II),Rod Stewart,0,7si0s3D7t9CbGNrfYSBwuQ,379
-1709,The L Train Is A Swell Train And I Don't Want To Hear You Indies Complain,Out Hud,0,5iEAwoz4w0KYQ5A0yDZbHj,739
+1709,The L Train Is A Swell Train And I Dont Want To Hear You Indies Complain,Out Hud,0,5iEAwoz4w0KYQ5A0yDZbHj,739
 1710,The Lamb Lies Down on Broadway,Genesis,0,10birs3L6T1PnvDwk4NXuf,294
 1711,The Light Dies Down on Broadway,Genesis,0,3fIPM9u4HjT6d3NDuqt8fs,212
 1712,The Luckiest Guy on the Lower East Side,The Magnetic Fields,0,0WDjf1JHa22EYZFtI5SQDv,223
@@ -1736,16 +1736,16 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1734,The Treat of 42nd Street,Gary Glitter,0,7c6kpHFM6a6QyaJwil5784,135
 1735,The True Meaning,Cormega,0,14atQTcRKMpd5kFPw9LBzu,232
 1736,The True Story Of House Music,LB Bad,0,2kCQQUIYVZ6G7QEd9WzU4o,301
-1737,The Truth Ain't Pretty,Steve Conte & The Crazy Truth,0,3riWarT0g7QVeFvdInnmtW,225
+1737,The Truth Aint Pretty,Steve Conte & The Crazy Truth,0,3riWarT0g7QVeFvdInnmtW,225
 1738,The Vampires of New York,Marcy Playground,0,5DsmuV5zcG7rqjwPP7JTee,175
 1739,The Village in the Morning,The Magnetic Fields,0,2yBEYUGZj8nwmyYNSvzV2i,220
 1740,The Wall Street Part of Town,Ry Cooder,0,28rgq0FeNUAcyio0AIaLcT,222
 1741,The Wall Street Shuffle,10cc,0,0kVB6PeqBbN2HhwJdWumeZ,236
 1742,The World I Know,Collective Soul,0,1HSVpIU0XU1WuwiBLBWAZd,255
 1743,The Zoo,The Scorpions,0,0YpmF3aZXOIuyi8itZbpkp,330
-1744,Theme From 'Escape From New York',John Carpenter,0,6T4OT1wFOwgNK9VysjaEAk,212
-1745,Theme From 'Mr Broadway',Dave Brubeck,0,2RpXpY7tp5RjbKopUuwlix,146
-1746,Theme From 'NYPD Blue',Mike Post,0,4I4OumfzAP8quME59h3KXp,208
+1744,Theme From Escape From New York,John Carpenter,0,6T4OT1wFOwgNK9VysjaEAk,212
+1745,Theme From Mr Broadway,Dave Brubeck,0,2RpXpY7tp5RjbKopUuwlix,146
+1746,Theme From NYPD Blue,Mike Post,0,4I4OumfzAP8quME59h3KXp,208
 1747,Un Ecureuil À Central Park,Claude Nougaro,0,2HnMnz3TrQFximEKoCkwDI,434
 1748,Think We Got A Problem,Sheek Louch,0,5dmXK8BfcDYUgLhHFAlzLp,216
 1749,Third Avenue Rag,David Chesky,0,1c9CGLIn1V1S2ccMtpV1Lb,141
@@ -1753,8 +1753,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1751,This Island,Le Tigre,0,4fjYnhOIulP59xvHrfaWaM,201
 1752,Thousands Are Sailing,The Pogues,0,0OVhZl9SaOLjLvYE6hcLGc,326
 1753,Three Boroughs,X-ecutioners,0,5TUiOtpghTJlyzTRHUmprd,84
-1754,Tighten Up (I Just Can't Stop Dancin'),Wally Jump Jr & The Criminal Element,0,1vdl92cFoRlInRfkaTdBY7,323
-1755,Tilden House,N.Y. House'n Authority,0,14osn3a7GnwrGMdMI4ONyC,422
+1754,Tighten Up (I Just Cant Stop Dancin),Wally Jump Jr & The Criminal Element,0,1vdl92cFoRlInRfkaTdBY7,323
+1755,Tilden House,N.Y. Housen Authority,0,14osn3a7GnwrGMdMI4ONyC,422
 1756,Till The Next Goodbye,Rolling Stones,0,05Va2Xt5QZInHtqAzlm7R8,276
 1757,Time And Space,The Digable Planets,0,6GmEAxNBMbuCOr36lBk19Q,267
 1758,Times Square Go-Go Boy,East River Pipe,0,1tts0VFP42HmTtSeZE8a9G,199
@@ -1763,18 +1763,18 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1761,Times Square,Glue,0,6w1KwhUWSz7w8guDNmqg1p,187
 1762,Times Square,Marianne Faithfull,0,07krA7oMGkN3Lasvw7PHI4,264
 1763,Tin Pan Alley,Apples In Stereo,0,0VCeZATHAiT5VJVWHlx0af,139
-1764,Tina Toledo's Street Walkin' Blues,Ryan Adams,0,0jaw0pN1v5xyhkStfQj3rJ,366
+1764,Tina Toledos Street Walkin Blues,Ryan Adams,0,0jaw0pN1v5xyhkStfQj3rJ,366
 1765,To a Broadway Rose,Artie Shaw,0,1JN0T9flOWGfslDJfGK7XI,207
 1766,To Birdland and Hurry,Herbie Mann,0,0FskObyGiad83F5q3qT99H,193
 1767,To Get to You (55th & 3rd),Kenny Chesney,0,5K66N0FW2phuTqMvZqscVy,340
 1768,Token Back to Brooklyn,They Might Be Giants,0,0E9L98lkItMbw3yrllecHM,62
-1769,Tom's Diner,Suzanne Vega,0,7f9sC9fvtjYSZYOLSmKJlq,228
+1769,Toms Diner,Suzanne Vega,0,7f9sC9fvtjYSZYOLSmKJlq,228
 1770,Tompkins Square Park,Chamaeleon Church,0,6farvXPGljtf4qBkAlgHFe,184
 1771,Tompkins Square,The Harbingers,0,0jKgGTL9adoFE08kgFoepd,145
 1772,Too Dumb for New York City,Waylon Jennings,0,6Wn39JX5yBRkq8NaD8OioN,175
 1773,Too Late (New York City),Tycoon,0,2hZjk0seFyIbaEcZuyw1kx,245
 1774,Train Under Water,Bright Eyes,0,6JFujOM9rzcsAyDS0kIFr5,366
-1775,Transit ride,Guru's Jazzmatazz,0,6B4O8Erp0ZQ1dgE9LBimsA,238
+1775,Transit ride,Gurus Jazzmatazz,0,6B4O8Erp0ZQ1dgE9LBimsA,238
 1776,Tres Leches (Triboro Trilogy),Big Punisher,0,3KTfwbSw455pMTq8BfFIF3,259
 1777,Trial of Tears,Dream Theater,0,3FK7zg1VfqTufbp7FwBeA9,785
 1778,Tribeca,Greg Adams,0,4kHUiIuoWOU9obIJ1kMb8D,212
@@ -1783,14 +1783,14 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1781,Turtle Bay,Herbie Mann,0,1BoTUVwSn4Zk1VWDpAtV9y,183
 1782,Twelve-Thirty (Young Girls Are Coming to the Canyon),The Mamas & the Papas,0,2nmteiJeK6RAIGH3pL9Pmh,206
 1783,Twenty Years,Augustana,0,2xqjlxsJpuRwNnq5iz9sGX,266
-1784,Twistin' the Night Away,Sam Cooke,0,7FS541dJh3iQAEXEZoDhE6,159
+1784,Twistin the Night Away,Sam Cooke,0,7FS541dJh3iQAEXEZoDhE6,159
 1785,Two Little Girls,Ani DiFranco,0,1BLV8sIYFJrjMcnsZ8sXyA,297
 1786,U.M.M.G.(Upper Manhattan Medical Group),Duke Ellington,0,5sJpQV6iIInQ4DqL3Jfqzc,186
 1787,Un Caribe En Nueva York,Ricardo Arjona,0,4qtgB62LZJZFm5fy2xRGTK,324
 1788,Un Español En Nueva York,Los Rebeldes,0,5nCczJN4QqJEQPKNV6TkOO,226
 1789,Un Verano En Nueva York,El Gran Combo de Puerto Rico,0,1q2J8KWeewoqOrZI4a65P9,298
 1790,Underground Town,The Toasters,0,3e8osmwGlqF7p4Va7YVWFn,208
-1791,Underground,Jane's Addiction,0,5SleusK2Wc2SH46DVidSES,187
+1791,Underground,Janes Addiction,0,5SleusK2Wc2SH46DVidSES,187
 1792,Underground,Versus,0,7LNDivZP07JxtF59mMpOGk,422
 1793,Underneath the Harlem Moon,Don Redman and his Orchestra,0,4Req6vALcavf7e27bvTJjX,192
 1794,Union Square,Tom Waits,0,1BY6jSunIhyzLwhl1UW8Rp,143
@@ -1809,10 +1809,10 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1807,Visions of Johanna,Bob Dylan,0,2rslQV48gNv3r9pPrQFPW1,451
 1808,Waiting for the B Train,Christine Lavin,0,1aSpvTuEafleoPEPXlQcPI,196
 1809,Wake up in New York,Craig Armstrong,0,5P7SWfTfsu2TNf2NAn94Dg,210
-1810,Walk from Regio's,Isaac Hayes,0,6hfCnZXkRBneixasZAQh53,143
+1810,Walk from Regios,Isaac Hayes,0,6hfCnZXkRBneixasZAQh53,143
 1811,Walk in New York,Onyx,0,3YsxFbSzqiPVkyiinQImSw,295
 1812,Walk on the Wild Side,Lou Reed 1972,0,6eLtcmdyvlakt5ctaqobZH,355
-1813,Walkin' Down Broadway,The Penguins,0,3PJWR0zmlDaP9W2e77Uwcl,162
+1813,Walkin Down Broadway,The Penguins,0,3PJWR0zmlDaP9W2e77Uwcl,162
 1814,Walking Down Madison,Kirsty MacColl,0,40KO7b33rA50X4gLbZee3Z,395
 1815,Walking Down On Brooklyn Bridge,Love Pirates,0,5S7BwL93fmJB5n79ImV5oE,236
 1816,Wall Street Bongo,Yello,0,5apNcYbbUTNCWtSOI9T1Hg,185
@@ -1833,8 +1833,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1831,We Got the Juice,Freeez,0,17W4Tvef8dHbk2HfWIWmdh,381
 1832,We Live In Brooklyn Baby,Roy Ayers,0,4LWXJvwI43g8cSJOiHIcjJ,225
 1833,We Run N.Y.,Tony Touch,0,1Q2V4LCT77nkZzvH3dkEgP,163
-1834,We're a Happy Family,Ramones,0,0walD6ZsABZcEA1R7tchRm,159
-1835,We've Got The Juice,Derek B,0,1t4zTbcEj6wqGqbQCCU1sD,279
+1834,Were a Happy Family,Ramones,0,0walD6ZsABZcEA1R7tchRm,159
+1835,Weve Got The Juice,Derek B,0,1t4zTbcEj6wqGqbQCCU1sD,279
 1836,Welcome to New York,Scott Klopfenstein,0,6muCestTf4gjpI8K2Unewc,288
 1837,Welcome to New York,Taylor Swift,0,6qnM0XXPZOINWA778uNqQ9,212
 1838,Welcome to New York,Tim Mahoney,0,1241jF37pBXCvBSkmKT6mC,216
@@ -1842,12 +1842,12 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1840,West 42nd Street,Deodato,0,0QdrDwh8Opdnj9DI5dOK7T,353
 1841,West 4th Street,Valerie & Bobby Capers,0,0v5kuqXdb2MH9tFsTR2Q8k,149
 1842,West Side Nights,Larry Fast,0,1q8PrbmaZwH4qPuYPEBQCG,495
-1843,West Side Story Overture,(from the musical 'West Side Story'),0,14Cb0qUyqiCCjNXUFHV8hb,281
+1843,West Side Story Overture,(from the musical West Side Story),0,14Cb0qUyqiCCjNXUFHV8hb,281
 1844,Westside Story,The Game,0,0lOe1dR2TNkJMCjIcRuw6T,223
 1845,What Harlem Is to Me,Coleman Hawkins & The Ramblers,0,3X42QFsjqnFQav0hS41vbc,166
 1846,What More Do I Need?,Stephen Sondheim,0,0HZIWqNOhAV89DhHiYRwVz,180
 1847,What New York Used to Be,The Kills,0,11m1MrusRBoVGH2U43KLx4,197
-1848,What's New in New York City,Merle Haggard,0,4ZSLQaxwpn0NytS3LlR8Gc,170
+1848,Whats New in New York City,Merle Haggard,0,4ZSLQaxwpn0NytS3LlR8Gc,170
 1849,Whatever Happened to New York?,Ann Magnuson,0,2ajaHRF2dCro2ZZvvX9VBf,207
 1850,When I First Kissed You,Extreme,0,1IGWLg0CAdoCzaTnwZ876Z,240
 1851,When New York was Irish,Terence Winch,0,5cRYfa8O8GytfAseHETSq9,278
@@ -1857,8 +1857,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1855,When the Stars Go Blue,Ryan Adams,0,04rMpRstoJt3uvqyNGKczX,211
 1856,When the Whip Comes Down,The Rolling Stones,0,2h7OfDcrNaHnhHLR9uEnhA,260
 1857,When You Got to New York,Saturday Looks Good to Me,0,3jOkilj6Gs0j5JH67zFUHZ,215
-1858,Where I'm From,Digable Planets,0,1962ZwEY7WNQLcmYFn3eR9,275
-1859,Where I'm From,Jay-Z,0,0R0zZnqPg7yOWb4PRmW8nC,266
+1858,Where Im From,Digable Planets,0,1962ZwEY7WNQLcmYFn3eR9,275
+1859,Where Im From,Jay-Z,0,0R0zZnqPg7yOWb4PRmW8nC,266
 1860,Whitestone Bridge,Tir Na Nog,0,6jC9ICXwpGEX5jJEzTMe2N,255
 1861,Whizz Kid,Mott the Hoople,0,7iJlURgOSuB1rb1wr5ohYW,205
 1862,Who Are You New York?,Rufus Wainwright,0,3d2K68avKB6qILZcTGG55L,222
@@ -1870,20 +1870,20 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1868,Wombling White Tie And Tails,The Wombles,0,75irFuqngHylr6JeZi8v6C,216
 1869,Women In New York,Lord Kitchener,0,4uPQ1rdTs2jbmfjpssl8BC,174
 1870,Work,ASAP Ferg,0,7xVLFuuYdAvcTfcP3IG3dS,283
-1871,Workin' for the MTA,Justin Townes Earle,0,0D9EFeXon8jQE7KgJvuplG,228
-1872,Wouldn't Have You Any Other Way (NYC),Elton John,0,49rat0ZasTEBYVpIEFI4dm,278
+1871,Workin for the MTA,Justin Townes Earle,0,0D9EFeXon8jQE7KgJvuplG,228
+1872,Wouldnt Have You Any Other Way (NYC),Elton John,0,49rat0ZasTEBYVpIEFI4dm,278
 1873,Wrath Of Kane,Big Daddy Kane,0,0xiHggpKPrPwFD6e4Kp0Sh,303
 1874,Yeah! New York,Yeah Yeah Yeahs,0,6VBXqL5ztd119C0K3GgZ28,125
 1875,You and Me and New York City,Brad Hopkins,0,7LDJZXV0TMFPyHR1DDtBrD,193
-1876,You Don't Mess Around with Jim,Jim Croce,0,5yrsBzgHkfu2idkl2ILQis,184
+1876,You Dont Mess Around with Jim,Jim Croce,0,5yrsBzgHkfu2idkl2ILQis,184
 1877,You Get High in N.Y.C.,Revanche,0,3mbfCu1qa3x5i2iNK1pucR,512
 1878,You Lift Me Up,Rachael Lampa,0,0pdvnlCwUjnaMH2GWEdyvK,218
 1879,You Said Something,PJ Harvey,0,4m5S4wvLY031rN6beIWoRe,198
 1880,You Surround Me,Erasure,0,6k8TkPk7a5tk44wULwczZ9,238
 1881,You Took the Sunshine from New York,The Wildhearts,0,6X5bha0vv7XFOncUCmai4X,219
-1882,You'd Rather Run,Jaymay,0,7J9l66lAvD6rW6yoJUoGih,591
-1883,You're Gonna Chase Love Away: Max's Kansas City,Elliott Murphy,0,365jgrevsBhhdVVV0w3TOs,287
-1884,You've Seen Harlem at Its Best,Ethel Waters,0,6qkf0Rb11UpnKLU5R6MO0W,172
+1882,Youd Rather Run,Jaymay,0,7J9l66lAvD6rW6yoJUoGih,591
+1883,Youre Gonna Chase Love Away: Maxs Kansas City,Elliott Murphy,0,365jgrevsBhhdVVV0w3TOs,287
+1884,Youve Seen Harlem at Its Best,Ethel Waters,0,6qkf0Rb11UpnKLU5R6MO0W,172
 1885,Your Latest Trick,Dire Straits,0,4UK1g9Z1lWedkmIQuSyCe5,393
 1886,Youth Of Eglington,Black Uhuru,0,4ag0EZlimeFAoNta9B1b16,302
 1887,Zen Koans Gonna Rise Again,Dave Van Ronk,0,4Jwtey1uLfk70U4bW26vNW,222
@@ -1915,7 +1915,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1913,Deep Kick,Red Hot Chili Peppers,12,4VgylHaBo55VXqX4AiZiyc,393
 1914,Deportee (Plane Wreck at Los Gatos),Woody Guthrie,12,7zOOmy8YYcmpKHBcTB8uaQ,254
 1915,Desvelado,Bobby Pulido,12,2JJSGhPpATm8lXeYjD95fw,221
-1916,Don't Marry Her,The Beautiful South,12,20abcpNIRjDmyFoAbFozil,201
+1916,Dont Marry Her,The Beautiful South,12,20abcpNIRjDmyFoAbFozil,201
 1917,Taxi,Harry Chapin,12,7qnxmC6qdYkjcoCJCeD8Jx,406
 1918,Down and Out in San Francisco,Martha Berner,12,17tyZmbyk3Jjvk5LIsjN1D,184
 1919,Down in Oakland,Transplants,12,0hBu9axnr7q4bMjlaJzAul,203
@@ -1941,7 +1941,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1939,Honeymoon in San Francisco,Of Montreal,12,6QHeArsWWF6U1H2IoeeWpj,192
 1940,Earthquake Weather,All Bets Off,12,08oLvGDMXyCg5LqXkick0I,162
 1941,Haight Street,Anberlin,12,2VhzW4E35jlYvJoYcVDnnA,178
-1942,I'm Always Drunk in San Francisco,Carmen McRae,12,4jsrzfNVVFAtNtMPVpFdwo,184
+1942,Im Always Drunk in San Francisco,Carmen McRae,12,4jsrzfNVVFAtNtMPVpFdwo,184
 1943,If I Could Give All My Love (Richard Manuel Is Dead),Counting Crows,12,4XsNMUborShcdw5Jv08zbX,232
 1944,In San Francisco,The Welcome Matt,12,6y4QWbJVXXn6QXnXuRDwZG,225
 1945,"Sit Down, John",1776,5,6ghUhgMQz86QkgmhbJ4LOO,117
@@ -1981,12 +1981,12 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 1979,Planet Fillmore,San Quinn,12,4oPc51VixivHxYkjOfG3WD,246
 1980,The Pleasure of Her Company,Vic Damone,12,5KdkuAfOa5QA2eEYccxLD1,192
 1981,Ride Captain Ride,Blues Image,12,1d9hUvkv64Wmdu671Dydpc,225
-1982,Saint Dominic's Preview,Van Morrison,12,0MgfdN0hWlNeQCSLqjfn6C,391
+1982,Saint Dominics Preview,Van Morrison,12,0MgfdN0hWlNeQCSLqjfn6C,391
 1983,Samba de Sausalito,Santana,12,2Y2gB5b3rAZbTRRl3JMjX4,191
 1984,San Fran,Kids of 88,12,4bsEDVJ6MzSdkOiZM8zz3M,209
 1985,San Franciscan Nights,Eric Burdon & The Animals,12,7g0XgioAO3q8iBUQNoEAye,199
 1986,Linden Arden Stole the Highlights,Van Morrison,12,2rqzOXZEUyV3OHzT2J3id7,157
-1987,New Year's Kiss,Casiotone for the Painfully Alone,12,7FMteOz4IdoNbl3U2Ydo2x,122
+1987,New Years Kiss,Casiotone for the Painfully Alone,12,7FMteOz4IdoNbl3U2Ydo2x,122
 1988,San Francisco,Walter Jurmann and Bronislaw Kaper,12,3yHIKnQXNVgDfF1d7e8U3K,143
 1989,San Francisco,Brett Dennen,12,0bcBDU55rTT9X5pXVwVDJZ,230
 1990,San Francisco,Brian Wilson & Van Dyke Parks,12,6B4aptbUlmrf4OzJHqw30V,268
@@ -2005,7 +2005,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2003,San Francisco,Maxime Le Forestier,12,4EucYViqJKQ4lCECHnec1P,165
 2004,San Francisco,Midicronica,12,0nsn0xuYHUTbq47O7SBV5v,206
 2005,San Francisco,Mike Burns,12,4AKzWvTgRTvXngMslyDyDF,355
-2006,San Francisco,The Mowgli's,12,5RRWirYSE08FPKD6Mx4v0V,173
+2006,San Francisco,The Mowglis,12,5RRWirYSE08FPKD6Mx4v0V,173
 2007,San Francisco,MU330,12,4VeA6Qr4Ibw6eD6CdkQw46,101
 2008,San Francisco,Richard March,12,1VaPmzw89JYQtsRAh2AqIE,398
 2009,San Francisco,Rufus Wainwright,12,6dzK5XR233rQ5Y1kSaj1l0,293
@@ -2019,7 +2019,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2017,San Francisco (In Situ),They Might Be Giants,12,2Mpk5I4LNVsayjaoYofRip,58
 2018,San Francisco (Be Sure to Wear Flowers in Your Hair),Scott McKenzie,12,66ujRcQB3xjilVohGyvTKM,177
 2019,San Francisco (The Rhythm),Eskmo,12,5g3ntAzf0dlQipBFLEluPe,289
-2020,San Francisco (You've Got Me),Village People,12,1pTV6j0gtlBNdwZwo1iW1y,319
+2020,San Francisco (Youve Got Me),Village People,12,1pTV6j0gtlBNdwZwo1iW1y,319
 2021,"San Francisco, 1906",Capybara,12,1hImWFb9rws6ctJGgACZRL,277
 2022,San Francisco Bay,Lee Oskar,12,0TaatujAlsDlmmZPLlu5dR,445
 2023,San Francisco Bay Blues,Jesse Fuller,12,5i3JtaOeGJjAo0fBJTsYoV,179
@@ -2047,8 +2047,8 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2045,Sequel,Harry Chapin,12,0HFW81AR9sO7FiCBy75O5b,398
 2046,Shark Infested,The Killa Sharks,12,0WIz4o0DhKHJop6ugPAd1m,292
 2047,Shoot Out in Chinatown,The Band,12,4dArwFayrjFaR1red6af9e,173
-2048,Show'n Love,The Killa Sharks,12,6FDDZJxI49HlTz7FIlgEW0,233
-2049,(Sittin' on) The Dock of the Bay,Otis Redding,12,3zBhihYUHBmGd2bcQIobrF,163
+2048,Shown Love,The Killa Sharks,12,6FDDZJxI49HlTz7FIlgEW0,233
+2049,(Sittin on) The Dock of the Bay,Otis Redding,12,3zBhihYUHBmGd2bcQIobrF,163
 2050,Sky High Honey,Matt Nathanson,12,5ZaSW9btilS0vGRHjGCZZc,206
 2051,"So Long, San Francisco",Glenn Yarbrough,12,6zEnYQnZNUlMA3NWw6noAk,159
 2052,Soul Shadows,Bill Withers,12,1gSP2PYlWu3429ySMUjc8s,383
@@ -2070,7 +2070,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2068,Yerba Buena Bounce,The Hot Club of San Francisco,12,3z1kzKv25N8BNaZD6bc4ep,264
 2069,Aurora Bridge,The Young Fresh Fellows,11,2fJeNW1bbOiXr4qwmlDTv0,169
 2070,The Ave,Blue Scholars,11,6YdpIYFhLHUqNxvvzMMD5d,184
-2071,"Baby, I'm an Anarchist",Against Me!,11,0uSwAqfR6cBDj5BRP6L3Vx,160
+2071,"Baby, Im an Anarchist",Against Me!,11,0uSwAqfR6cBDj5BRP6L3Vx,160
 2072,Belltown Ramble,Robyn Hitchcock,11,4Z6Wo8BPhwd9VVKy1Kbqtr,375
 2073,Chains,Patty Loveless,11,6mjnGqvFFfNGKYqmKeZqAy,149
 2074,Claiming the City,Macklemore,11,2b2PPF2dMbgDZVIDsS5ZT5,268
@@ -2102,7 +2102,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2100,City Dont Sleep,Macklemore,11,63GKFKG3enu4dMhsil0QG0,210
 2101,Evergreen Christmas,Loni Rose,11,6e92ALJEnTBf6Tb36FDVWC,301
 2102,Seattle,Willow,11,6kd7qZLpefXyde8FnNuwjU,222
-2103,Seattle Ain't Bullshittin',Sir Mix-a-Lot,11,1XJVfmTuk4Aka23GnF0ucO,333
+2103,Seattle Aint Bullshittin,Sir Mix-a-Lot,11,1XJVfmTuk4Aka23GnF0ucO,333
 2104,Seattle Hunch,Jelly Roll Morton,11,5fcuVmKshTxYV83RQhg2j9,187
 2105,September in Seattle,Shawn Mullins,11,39eryOJcHMNfkcFiVAGN7K,201
 2106,The Shadow of Seattle,Marcy Playground,11,2AWCqHT2N1LyXwY9Ku2s9B,163
@@ -2123,7 +2123,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2121,"Wir sind hier nicht in Seattle, Dirk",Tocotronic,11,1bRGL3saYmVDLkd1ydCK5L,194
 2122,Seattlehead,Duff McKagan,11,7lgqqk454Q42QmLzKLPvkN,228
 2123,Sick of Seattle,The Smithereens,11,6hLlb3uweFdMdW7VJz2Z8B,183
-2124,Talkin' Seattle Grunge Rock Blues,Todd Snider,11,5uBXisCJe8QgqGJhLAin4r,254
+2124,Talkin Seattle Grunge Rock Blues,Todd Snider,11,5uBXisCJe8QgqGJhLAin4r,254
 2125,"Miami, My Amy",Keith Whitley,3,5K1HsMKNWMrxADlqAUjpIp,207
 2126,The New South,Hank Williams Jr.,3,5ZVeko2Gm6ux8SwYJxRvQl,239
 2127,If the South Woulda Won,Hank Williams Jr.,3,1H8VHGHaRujxpq15KUglIw,199
@@ -2131,12 +2131,12 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2129,Miami,Will Smith,3,6e8Ou0wiqAzIpWb2eSxll8,197
 2130,Miami,Bob Seger,3,2wz3h7kJNRkHkJUzCW8b7e,280
 2131,Miami Beach,Bonde do Rolê,3,3lKCiVBo1jgBfsS0cHrmg5,220
-2132,I'm in Miami Bitch,LMFAO,3,1vaUxfrERQIQfJ1wBTmeRE,227
+2132,Im in Miami Bitch,LMFAO,3,1vaUxfrERQIQfJ1wBTmeRE,227
 2133,Miami 2017 (Seen The Lights Go Out On Broadway),Billy Joel,3,6uC9fa50cFyDOc1BTOLXiM,311
 2134,Swimming In Miami,Owl City,3,0I1AvOpuD75uLQRpjgqvfp,295
 2135,Only in Miami,Bette Midler,3,0bTTE4Obds2aaa7MIzThRz,233
-2136,Summer Wit' Miami,Jim Jones,3,0pJ1L8Rq1R3RGMerdFFe3I,206
-2137,Miami,K'Jon,3,3Zdmx7txvXid5IzdQXNTu1,351
+2136,Summer Wit Miami,Jim Jones,3,0pJ1L8Rq1R3RGMerdFFe3I,206
+2137,Miami,KJon,3,3Zdmx7txvXid5IzdQXNTu1,351
 2138,Miami Nights,Wale,3,03O2yXOELrmsV8BIrsiyQB,216
 2139,Miami 2 Ibiza,Swedish House Mafia & Tinie Tempah,3,3Faa4vgk1nEczUvadWyVQc,258
 2140,Miami,Against Me!,3,1QGf9kxXXsblNktjDbHpNV,240
@@ -2144,7 +2144,7 @@ song_id,song_name,artist_name,city_id,spotify_song_id,duration_s
 2142,Miami,John Mellencamp,3,42tdgBJfhR26A6dUm2Ca6d,233
 2143,Miami,Randy Newman,3,21jPhpm4CN4uP5wmsIKxcp,242
 2144,Going Back to Miami,The Blues Brothers,3,4CRvbQ6GdqGB8QZXGisiYV,240
-2145,Everybody's Got a Cousin in Miami,Jimmy Buffett,3,6YdFbGDL5jAlGFDiCzPMhX,439
+2145,Everybodys Got a Cousin in Miami,Jimmy Buffett,3,6YdFbGDL5jAlGFDiCzPMhX,439
 2146,Miami,U2,3,5t3VvTrmnlxypdtAacg9Gh,292
 2147,Miami,Yo Gotti,3,6gIJ8d01Klvu3owx1cAf1t,168
 2148,Waking Up in Vegas,Katy Perry,22,6fvxos1qSHrIgOkKw4dhWS,199
