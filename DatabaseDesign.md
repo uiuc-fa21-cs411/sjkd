@@ -77,4 +77,5 @@ Query 2 EXPLAIN ANALYZE output without indexing:
 Total time: 8.259
 ```
 
-### Analysis
+### Indexing
+[Outputs and Analysis](https://docs.google.com/document/d/1H-vxBEzS4skHhmzbkW2LONUZ39-DrrFnIGNI5PnBo-A/edit?usp=sharing)
