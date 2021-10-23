@@ -88,11 +88,15 @@ CREATE INDEX state_name_index ON City (StateName(5)) USING BTREE;
 ("-> Filter: (numConcerts >= 3)  (actual time=1.250..1.253 rows=14 loops=1)\n    -> Table scan on <temporary>  (actual time=0.001..0.002 rows=14 loops=1)\n        -> Aggregate using temporary table  (actual time=1.249..1.251 rows=14 loops=1)\n            -> Nested loop inner join  (cost=159.75 rows=42) (actual time=0.058..1.075 rows=85 loops=1)\n                -> Filter: (Concert.`Date` like '%/2022')  (cost=115.65 rows=126) (actual time=0.042..0.724 rows=283 loops=1)\n                    -> Table scan on Concert  (cost=115.65 rows=1134) (actual time=0.039..0.425 rows=1134 loops=1)\n                -> Filter: (City.Lng > -90.000000)  (cost=0.25 rows=0) (actual time=0.001..0.001 rows=0 loops=283)\n                    -> Single-row index lookup on City using PRIMARY (CityID=Concert.CityID)  (cost=0.25 rows=1) (actual time=0.001..0.001 rows=1 loops=283)\n",)
 Total Time: 4.732
 
+("-> Filter: (numConcerts >= 3)  (actual time=1.250..1.253 rows=14 loops=1)\n    -> Table scan on <temporary>  (actual time=0.001..0.002 rows=14 loops=1)\n        -> Aggregate using temporary table  (actual time=1.249..1.251 rows=14 loops=1)\n            -> Nested loop inner join  (cost=159.75 rows=42) (actual time=0.058..1.075 rows=85 loops=1)\n                -> Filter: (Concert.`Date` like '%/2022')  (cost=115.65 rows=126) (actual time=0.042..0.724 rows=283 loops=1)\n                    -> Table scan on Concert  (cost=115.65 rows=1134) (actual time=0.039..0.425 rows=1134 loops=1)\n                -> Filter: (City.Lng > -90.000000)  (cost=0.25 rows=0) (actual time=0.001..0.001 rows=0 loops=283)\n                    -> Single-row index lookup on City using PRIMARY (CityID=Concert.CityID)  (cost=0.25 rows=1) (actual time=0.001..0.001 rows=1 loops=283)\n",)
+Total Time: 4.732
+
 CREATE INDEX state_name_index ON City (StateName(5)) USING HASH;
 
 ("-> Filter: (numConcerts >= 3)  (actual time=1.158..1.161 rows=14 loops=1)\n    -> Table scan on <temporary>  (actual time=0.001..0.002 rows=14 loops=1)\n        -> Aggregate using temporary table  (actual time=1.157..1.159 rows=14 loops=1)\n            -> Nested loop inner join  (cost=159.75 rows=42) (actual time=0.060..1.011 rows=85 loops=1)\n                -> Filter: (Concert.`Date` like '%/2022')  (cost=115.65 rows=126) (actual time=0.044..0.651 rows=283 loops=1)\n                    -> Table scan on Concert  (cost=115.65 rows=1134) (actual time=0.041..0.373 rows=1134 loops=1)\n                -> Filter: (City.Lng > -90.000000)  (cost=0.25 rows=0) (actual time=0.001..0.001 rows=0 loops=283)\n                    -> Single-row index lookup on City using PRIMARY (CityID=Concert.CityID)  (cost=0.25 rows=1) (actual time=0.001..0.001 rows=1 loops=283)\n",)
 
 Total Time: 4.359
+
 
 ```
 
