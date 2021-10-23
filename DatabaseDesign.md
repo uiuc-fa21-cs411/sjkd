@@ -42,6 +42,40 @@ CREATE TABLE Song (
     PRIMARY KEY (SongID),
     FOREIGN KEY (CityID) REFERENCES City(CityID)
 );
+```
 
+## Advanced Query 1
+```
+Query 1 EXPLAIN ANALYZE output without indexing:
+
+[("-> Filter: (numConcerts >= 3)  (actual time=1.125..1.128 rows=14 loops=1)\n    
+-> Table scan on <temporary>  (actual time=0.001..0.002 rows=14 loops=1)\n       
+ -> Aggregate using temporary table  (actual time=1.124..1.125 rows=14 loops=1)\n           
+ -> Nested loop inner join  (cost=159.75 rows=42) (actual time=0.084..0.965 rows=85 loops=1)\n               
+ -> Filter: (Concert.`Date` like '%/2022')  (cost=115.65 rows=126) (actual time=0.063..0.583 rows=283 loops=1)\n                    
+-> Table scan on Concert  (cost=115.65 rows=1134) (actual time=0.060..0.334 rows=1134 loops=1)\n                
+-> Filter: (City.Lng > -90.000000)  (cost=0.25 rows=0) (actual time=0.001..0.001 rows=0 loops=283)\n                    
+-> Single-row index lookup on City using PRIMARY (CityID=Concert.CityID)  (cost=0.25 rows=1) (actual time=0.001..0.001 rows=1 loops=283)\n",)]
+
+Total time: 4.139 ms
+```
+
+### Analysis
+
+## Advanced Query 2
 
 ```
+Query 2 EXPLAIN ANALYZE output without indexing:
+
+('-> Sort: `count(Song.CityID)` DESC  (actual time=1.467..1.469 rows=15 loops=1)\n   
+ -> Filter: (count(Song.CityID) >= 7)  (actual time=0.962..1.451 rows=15 loops=1)\n       
+ -> Stream results  (cost=1189.55 rows=2156) (actual time=0.961..1.445 rows=43 loops=1)\n            -> Group aggregate: count(Song.CityID), count(Song.CityID)  (cost=1189.55 rows=2156) (actual time=0.956..1.422 rows=43 loops=1)\n                
+-> Nested loop inner join  (cost=973.95 rows=2156) (actual time=0.088..1.231 rows=2156 loops=1)\n                    
+-> Filter: (Song.CityID is not null)  (cost=219.35 rows=2156) (actual time=0.076..0.680 rows=2156 loops=1)\n                        
+-> Index scan on Song using CityID  (cost=219.35 rows=2156) (actual time=0.074..0.561 rows=2156 loops=1)\n                    
+-> Single-row index lookup on City using PRIMARY (CityID=Song.CityID)  (cost=0.25 rows=1) (actual time=0.000..0.000 rows=1 loops=2156)\n',)
+
+Total time: 8.259
+```
+
+### Analysis
