@@ -1,0 +1,52 @@
+<!doctype html>
+
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2 style="text-align: center;">Songs Table</h2>
+<body> 
+    <table>
+        <thead>
+            <tr>
+                <th>SongID</th>
+                <th>CityID</th>
+                <th>SongName</th>
+                <th>Artist</th>
+                <th>SpotifyID</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody id="list_songs">
+            {% for i in range(50) %}
+                <tr>
+                    <td>{{songs[i][0]}}</td>
+                    <td>{{songs[i][1]}}</td>
+                    <td>{{songs[i][2]}}</td>
+                    <td>{{songs[i][3]}}</td>
+                    <td>{{songs[i][4]}}</td>
+                    <td>{{songs[i][5]}}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+
+    </table>
+</body>

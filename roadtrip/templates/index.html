@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+<div class="row text-center">
+  <div class="col">
+    <h1>{{ title}}</h1>
+  </div>
+</div>
+<br/><br/>
+<div class="row">
+  <div class="form-group col">
+    <label for="sql-text-area">We have one table named "airports". Enter query below and run.</label>
+    <textarea class="form-control" id="sql-text-area" rows="5"></textarea>
+  </div>
+</div>
+<div class="row">
+  <div class="result-table col">
+    <div id="canvas-result-table" style="height: 500px"></div>
+  </div>
+  <div class="result-chart col">
+    <div id="canvas-result-plot" style="height: 500px"></div>
+  </div>
+</div>
+<div class="row text-center">
+  <div class="col">
+    <button class="btn btn-primary" id="sendButton">Run</button>
+  </div>
+</div>
+{% endblock %}
