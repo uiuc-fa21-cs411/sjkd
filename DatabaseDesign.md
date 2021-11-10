@@ -50,6 +50,10 @@ CREATE TABLE Song (
 [Concerts](https://github.com/uiuc-fa21-cs411/sjkd/blob/main/tables/concerttable.csv)
 
 ## Advanced Query 1
+<p align="center">
+<img src="Q1_results.png" width="400"/>
+</p>
+
 ```
 Query 1 EXPLAIN ANALYZE output without indexing:
 
@@ -67,6 +71,9 @@ Total time: 4.139 ms
 ```
 
 ## Advanced Query 2
+<p align="center">
+<img src="Q2_results.png" width="400"/>
+</p>
 
 ```
 Query 2 EXPLAIN ANALYZE output without indexing:
@@ -84,3 +91,17 @@ Total time: 8.259
 
 ### Indexing
 [Outputs and Analysis](https://docs.google.com/document/d/1H-vxBEzS4skHhmzbkW2LONUZ39-DrrFnIGNI5PnBo-A/edit?usp=sharing)
+
+The four indexes we used for both queries were:
+
+	CREATE INDEX city_name_index ON City (CityName(5)) USING BTREE;
+	CREATE INDEX city_name_index ON City (CityName(5)) USING HASH;
+	CREATE INDEX state_name_index ON City (StateName(5)) USING BTREE;
+    CREATE INDEX state_name_index ON City (StateName(5)) USING HASH;
+
+For both queries, we used only the first 5 elements because that was the most efficient way we could index on them without compromising accuracy. 
+For the first query, we found that indexing on city names was marginally better with hash (3.889) than it was with b-tree (5.218), but the output with the hash indexing didn’t have much of an improvement compared to no indexing (4.139). We also found that indexing on state names was also very slightly better with hash (4.359) than it was with b-tree (4.732), and that there was no improvement from when no indexing was used, so it would probably be better not to use indexing at all for this query. 
+	
+For the second query, for the city names we found it was more efficient with hash (8.171) again than b-tree (8.511). Using hash is slightly better than it is without indexing (8.259), but the difference is very minimal. For state names, we actually found b-tree (8.258) to be more efficient than using hash (8.321), but there is no improvement compared to no indexing, so again it would probably be better not to use indexing at all for it. We also found that all the inefficiency on this is from the use of cityID, but since this is a primary key, there is no way we can easily index on this and therefore cannot gain much improvement. 
+
+For both queries, we don’t see any significant improvement on efficiency with the indexes. The issue with both is that there are not any convenient columns to index on. We chose to index on the city and state because it is easy to identify them based on the first few characters, so it would be easier for us to read and understand the outputs. We also specifically chose city_name and state_name because they are not primary keys, and we can’t index on a primary key. 
