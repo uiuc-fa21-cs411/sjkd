@@ -1,0 +1,13 @@
+SELECT city_name, state_name, count(concerts.concert_id) as numConcerts
+FROM concerts 
+LEFT JOIN cities on concerts.city_id = cities.city_id
+WHERE lng > -90 and concert_date like "%/2022"
+GROUP by city_name, state_name
+HAVING numConcerts >= 3;
+
+SELECT songs2.city_id, city_name, state_name, count(songs2.city_id)
+FROM songs2
+INNER JOIN cities on cities.city_id = songs2.city_id
+GROUP by songs2.city_id
+HAVING count(songs2.city_id) >= 7
+ORDER by count(songs2.city_id) DESC;

@@ -43,6 +43,11 @@ $( document ).ready(function() {
     $("#queryButton").click(function() {
         getData($("#sql-text-area").val())
     })
+    $("#searchButton").click(function() {
+        keyword = $("#keyword-text-area").val()
+        query = "SELECT * FROM songs WHERE song_id LIKE '%" + keyword + "%' OR song_name LIKE '%" + keyword + "%' OR artist_name LIKE '%" + keyword + "%' OR city_id LIKE '%" + keyword + "%' OR spotify_song_id LIKE '%" + keyword + "%' OR duration_s LIKE '%" + keyword + "%' "
+        getData(query)
+    })
     $("#selectButton").click(function() {
         getData("select * from " + $("#table-selection").val())
     })

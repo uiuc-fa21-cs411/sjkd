@@ -35,13 +35,13 @@
       <div id="canvas-result-table" style="height: 500px"></div>
     </div>
 </div>
-
+<div class="col">
 <div class="row text-center">
-    <div class="col">
-        <form action="{{url_for('create')}}"><button class="btn btn-primary" id="createPage">Create</button></form>
-        <form action="{{url_for('delete')}}"><button class="btn btn-primary" id="deletePage">Delete</button></form>
-        <form action="{{url_for('update')}}"><button class="btn btn-primary" id="updatePage">Update</button></form>
-        <button class="btn btn-primary" id="deleteButton">Search</button>
-    </div>
+    <form action="{{url_for('create')}}"><button class="btn btn-primary" id="createPage">Create</button></form>
+    <form action="{{url_for('delete')}}"><button class="btn btn-primary" id="deletePage">Delete</button></form>
+    <form action="{{url_for('update')}}"><button class="btn btn-primary" id="updatePage">Update</button></form>
+    <form action="{{url_for('search')}}"><button class="btn btn-primary" id="searchPage">Search</button></form>
+    <form action="{{url_for('query')}}"><button class="btn btn-primary" id="queryPage">Query</button></form>
+</div>
 </div>
 {% endblock %}

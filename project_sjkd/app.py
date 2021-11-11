@@ -90,10 +90,13 @@ def update():
         con.close()
     return ''
 
-
+@app.route('/search', methods=['GET'])
+def search():
+    title = 'Search for a keyword'
+    return render_template('search.html', title=title)
 
 @app.route('/query', methods=['GET'])
-def query_landing():
+def query():
     title = 'Query the Database'
     return render_template('query.html', title=title)
 
@@ -101,6 +104,7 @@ def query_landing():
 @app.route('/query', methods=['POST'])
 def process_query():
     sql = request.form['query_string']
+    print(sql)
     con = sqlite3.connect(sqlite_uri)
     df = pandas.read_sql_query(sql, con).head(row_limit)
     con.close()
@@ -141,4 +145,5 @@ if __name__ == '__main__':
     insert_into_sqlite('data/concerttable.csv', 'concerts')
     insert_into_sqlite('data/routetable.csv', 'routes')
     insert_into_sqlite('data/citytable.csv', 'cities')
+    insert_into_sqlite('data/songtable(full).csv', 'songs2')
     app.run(debug=False)
