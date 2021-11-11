@@ -1,0 +1,36 @@
+name: sjkd_env
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.7.5
+  - certifi=2021.5.30
+  - libffi=3.3
+  - ncurses=6.2
+  - openssl=1.1.1l
+  - pandas
+  - pip=21.0.1
+  - python=3.7.11
+  - readline=8.1
+  - setuptools=58.0.4
+  - sqlite=3.36.0
+  - tk=8.6.10
+  - wheel=0.37.0
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - charset-normalizer==2.0.6
+    - click==8.0.1
+    - flask==2.0.1
+    - idna==3.2
+    - importlib-metadata==4.8.1
+    - itsdangerous==2.0.1
+    - jinja2==3.0.1
+    - markupsafe==2.0.1
+    - mysql-connector-python==8.0.26
+    - protobuf==3.18.0
+    - requests==2.26.0
+    - typing-extensions==3.10.0.2
+    - urllib3==1.26.7
+    - werkzeug==2.0.1
+    - zipp==3.5.0
+prefix: /Users/sajay/miniconda3/envs/cs411

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+<div class="row text-center">
+    <div class="col">
+      <h1>{{title}}</h1>
+    </div>
+</div>
+<form name = "create-selection" method="GET" action="{{url_for('index')}}">
+  {% for col in columns %}
+    <label for={{col}}>{{col}}:</label><br>
+    <input type="text" id={{col}} name={{col}}><br>
+  {%endfor%}
+  <input type="submit" id=createButton name=submit><br>
+</form> 
+
+{% endblock %}

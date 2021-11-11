@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+<div class="row text-center">
+  <div class="col">
+    <h1>{{title}}</h1>
+  </div>
+</div>
+<br/><br/>
+<div class="row text-center">
+    <div class="col">
+        <form>
+            <label for="table-selection">Select what you would like to do:  </label>
+            <select name="tables" id="table-selection">
+                <option value="songs">modify songs</option>
+                <option value="concerts">modify concerts</option>
+                <option value="routes">modify routes</option>
+                <option value="cities">modify cities</option>
+            </select>
+        </form>
+    </div>
+</div>
+
+<div class="row text-center">
+    <div class="col">
+        <button class="btn btn-primary" id="selectButton">Run</button>
+    </div>
+</div>
+
+<div class="row">
+    <div class="result-table col">
+      <div id="canvas-result-table" style="height: 500px"></div>
+    </div>
+</div>
+
+<div class="row text-center">
+    <div class="col">
+        <form action="{{url_for('create')}}"><button class="btn btn-primary" id="createPage">Create</button></form>
+        <form action="{{url_for('delete')}}"><button class="btn btn-primary" id="deletePage">Delete</button></form>
+        <form action="{{url_for('update')}}"><button class="btn btn-primary" id="updatePage">Update</button></form>
+        <button class="btn btn-primary" id="deleteButton">Search</button>
+    </div>
+</div>
+{% endblock %}
