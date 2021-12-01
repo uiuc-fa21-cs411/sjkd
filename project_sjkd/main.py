@@ -24,7 +24,12 @@ mycursor = mydb.cursor()
 def index():
     title = 'Roadtrip Playlist Generator'
     playlist_count = 1
-    mycursor.execute('select CityName, CityID from City')
+
+    mycursor.execute('\
+        select CityName, City.CityID, COUNT(SongID) \
+        from City inner join Song on City.CityID = Song.CityID \
+        group by City.CityID \
+        having COUNT(SongID) > 0 ')
     cities_list = [str(row[1]) + ': ' + str(row[0]) for row in mycursor]
 
     return render_template('starting_city.html', title=title, cities_list=cities_list)
@@ -32,8 +37,15 @@ def index():
 @app.route('/from/<starting_city>')
 def enter_end(starting_city):
     title = 'Roadtrip Playlist Generator'
+    srcID, _ = str(starting_city).split(": ")
 
-    mycursor.execute('select CityName, CityID from City')
+
+    mycursor.execute('\
+        select CityName, City.CityID, COUNT(SongID) \
+        from City inner join Song on City.CityID = Song.CityID \
+        where City.CityID != '+srcID+' \
+        group by City.CityID \
+        having COUNT(SongID) > 0 ')
     cities_list = [str(row[1]) + ': ' + str(row[0]) for row in mycursor]
 
     return render_template('ending_city.html', title=title, src=starting_city, cities_list=cities_list)
