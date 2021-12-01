@@ -5,6 +5,8 @@ from flask import Flask, render_template, make_response
 from flask import redirect, request, jsonify, url_for
 from flask import stream_with_context, Response
 
+host = '20.88.14.242'
+port = '10038'
 
 sqlite_uri = 'roadtrip.db'
 row_limit = 1000
@@ -146,4 +148,4 @@ if __name__ == '__main__':
     insert_into_sqlite('data/routetable.csv', 'routes')
     insert_into_sqlite('data/citytable.csv', 'cities')
     insert_into_sqlite('data/songtable(full).csv', 'songs2')
-    app.run(debug=False)
+    app.run(port=port)
