@@ -79,9 +79,49 @@ def generate_playlist(starting_city, ending_city):
     srcID, src = str(starting_city).split(": ")
     destID, dest = str(ending_city).split(": ")
     title = 'Roadtrip Playlist Generator'
+    print(src)
+    print(dest)
 
-    mycursor.execute('select * from Song')
-    playlist = mycursor.fetchall()
+    title = 'Roadtrip Playlist Generator'
+
+    # Get trip time length
+    time_query = '\
+        select TravelTime_min \
+        from Route \
+        where (StartCityID = '+srcID+' and EndCityID = '+destID+') \
+            or (StartCityID = '+destID+' and EndCityID = '+srcID+')'
+    mycursor.execute(time_query)
+    result = mycursor.fetchall()
+    if (len(result) <= 0):
+        return render_template('display_playlist.html', title="Could not create playlist", playlist=[])
+    route_time_min = result[0][0]
+    print(route_time_min)
+
+    # Get songs from each city
+    # Fill up to half of the road trip with one city's songs
+    song_query_start = '\
+        select SongName, ArtistName, Song.Duration, CityName \
+        from Song inner join City on Song.CityID = City.CityID \
+        where City.CityID = '
+    song_query_end = ' order by SongID'
+    
+    playlist = []
+    playlist_time_min = 0
+    mycursor.execute(song_query_start + srcID + song_query_end)
+    for row in mycursor.fetchall():
+        if (playlist_time_min >= route_time_min / 2):
+            break
+        playlist.append(row)
+        playlist_time_min += row[2] / 60 + 1
+    print(playlist_time_min)
+    
+    mycursor.execute(song_query_start + destID + song_query_end)
+    for row in mycursor.fetchall():
+        if (playlist_time_min >= route_time_min):
+            break
+        playlist.append(row)
+        playlist_time_min += row[2] / 60 + 1
+    print(playlist_time_min)
 
     return render_template('display_playlist.html', title=title, playlist=playlist)
 
