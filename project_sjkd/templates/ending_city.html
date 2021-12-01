@@ -48,7 +48,7 @@
 
 <ul id="myUL">
     {% for city in cities_list %}
-        <li><a href="{{url_for('generate_playlist', starting_city=src, ending_city=city)}}">{{city}}</a></li>
+        <li><a href="{{url_for('add_playlist', starting_city=src, ending_city=city)}}">{{city}}</a></li>
     {%endfor%}
 </ul>
 
