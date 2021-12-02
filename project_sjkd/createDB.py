@@ -95,9 +95,11 @@ print([row for row in mycursor])
 mycursor.execute('select * from Song where SongID = 1;')
 print([row for row in mycursor])
 
-# mycursor.execute("create table Playlist (\
-    #     User VARCHAR(100),\
-    #     PlaylistID INT,\
-    #     StartingCity VARCHAR(100),\
-    #     EndingCity VARCHAR(100),\
-    #     PRIMARY KEY (PlaylistID) );")
+# mycursor.execute('create table Playlist (\
+#         PlaylistID INT,\
+#         User VARCHAR(100),\
+#         StartCityID INT,\
+#         EndCityID INT,\
+#         PRIMARY KEY (PlaylistID),\
+#         FOREIGN KEY (StartCityID) REFERENCES City(CityID),\
+#         FOREIGN KEY (EndCityID) REFERENCES City(CityID) )')
