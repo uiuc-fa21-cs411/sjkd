@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+<style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+</style>
+<div class="row text-center">
+    <div class="col">
+      <h1>{{title}}</h1>
+    </div>
+</div>
+
+<div style="height: 400px;  overflow-y:auto">
+    <table>
+        <tr>
+            <th>PlaylistID</th>
+            <th>User</th>
+            <th>StartingCity</th>
+            <th>EndingCity</th>
+            <th>View</th>
+            <th>Delete</th>
+        </tr>
+    
+        {% for item in playlist %}
+            <tr>
+                <td>{{item[0]}}</td>
+                <td>{{item[1]}}</td>
+                <td>{{item[2]}}</td>
+                <td>{{item[3]}}</td>
+                <td><form action="{{url_for('generate_playlist_concerts', starting_city=item[2], ending_city=item[3])}}"><button class="btn btn-primary" id="viewPlaylist">VIEW</button></form></td>
+                <td><form action="{{url_for('delete_playlist', playlistID=item[0])}}"><button class="btn btn-primary" id="deletePlaylist">DELETE</button></form></td>
+            </tr>
+        {% endfor %}
+    </table>    
+</div>
+
+<form action="{{url_for('enter_start')}}"><button class="btn btn-primary" id="addPlaylist">Add another playlist</button></form>
+
+{% endblock %}
