@@ -23,7 +23,8 @@
 </style>
 <div class="row text-center">
     <div class="col">
-      <h1>{{title}}</h1>
+      <h1>Your Trip from {{start}} to {{end}}</h1>
+      <h3>Created Playlist ({{time//60}} hr {{time%60}} min)</h3>
     </div>
 </div>
 
@@ -40,7 +41,8 @@
             <tr>
                 <td>{{item[0]}}</td>
                 <td>{{item[1]}}</td>
-                <td>{{item[2] // 60}} min {{item[2] % 60}} sec</td>
+                <td><script></script>
+                  {{item[2]//60}} min {{item[2]%60}} sec</td>
                 <td>{{item[3]}}</td>
             </tr>
         {% endfor %}
@@ -49,5 +51,31 @@
 
 <form action="{{url_for('index')}}"><button class="btn btn-primary" id="addPlaylist">Add another playlist</button></form>
 <form action="{{url_for('show_my_playlists')}}"><button class="btn btn-primary" id="showPlaylist">View playlists</button></form>
+
+<div class="row text-center">
+  <div class="col">
+    <h3>Upcoming Concerts in {{end}}</h3>
+  </div>
+</div>
+
+<div style="height: 200px;  overflow-y:auto">
+  <table>
+      <tr>
+          <th>Date</th>
+          <th>Time</th>
+          <th>Event</th>
+          <th>Location</th>
+      </tr>
+
+      {% for item in concerts %}
+          <tr>
+              <td>{{item[0]}}</td>
+              <td>{{item[1]}}</td>
+              <td>{{item[2]}}</td>
+              <td>{{item[3]}}</td>
+          </tr>
+      {% endfor %}
+  </table>    
+</div>
 
 {% endblock %}
