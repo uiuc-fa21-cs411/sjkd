@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, time
 import math
 import mysql.connector
 import pandas as pd
@@ -23,54 +23,47 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 
 ### Helper Functions ###
-def get_roadtrip_len(city1, city2):
-    time_query = f'\
-        select TravelTime_min \
-        from Route \
-        where (StartCityID = {city1} and EndCityID = {city2}) \
-            or (StartCityID = {city2} and EndCityID = {city1})'
-    mycursor.execute(time_query)
-    result = mycursor.fetchall()
-    if (len(result) <= 0):
-        return render_template('display_playlist.html', title="Could not create playlist", playlist=[])
-    route_time_min = result[0][0]
-    return route_time_min
+def create_procedure():
+    procedure = '\
+        create procedure generate_playlist_concerts(IN src INT, IN dest INT, IN select_flag VARCHAR(10), IN today VARCHAR(15), OUT playlist_time INT) \
+        begin \
+            set playlist_time = 0; \
+            if (select_flag = \"playlist\") then \
+                select SongName, ArtistName, Song.Duration, CityName \
+                from Song inner join City on Song.CityID = City.CityID \
+                where City.CityID = src \
+                order by SongID; \
+                select SongName, ArtistName, Song.Duration, CityName \
+                from Song inner join City on Song.CityID = City.CityID \
+                where City.CityID = dest \
+                order by SongID; \
+            else \
+                select Date, Time, ConcertName, Location \
+                from Concert \
+                where Date >= today and CityID = dest \
+                order by ConcertID \
+                limit 5; \
+            end if; \
+        end'
+    mycursor.execute(procedure)
 
-def generate_playlist(start, end, trip_time):
-    song_query_start = '\
-        select SongName, ArtistName, Song.Duration, CityName \
-        from Song inner join City on Song.CityID = City.CityID \
-        where City.CityID = '
-    song_query_end = ' order by SongID'
-    
-    # Fill up to half of the road trip with one city's songs
-    playlist = []
-    playlist_time_min = 0
-    mycursor.execute(song_query_start + start + song_query_end)
-    for row in mycursor.fetchall():
-        if (playlist_time_min >= trip_time / 2):
-            break
-        playlist.append(row)
-        playlist_time_min += row[2] / 60 + 1
-    print(playlist_time_min)
-    
-    mycursor.execute(song_query_start + end + song_query_end)
-    for row in mycursor.fetchall():
-        if (playlist_time_min >= trip_time):
-            break
-        playlist.append(row)
-        playlist_time_min += row[2] / 60 + 1
-    print(playlist_time_min)
-    return playlist, playlist_time_min
+def delete_procedure():
+    mycursor.execute('drop procedure if exists generate_playlist_concerts')
 
-def get_concert_list(city):
+def exec_procedure(start, end, selection):
     today = date.today().strftime("%m/%d/%y")
-    mycursor.execute(f'\
-        select Date, Time, ConcertName, Location \
-        from Concert \
-        where Date >= {today} and CityID = {city} \
-        limit 5')
-    return mycursor.fetchall()
+    print("Running Procedure")
+    args = mycursor.callproc('generate_playlist_concerts', (start, end, selection, today, None))
+    print("Procedure done")
+
+    playlist_time = args[4]
+    print(playlist_time)
+    
+    selection = []
+    for result in mycursor.stored_results():
+        selection.append(row for row in result.fetchall())
+    
+    return selection, playlist_time
 
 ### Routing Functions ###
 @app.route('/')
@@ -155,11 +148,10 @@ def generate_playlist_concerts(starting_city, ending_city):
     srcID, src = str(starting_city).split(": ")
     destID, dest = str(ending_city).split(": ")
 
-    roadtrip_time = get_roadtrip_len(srcID, destID)
-    playlist,playlist_time_min = generate_playlist(srcID, destID, roadtrip_time)
-    concert_list = get_concert_list(destID)
+    playlist, roadtrip_time = exec_procedure(srcID, destID, 'playlist')
+    concert_list, _ = exec_procedure(srcID, destID, 'concerts')
 
-    return render_template('display_playlist.html', start=src, end=dest, playlist=playlist, time=int(playlist_time_min), concerts=concert_list)
+    return render_template('display_playlist.html', start=src, end=dest, playlist=playlist, time=int(roadtrip_time), concerts=concert_list)
 
 @app.route('/myplaylists')
 def show_my_playlists():
@@ -171,4 +163,6 @@ def show_my_playlists():
     return render_template('my_playlists.html', title=title, playlist=playlist)
 
 if __name__ == '__main__':
+    delete_procedure()
+    create_procedure()
     app.run(port=port)
