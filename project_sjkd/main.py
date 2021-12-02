@@ -8,7 +8,7 @@ from flask import stream_with_context, Response
 from datetime import date
 
 host = '0.0.0.0'
-port = '10036'
+port = '10038'
 
 user = 'test_user'
 playlist_count = 0
@@ -78,6 +78,16 @@ def index():
     title = 'Roadtrip Playlist Generator'
     playlist_count = 1
 
+    mycursor.execute('select * from Playlist')
+    playlist = mycursor.fetchall()
+
+    return render_template('my_playlists.html', title=title, playlist=playlist)
+
+@app.route('/from/')
+def enter_start():
+    title = 'Roadtrip Playlist Generator'
+    playlist_count = 1
+
     mycursor.execute('\
         select CityName, City.CityID, COUNT(SongID) \
         from City inner join Song on City.CityID = Song.CityID \
@@ -114,17 +124,14 @@ def add_playlist(starting_city, ending_city):
         group by User'
     mycursor.execute(select)
     playlist_count = mycursor.fetchall()
-    print(playlist_count)
     if (len(playlist_count) <= 0):
         new_id = 0
     else:
-        new_id = playlist_count[0][0] + 1
+        new_id = playlist_count[0][0]
 
-    insert = f'\
-        insert into Playlist \
-        values ({new_id}, \'{user}\', \'{srcID}\', \'{destID}\')'
+    insert = f'insert into Playlist \
+        values ({new_id}, \'{user}\', \'{starting_city}\', \'{ending_city}\');'
     mycursor.execute(insert)
-
     return redirect(url_for('generate_playlist_concerts', starting_city=starting_city, ending_city=ending_city))
 
 @app.route('/delete/playlist/<playlistID>')
@@ -135,11 +142,11 @@ def delete_playlist(playlistID):
     select = 'SELECT * FROM Playlist ORDER BY PlaylistID DESC LIMIT 1;'
     mycursor.execute(select)
     temp = mycursor.fetchall()
-
-    for pid in range(temp[0][1] + 1):
-        if (pid > int(playlistID)):
-            update = f'UPDATE Playlist SET PlaylistID = PlaylistID - 1 WHERE PlaylistID = {pid};'
-            mycursor.execute(update)
+    if (temp):
+        for pid in range(temp[0][0] + 1):
+            if (pid > int(playlistID)):
+                update = f'UPDATE Playlist SET PlaylistID = PlaylistID - 1 WHERE PlaylistID = {pid};'
+                mycursor.execute(update)
 
     return redirect(url_for('show_my_playlists'))
 
@@ -147,8 +154,6 @@ def delete_playlist(playlistID):
 def generate_playlist_concerts(starting_city, ending_city):
     srcID, src = str(starting_city).split(": ")
     destID, dest = str(ending_city).split(": ")
-    print(src)
-    print(dest)
 
     roadtrip_time = get_roadtrip_len(srcID, destID)
     playlist,playlist_time_min = generate_playlist(srcID, destID, roadtrip_time)
